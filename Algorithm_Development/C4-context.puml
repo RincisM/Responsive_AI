@@ -1,0 +1,12 @@
+@startuml C4_Elements
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
+Person(user, "User")
+System(algorithm, "Program Code")
+Container(dataset, "Dataset", "Youtube Dataset")
+Container(output, "Output", "Biased or Not")
+
+Rel(user, dataset, "contains")
+Rel(user, algorithm, "Detect Bias")
+Rel(algorithm, output,"processed")
+@enduml
