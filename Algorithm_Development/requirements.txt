@@ -1,0 +1,8 @@
+google_api_python_client==2.108.0
+langdetect==1.0.9
+pandas==1.5.3
+Requests==2.31.0
+streamlit==1.23.1
+streamlit_lottie==0.0.5
+vaderSentiment==3.3.2
+vaderSentiment==3.3.2
