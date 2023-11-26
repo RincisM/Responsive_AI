@@ -235,7 +235,7 @@ elif selected_nav == "Contact Us":
 
     # Provide email IDs
     st.write("1. General Inquiries: rincismelvin25@gmail.com")
-    st.write("2. Technical Support: u192519.kailashchandrankailashchandran@gmail.com")
+    st.write("2. Technical Support: u192519.kailashchandran@gmail.com")
     st.write("3. Project Related Queries: ntkarthi29@gmail.com")
     # Add more email IDs as needed
 
