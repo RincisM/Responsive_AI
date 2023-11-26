@@ -151,7 +151,7 @@ elif selected_nav == "About Us":
     st.write("Here you can find information about the Algorithm Development Team.")
 
     # Dummy avatars and brief info
-    st.image("./images/avatar.png", caption="Kailash Chandran J\nRoll: 2022179007\nEmail: kailashchandran99999@gmail.com")
+    st.image("./images/avatar.png", caption="Kailash Chandran J\nRoll: 2022179007\nEmail: u192519.kailashchandran@gmail.com")
     st.image("./images/avatar.png", caption="Rincis Melvin M\nRoll: 2022179025\nEmail: rincismelvin25@gmail.com")
     st.image("./images/avatar.png", caption="Karthikkeyan N T\nRoll: 2022179032\nEmail: ntkarthi29@gmail.com")
 
@@ -235,7 +235,7 @@ elif selected_nav == "Contact Us":
 
     # Provide email IDs
     st.write("1. General Inquiries: rincismelvin25@gmail.com")
-    st.write("2. Technical Support: kailashchandran99999@gmail.com")
+    st.write("2. Technical Support: u192519.kailashchandrankailashchandran@gmail.com")
     st.write("3. Project Related Queries: ntkarthi29@gmail.com")
     # Add more email IDs as needed
 
