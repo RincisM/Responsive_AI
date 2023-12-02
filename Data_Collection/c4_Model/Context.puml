@@ -1,0 +1,22 @@
+@startuml
+
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
+skinparam DefaultFontName Courier
+
+title "Data Collection and Bias Mitigation"
+
+Container(dataCollection, "Data Collection", "Raw datas are collected\nin various formats (text, xlrd, csv)")
+
+System_Boundary(app,"Model") {
+    Container(dataProcessing, "Data Processing", "Cleaning, organizing, and visualizing\nthe dataset for ML model training and analysis")
+    Container(biasMitigation, "Bias Mitigation", "Eliminate or reduce bias in the dataset")
+}
+
+System_Ext(result, "Balanced datasets, Reduced disparities,\nImproved fairness metrics")
+
+dataCollection --> dataProcessing : Send the raw dataset for processing
+dataProcessing --> biasMitigation
+biasMitigation --> result
+
+@enduml

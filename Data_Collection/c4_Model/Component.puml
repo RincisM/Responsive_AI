@@ -1,0 +1,32 @@
+@startuml
+
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
+skinparam DefaultFontName Courier
+
+title "Data Processing and Bias Mitigation Workflow"
+
+Container(datacollection, "Data Collection", "Aggregation of datasets in various formats\nincluding text, CSV, and XLRD.")
+
+System_Boundary(app,"Model") {
+    Container(datapreprocessing, "Data Preprocessing", "Preprocessing involves cleaning and organizing\nraw data to prepare it for machine learning model training.")
+    Container(datavisualization, "Data Visualization", "Visualization techniques are employed to analyze\nthe distribution of data, identify outliers, and detect class imbalances.")
+    Container(model, "Machine Learning Model", "A program designed to identify patterns\nand make decisions based on previously unseen datasets.")
+    Container(biasmitigation, "Bias Mitigation", "Mitigation strategies are applied to eliminate or reduce\nbiases such as Selection bias, Measurement bias, etc.")
+}
+
+System_Ext(result, "Balanced datasets, Reduced disparities,\nImproved fairness metrics")
+
+datacollection --> datapreprocessing :send the raw datasets to preprocessing
+
+' Rel_R(datacollection, datapreprocessing, "Send the raw datasets to preprocessing")
+Rel_D(datapreprocessing, datavisualization, "Send the processed data to data visualization")
+Rel_D(datavisualization,model,"Send the processed datset to Machine learning model for initial accuracy")
+Rel_D(model,biasmitigation, "Send the processed dataset to bias mitigation")
+Rel_D(biasmitigation, model, "Send the resultant datasets to model\nto assess if biases are effectively reduced")
+Rel_D(model, datacollection, "If biases persist, collect more diverse data in data collection")
+Rel_D(model, datapreprocessing, "Handle missing data differently in data preprocessing")
+
+Rel(model, result, "Yes")
+
+@enduml
