@@ -1,0 +1,41 @@
+@startuml
+!define ICONURL https://raw.githubusercontent.com/rabelenda/cicon-plantuml-sprites/v10.0/sprites
+!define ICONSIZE 32
+
+!define HEADER class abstract, non-sizable
+
+package "YouTube Video Classification App" {
+  [Streamlit UI] as UI #orange
+  [Video Analyzer] as Analyzer #orange
+}
+
+package "External Services" {
+  [YouTube API] as YouTubeAPI #lightblue
+  [NLTK] as NLTK #lightblue
+  [Profanity Check] as ProfanityCheck #lightblue
+  [Matplotlib\nWordCloud] as Plotting #lightblue
+}
+
+database "YouTube" {
+  [Video Transcript] #lightblue
+}
+
+[UI] --> [Analyzer] : User Input
+[Analyzer] --> [YouTubeAPI] : Fetches Video Info
+[Analyzer] --> [YouTubeAPI] : Fetches Transcript
+[Analyzer] --> [NLTK] : Sentiment Analysis
+[Analyzer] --> [ProfanityCheck] : Explicit Content Analysis
+[Analyzer] --> [Plotting] : Generates Plots
+[Analyzer] --> [YouTube] : Stores Transcript
+[UI] --> [Analyzer] : Button Click
+
+[YouTubeAPI] --> [YouTube API]
+[NLTK] --> [Sentiment Analysis]
+[ProfanityCheck] --> [Explicit Content Analysis]
+[Plotting] --> [Matplotlib\nWordCloud]
+
+[Analyzer] --> [Sentiment Analysis]
+[Analyzer] --> [Explicit Content Analysis]
+[Analyzer] --> [Plotting]
+
+@enduml
