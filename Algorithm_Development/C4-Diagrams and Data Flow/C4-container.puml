@@ -1,0 +1,18 @@
+@startuml C4_Elements
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
+Container(frontend, "Frontend", "Streamlit")
+Container(backend, "Backend", "Python")
+Container(youtube_api, "YouTube API", "External service")
+
+Rel(user, frontend, "Interacts with", "Web browser")
+Rel(frontend, backend, "Sends requests", "REST API")
+Rel(backend, youtube_api, "Fetches comments", "API calls")
+Rel(youtube_api, dataset, "Provides data", "REST API")
+Rel(backend, dataset, "Stores comments", "Database")
+Rel(backend, algorithm, "Processes comments", "Python libraries")
+Rel(algorithm, output, "Stores results", "Database")
+Rel(frontend, output, "Retrieves data", "REST API")
+Rel(frontend, output, "Displays data", "Streamlit components")
+
+@enduml

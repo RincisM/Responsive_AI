@@ -1,0 +1,21 @@
+@startuml C4_Elements
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Component.puml
+
+Container(backend, "Backend", "Python")
+
+Container(youtube_data_api, "YouTube Data API", "External service")
+    Component(search, "Search for videos", "youtube.search() API call")
+    Component(comments, "Fetch comments", "youtube.commentThreads().list() API call")
+
+Container(analysis, "Analysis", "Python libraries")
+    Component(sentiment_analyzer, "Sentiment analysis", "vaderSentiment.vaderSentiment.SentimentIntensityAnalyzer")
+    Component(data_processing, "Data processing", "Pandas")
+
+Container(database, "Database", "MySQL")
+
+Rel(backend, youtube_data_api, "Fetches data", "API calls")
+Rel(youtube_data_api, database, "Stores comments", "Database persistence")
+Rel(backend, analysis, "Processes data", "Python libraries")
+Rel(analysis, database, "Reads comments", "Database access")
+
+@enduml

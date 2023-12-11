@@ -1,0 +1,30 @@
+@startuml C4_Elements
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Component.puml
+
+Container(frontend, "Frontend", "Streamlit")
+
+Container(user_interface, "User Interface", "Streamlit components")
+    Component(query_input, "Query Input", "Streamlit text input")
+    Component(video_thumbnail, "Video Thumbnail", "Streamlit image")
+    Component(sentiment_summary, "Sentiment Summary", "Streamlit text")
+    Component(download_link, "Download Link", "Streamlit button")
+
+Container(analysis_results, "Analysis Results", "Streamlit components")
+    Component(videos_by_sentiment, "Videos by Sentiment Scores", "Plotly chart")
+    Component(box_plot, "Box Plot of Sentiment Scores by Label", "Plotly chart")
+    Component(histogram, "Histogram of Sentiment Scores", "Plotly chart")
+    Component(pie_chart, "Pie Chart of Sentiment Labels Distribution", "Plotly chart")
+
+Rel(user, user_interface, "Interacts with", "Web browser")
+Rel(user_interface, query_input, "Submits query", "Streamlit event")
+Rel(query_input, backend, "Sends query", "API call")
+Rel(backend, analysis_results, "Provides data", "API response")
+Rel(analysis_results, video_thumbnail, "Displays video thumbnail", "Streamlit data binding")
+Rel(analysis_results, sentiment_summary, "Displays sentiment summary", "Streamlit data binding")
+Rel(analysis_results, download_link, "Provides download option", "Streamlit data binding")
+Rel(analysis_results, videos_by_sentiment, "Displays chart", "Plotly data binding")
+Rel(analysis_results, box_plot, "Displays chart", "Plotly data binding")
+Rel(analysis_results, histogram, "Displays chart", "Plotly data binding")
+Rel(analysis_results, pie_chart, "Displays chart", "Plotly data binding")
+
+@enduml
