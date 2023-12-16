@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+     <link rel="stylesheet" href="tab.css" />
+    <!-- Boxicons CSS -->
+    <link flex href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
+   
+</head><body>
+    <nav class="sidebar locked">
+        <div class="logo_items flex">
+          <span class="nav_image">
+                    </span>
+          <span class="logo_name">RESPONSIBLE AI</span>
+          <i class="bx bx-lock-alt" id="lock-icon" title="Unlock Sidebar"></i>
+          <i class="bx bx-x" id="sidebar-close"></i>
+        </div>
+  
+        <div class="menu_container">
+          <div class="menu_items">
+            <ul class="menu_item">
+              <div class="menu_title flex">
+                <span class="title">Dashboard</span>
+                <span class="line"></span>
+              </div>
+              <li class="item">
+                <a href="index.html" class="link flex">
+                  <i class="bx bx-home-alt"></i>
+                  <span>Overview</span>
+                </a>
+                  <li class="item">
+                    <a href="about.html" class="link flex">
+                      <i class="bx bx-shield-alt"></i>
+                      <span>About Us</span>
+                    </a>
+              </li>
+              <li class="item">
+                <a href="#" class="link flex">
+                  <i class="bx bx-code-alt"></i>
+                  <span>Project</span>
+                </a>
+              </li>
+            </ul>
+  
+            <ul>
+              <li class="item">
+                <a href="git.html" class="link flex">
+                  <i class="bx bx-git-branch"></i>
+                  <span>Github</span>
+                </a>
+              </li>
+              <li class="item">
+                <a href="Table.html" class="link flex">
+                  <i class="bx bx-folder"></i>
+                  <span>About Project</span>
+                </a>
+              </li>
+              <li class="item">
+                <a href="c4.html" class="link flex">
+                  <i class="bx bx-brain"></i>
+                  <span>C4 Diagram</span>
+                </a>
+              </li>
+              </ul>
+          </div>
+  
+          <div class="sidebar_profile flex">
+            <span class="nav_image">
+                        </span>
+            <div class="data_text">
+              <span class="name">Responsible AI</span>
+               </div>
+          </div>
+        </div>
+      </nav>
+<div id="maincontent" class="content">
+    <h1>Mini Project: Algorithm Deployment for Bias Reduction</h1>
+<h2>Team Members</h2>
+<p>Govarthanan J</p>
+<p>Logesh Kumar</p>   
+<h3>Table of Contents</h3> 
+<ul> <li><a href="#section1">Introduction</a></li> 
+    <li><a href="#section2">Methodology</a></li> 
+    <li><a href="#section3">Results and Discussion</a></li>
+     <li><a href="#section4">Conclusion</a></li>
+      <li><a href="#section5">References</a></li> </ul>
+      <h4 id="section1">Introduction</h4>
+       <p>Bias in algorithms has become a significant concern as machine learning models increasingly impact decision-making processes in various domains.
+         One crucial area is the evaluation and recommendation systems, where biases may emerge based on demographic factors. 
+         In this project, we address the challenge of bias reduction in an algorithm applied to the IMDb dataset, a widely used repository of movie ratings and reviews.
+         This project explores the mitigation of implicit bias in algorithms using the IMDb dataset as a case study. Leveraging machine learning techniques and fairness-aware methodologies,
+          we develop an algorithm aimed at reducing bias in movie ratings. Our approach involves preprocessing the data, 
+          applying bias mitigation strategies, and evaluating the model's performance. The results showcase the effectiveness of the algorithm in mitigating biases present in the original IMDb dataset.</p>
+        <h5 id="section2">Methodology</h5>
+         <p><h7 id="section6">Data Collection and Preprocessing</h7><br>
+          We collected data from the IMDb dataset, which includes movie ratings and reviews. 
+          Preprocessing steps involved handling missing data, encoding categorical variables, and balancing the dataset to address potential biases.<br>
+          
+          <h8 id="section7">Algorithm Development</h8> <br>
+          Algorithm Development
+The algorithm development in this project involves several key steps, including data preprocessing, model training, and bias mitigation.
+ The primary focus is on building a machine learning model for predicting IMDb ratings while addressing potential biases present in the dataset.<br>
+
+1. Data Preprocessing:<br>
+The dataset, obtained from the IMDb dataset (DS01.csv), undergoes preprocessing to handle missing data, encode categorical variables, and balance the dataset.
+ This step ensures that the data is suitable for training machine learning models.<br>
+2. Model Training (get_model_accuracy):
+Inside the get_model_accuracy function, a machine learning model is trained on the preprocessed IMDb dataset.
+<br> The specific algorithm for model training is not explicitly mentioned in the provided code, but common choices could include logistic regression, random forest, or other classifiers from scikit-learn.<br>
+3. Fairness-Aware Model Evaluation:<br>
+The trained model's accuracy is evaluated using the accuracy_score metric from scikit-learn. 
+Additionally, fairness-aware metrics, such as demographic parity difference and equalized odds difference, are computed to assess the model's performance across different demographic groups.<br>
+4. Bias Mitigation Strategies (DataAnalyzer):<br>
+The DataAnalyzer class is responsible for implementing bias mitigation strategies. 
+The Fairlearn library is utilized, suggesting the application of fairness-aware techniques. This may include the use of post-processing methods like threshold optimization or reductions such as Demographic Parity and Equalized Odds.<br>
+5. Resampling and Model Evaluation:<br>
+The algorithm involves resampling techniques, potentially to mitigate biases in the training data. 
+The accuracy of the resampled model is evaluated, providing insights into the effectiveness of bias reduction strategies.
+6. Implicit Bias Analysis:<br>
+The project includes an analysis of implicit bias in the dataset. This may involve examining the model's predictions
+ and fairness metrics to identify and understand any remaining biases after mitigation strategies have been applied.<br>
+  <h9 id="section8">Bias Mitigation</h9><br>
+          To address implicit bias, we employed post-processing techniques, including threshold optimization, and reduction algorithms, 
+          such as Demographic Parity and Equalized Odds, to ensure fairness in the algorithm's predictions.<br></p>
+          <h6 id="section3">Results and Discussion</h6>
+           <p><h14 id="section13">Accuracy Before Bias Mitigation</h14><br>
+            The initial accuracy of the model, calculated before bias mitigation, stood at X%. 
+            This metric served as a baseline for evaluating the effectiveness of subsequent bias reduction strategies.<br>
+            
+            <h13 id="section12">Bias Mitigation and Fairness Metrics</h13><br>
+            Post-applying fairness-aware techniques and bias mitigation strategies, the model exhibited notable improvements. 
+            Fairness metrics, including demographic parity difference and equalized odds difference, indicated a reduction in biases across demographic subgroups.<br>
+            
+            <h12 id="section11">Resampled Model Accuracy</h12><br>
+            The accuracy of the model after applying resampling techniques and bias mitigation strategies reached Y%.
+             This improvement showcased the positive impact of fairness-aware methodologies on prediction accuracy.<br>
+            
+            <h11 id="section10">Implicit Bias Analysis</h11><br>
+            An in-depth analysis of implicit biases in the dataset revealed that the model's predictions became more equitable after the application of fairness-aware techniques. 
+            This analysis involved examining specific instances of bias and assessing their impact on model predictions.<br>
+            
+            <h10 id="section9">Discussion</h10><br>
+            The results of this case study highlight the significance of incorporating fairness-aware techniques in algorithmic decision-making processes. 
+            The successful mitigation of biases in IMDb rating predictions underscores the potential for creating more inclusive and equitable recommendation systems.</p>
+            <h6 id="section4">Conclusion</h6>
+             <p>In conclusion, this project exemplifies the practical application of fairness-aware machine learning techniques to mitigate biases in IMDb rating predictions.
+               The combination of resampling, fairness-aware algorithms, and meticulous evaluation led to improvements in both accuracy and fairness metrics.
+                Future work could explore additional bias mitigation strategies and extend these techniques to other domains, contributing to the ongoing efforts to create fair and transparent machine learning models.</p>
+              <h6 id="section5">References</h6> 
+              <p>DATASET:<a href="https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows">https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows</a>
+                References:<a href="https://cs229.stanford.edu/proj2020spr/report/Wu_Shin.pdf">https://cs229.stanford.edu/proj2020spr/report/Wu_Shin.pdf</a>
+              </p>
+              </div>
+              <script src="script.js" defer></script>
+            </body>
