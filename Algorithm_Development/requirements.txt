@@ -1,8 +1,14 @@
 google_api_python_client==2.108.0
 langdetect==1.0.9
+matplotlib==3.8.0
 pandas==1.5.3
+plotly==5.18.0
 Requests==2.31.0
+scipy==1.11.4
+seaborn==0.13.0
 streamlit==1.23.1
 streamlit_lottie==0.0.5
+streamlit_option_menu==0.3.6
 vaderSentiment==3.3.2
 vaderSentiment==3.3.2
+matplotlib==3.7.1
