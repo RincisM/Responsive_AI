@@ -4,16 +4,20 @@
 - [About](#about)
 - [Navigation](#navigation)
 - [Assets](#assets)
+- [Data](#data)
+- [Notebooks](#notebooks)
 - [Header Section](#header-section)
 - [Content Section](#content-section)
 - [Simulation](#simulation)
 - [Metrics](#metrics)
 - [Contact Us](#contact-us)
+- [How to Use](#how-to-use)
+- [Contributing](#contributing)
 
 ## About
 Responsive AI is a project focused on algorithm development for analyzing YouTube comments to provide quality video recommendations to users. The project involves a dedicated Algorithm Development Team and aims to address challenges in content discovery on online video platforms.
 
-### Key Features
+## Key Features
 - YouTube API integration
 - Sentiment analysis of user comments
 - Prediction of valuable content
@@ -25,6 +29,15 @@ The navigation bar provides easy access to different sections of the project, in
 ## Assets
 The Assets section includes Lottie animations and a header section with project information.
 
+## Data
+The data used in the project is stored in the data folder. The `analysis_details.csv` file contains information about all the videos that have been analyzed.
+
+## Notebooks
+The notebooks folder contains Python files for different parts of the analysis.
+- `Simple_Bias_detection.ipynb`: This notebook explores basic bias detection techniques.
+- `Sentiment_Analysis_Youtube.ipynb`: This notebook performs sentiment analysis on YouTube comments.
+- `Toxity_Measure.ipynb`: This notebook is an additional file that measures the toxicity of text.
+
 ## Header Section
 The header section contains a welcome message and essential details about the project, including mentors and industry experts.
 
@@ -32,7 +45,7 @@ The header section contains a welcome message and essential details about the pr
 The content section provides detailed information about the project, including an abstract, introduction, solution details, bias dimensions, sentiment analysis, and latent bias.
 
 ## Simulation
-The Simulation section allows users to input a YouTube API key and simulate video queries to display sentiment analysis results. After the Simulation, a download button will appear. It will allow us to download the data in csv format. Store the file in the same directory (where your app.py is present) under data folder.
+The Simulation section allows users to input a YouTube API key and simulate video queries to display sentiment analysis results. After the Simulation, a download button will appear. It will allow us to download the data in csv format. Store the file in the same directory (where your `app.py` is present) under the data folder.
 
 ## Metrics
 The Metrics section provides insights into the sentiment analysis results, including total comments analyzed, average sentiment scores, and visualizations such as bar charts, box plots, histograms, and pie charts.
@@ -48,8 +61,8 @@ The Contact Us section provides email addresses for general inquiries, technical
 
 ## Contributing
 If you'd like to contribute to this project, please follow these guidelines:
-- Fork the repository
-- Create a new branch: `git checkout -b feature/your-feature`
-- Make your changes and commit them: `git commit -m 'Add your feature'`
-- Push to the branch: `git push origin feature/your-feature`
-- Create a pull request
+1. Fork the repository
+2. Create a new branch: `git checkout -b feature/your-feature`
+3. Make your changes and commit them: `git commit -m 'Add your feature'`
+4. Push to the branch: `git push origin feature/your-feature`
+5. Create a pull request
