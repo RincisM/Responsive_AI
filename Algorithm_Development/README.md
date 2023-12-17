@@ -32,7 +32,7 @@ The header section contains a welcome message and essential details about the pr
 The content section provides detailed information about the project, including an abstract, introduction, solution details, bias dimensions, sentiment analysis, and latent bias.
 
 ## Simulation
-The Simulation section allows users to input a YouTube API key and simulate video queries to display sentiment analysis results.
+The Simulation section allows users to input a YouTube API key and simulate video queries to display sentiment analysis results. After the Simulation, a download button will appear. It will allow us to download the data in csv format. Store the file in the same directory (where your app.py is present) under data folder.
 
 ## Metrics
 The Metrics section provides insights into the sentiment analysis results, including total comments analyzed, average sentiment scores, and visualizations such as bar charts, box plots, histograms, and pie charts.
@@ -42,8 +42,9 @@ The Contact Us section provides email addresses for general inquiries, technical
 
 ## How to Use
 1. Clone the repository: `git clone https://github.com/RincisM/Responsive_AI.git`
-2. Install required dependencies: `pip install -r requirements.txt`
-3. Run the application: `streamlit run app.py`
+2. Navigate to Algorithm_Development directory.
+3. Install required dependencies: `pip install -r requirements.txt`
+4. Run the application: `streamlit run app.py`
 
 ## Contributing
 If you'd like to contribute to this project, please follow these guidelines:
