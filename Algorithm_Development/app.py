@@ -248,7 +248,7 @@ elif selected_nav == "About Us":
     col1, col2, col3 = st.columns(3)
 
     # Define the target URLs for each image
-    url_kailash = "https://www.example.com/kailash"
+    url_kailash = "https://www.linkedin.com/in/kailash-chandran-j-6a72302a5"
     url_rincis = "https://www.linkedin.com/in/rincis-m"
     url_karthikkeyan = "https://www.linkedin.com/in/karthikkeyan-natarajan-014283228/"
 
