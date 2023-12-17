@@ -1,0 +1,2198 @@
+,video_id,comment,sentiment_score,sentiment_label,positive_score,negative_score
+0,_uQrJ0TkZlc,"🔥 Want to master Python? Get my Python mastery course: http://bit.ly/35BLHHP
+👍 Subscribe for more Python tutorials like this: https://goo.gl/6PYaGF",0.1689,Positive,0.1689,
+1,_uQrJ0TkZlc,Thank you for this video but I wish you did it with windows as it is the most widely used operating system out there. A lot of things don't add up when using windows to follow your tutorial,0.6486,Positive,0.6486,
+2,_uQrJ0TkZlc,Thank you❤🌹🌹,0.7717,Positive,0.7717,
+3,_uQrJ0TkZlc,I am learning python so I can become a data scientist.,0.0,Neutral,,
+4,_uQrJ0TkZlc,"Hello teacher 
+I cant dowland the the python summary notes cus show your connection is not privacy",0.0,Neutral,,
+5,_uQrJ0TkZlc,In 38:45 why do you put square brackets?,0.0,Neutral,,
+6,_uQrJ0TkZlc,wrong acount sorry,-0.5267,Negative,,-0.5267
+7,_uQrJ0TkZlc,"when you make the ai instead of sklearn.externals import joblib
+
+import it directly by just import joblib",0.0,Neutral,,
+8,_uQrJ0TkZlc,"I need to become a software developer and, want to create some useful applications for people",0.6486,Positive,0.6486,
+9,_uQrJ0TkZlc,"18:21 hey mosh sir i m having problem here i cant understand this 
+i wrote my code like this 
+name = (""john smith"")
+age = 20 
+print (name)
+print(age)
+print('HE IS A NEW PAITENT')",-0.0516,Negative,,-0.0516
+10,_uQrJ0TkZlc,"at 2:03:06 i practise selfly by finding minimum number from the list.
+numbers = [5,6,7,8,9,1]
+min = numbers[0]
+for number in numbers:
+    if number < min:
+        min = number
+print(min)",0.296,Positive,0.296,
+11,_uQrJ0TkZlc,"I M LEAVING THIS COMMENT SO WHEN I FULLY LEARN PYTHON SO I CAN COME BACK AND THIS COMMENT WOULD REMIND ME MY JOURNEY 
+*AND I COULD ALSO THANKS TO MOSH FOR THIS START UP*",0.4404,Positive,0.4404,
+12,_uQrJ0TkZlc,"I have a question regarding the Car Game. I got different results if the order of the conditionals differed from the tutorial (for example, the 'help' conditionals came first). Is anyone having the same condition? Great Python tutorial btw, thanks a lot!",0.8748,Positive,0.8748,
+13,_uQrJ0TkZlc,can't download python it says package issues can anyone guide me what to do next?,0.0,Neutral,,
+14,_uQrJ0TkZlc,my brother is doing cali linux,0.0,Neutral,,
+15,_uQrJ0TkZlc,"1:20:44 / 6:14:06... you can input anything and as long as it is not a little or bit ""L"" it will still spit out your weight in Lbs....WTF? so far has been so good",0.5777,Positive,0.5777,
+16,_uQrJ0TkZlc,"on Windows,to use the emoji, its windows key+ period (win+""."")",0.5859,Positive,0.5859,
+17,_uQrJ0TkZlc,Hello mosh!. Great work with the video and am excited about my python journey with your courses. But please check the link for the Cheat Sheets. It's not working?,0.3595,Positive,0.3595,
+18,_uQrJ0TkZlc,"code for Qestion ask  at 1:55:50 interval.
+numbers=[2,2,2,2,5]
+for x_count in numbers:
+    output= ''
+    for count in range(x_count):
+        output= output+ '+'
+    print(output)",0.0,Neutral,,
+19,vLqTf2b6GZw,Let's take the moment to appreciate how much effort she puts into the content for us.,0.4019,Positive,0.4019,
+20,vLqTf2b6GZw,Thanku so much for providing us a very important notes... Your,0.2716,Positive,0.2716,
+21,vLqTf2b6GZw,plz make AI ML series and roadmap,0.0772,Positive,0.0772,
+22,vLqTf2b6GZw,"Yes ,plz shardha made Play list videos of detail python n ML /AI",0.6597,Positive,0.6597,
+23,vLqTf2b6GZw,Thanks a lot,0.4404,Positive,0.4404,
+24,vLqTf2b6GZw,Thanks for your Valuable inputs @Apna College & Team !,0.7424,Positive,0.7424,
+25,vLqTf2b6GZw,"Aapke dimaag me physics chemistry maths ke marks 95,98,97 aa gaye.
+Itne to mere imagination me bhi nahi hote. 🙂",0.4033,Positive,0.4033,
+26,vLqTf2b6GZw,pycharm is tooo better,0.4404,Positive,0.4404,
+27,vLqTf2b6GZw,This video is just blah blah it is very confusing for ppl who are just began to learn python..a big no for this video if u are a beginner,-0.6361,Negative,,-0.6361
+28,vLqTf2b6GZw,Mam im a beginner. i have no knowledge about programming but i think you should concentrate about your teaching by knowing our blank strengths,0.4497,Positive,0.4497,
+29,vLqTf2b6GZw,Please mam make aiml related video and create a history mam,0.5267,Positive,0.5267,
+30,vLqTf2b6GZw,"I am writing following code but received results as per code instructions instead of my expectation 
+
+marks = [95, 98, 97]
+marks.append(99)
+marks.insert(-1, 100)
+for score in marks:
+    print(score)
+
+Code output
+95
+98
+97
+100
+99
+
+my expected output should be as below because I inserted 100 after appending 99 but code is responding correctly because I inserted 100 at the end in original marks variable instead of in variable resulted after appending 99. If I want my expected output should be printed then how should I write code without shuffling insert function with append function i.e. my insert function should come after append function. 
+
+95
+98
+97
+99
+100
+
+one way to get my desired output is via below code but that has shuffled the precedence of insert function. how can I get my desired output without shifting the precedence.
+
+marks = [95, 98, 97]
+marks.insert(-1, 99)
+marks.append(100)
+for score in marks:
+    print(score)",0.8271,Positive,0.8271,
+31,vLqTf2b6GZw,Mam ye to download karne keleye purchase kar na padta he,0.0,Neutral,,
+32,vLqTf2b6GZw,"Hello dii
+Can you make videos on computer science class 12 😅",0.3612,Positive,0.3612,
+33,vLqTf2b6GZw,This course is not conver all the topics,0.0,Neutral,,
+34,kqtD5dpn9C8,"🔥 Want to master Python? Get my complete Python course: http://bit.ly/35BLHHP
+👍 Subscribe for more Python tutorials like this: https://goo.gl/6PYaGF",0.1689,Positive,0.1689,
+35,kqtD5dpn9C8,"weight = int(input(""What is your weight?""))
+
+units = input(""Enter (K) for Kilograms or (L) for pounds."")
+
+if units == 'K' or units == 'k':
+    print(""Weight in Kg:"" + str(weight))
+else:
+    conv_weight = weight/2.20
+    print(""Weight in Kg:"" + str(conv_weight))
+print('Done')",0.0,Neutral,,
+36,kqtD5dpn9C8,"age = 20
+
+first_name = ""John""
+last_name = ""Smith""
+
+print(first_name, last_name, age)",0.0,Neutral,,
+37,kqtD5dpn9C8,"this is for ppl will a high knowledge of programing using Java, java script, c++, and others.",0.0,Neutral,,
+38,kqtD5dpn9C8,"Great Starter!  I'm less apprehensive (at 48) to start Python after watching this.  I've spent 20 years writing SAS, SQL and VBA which seems to have set me up nicely to move into Python! Thanks!",0.8951,Positive,0.8951,
+39,kqtD5dpn9C8,"FIRST EXERCISE ANSWER (MY ANSWER)
+print(""1.Cheked in a patient named John smith.\n2.He is 20 years old.\n3.He is a new patient.\n"")",0.0,Neutral,,
+40,kqtD5dpn9C8,I’m learning python primarily for data science,0.0,Neutral,,
+41,kqtD5dpn9C8,Where can I download Pycharm for my new iPad? Thanks for your support… ❤️🙏,0.4404,Positive,0.4404,
+42,kqtD5dpn9C8,Where are the solitions for the exercises,0.0,Neutral,,
+43,kqtD5dpn9C8,"Weight = float(input(""What is your weight? ""))
+WeightType = input(""Is it in kg or lbs? "")
+
+if WeightType.lower() == ""kg"":
+    convert = Weight * 2.205
+    print(""Your weight in lbs is "" + str(convert))
+elif WeightType.lower() == ""lbs"":
+    convert1 = Weight / 2.205
+    print(""Your weight in kg is "" + str(convert1))
+else:
+    print(""Your input is invalid. You didn't specify kg or lbs."")",0.0,Neutral,,
+44,kqtD5dpn9C8,"hello,why i can't find the website page for the community pycharm download",0.0,Neutral,,
+45,kqtD5dpn9C8,"Is it foolish to study computer science in 2023
+by the time I graduate It will be 2027
+Can I still get a job? cuz of the extremely fast development of Ai ??
+Is there any future for programmers??",-0.4696,Negative,,-0.4696
+46,kqtD5dpn9C8,FYI The video was made with Python 3.7 which is deprecated already.,0.368,Positive,0.368,
+47,kqtD5dpn9C8,"name = 'John Smith'
+age = 20
+new = True
+
+print(name)
+print(age)
+if new == True:
+    print('New Patient')",0.6808,Positive,0.6808,
+48,kqtD5dpn9C8,"0:00:00 Introduction 
+0:00:30 What You Can Do With Python 
+0:01:15 Your First Python Program 
+0:05:30 Variables
+0:09:08 Receiving Input
+0:10:48 Type Conversion
+0:18:49 Strings
+0:23:41 Arithmetic Operators 
+0:25:59 Operator Precedence 
+0:27:11 Comparison Operators 
+0:28:52 Logical Operators
+0:31:06 If Statements
+0:36:16 Exercise
+0:41:42 While Loops
+0:45:11 Lists
+0:48:47 List Methods
+0:52:16 For Loops
+0:54:54 The range() Function 
+0:57:43 Tuples",0.0,Neutral,,
+49,kqtD5dpn9C8,"9:05
+Age = 20
+Name = John Smith 
+Status = New Patient 
+print(Age)
+print(Name)
+print(Status)",0.0,Neutral,,
+50,kqtD5dpn9C8,"I'm learning Python, because I want to most likely work in Cloud Security",0.4019,Positive,0.4019,
+51,kqtD5dpn9C8,"Thank you so much! It took me longer than an hour,but I got it! it is quite a good introduction!",0.7618,Positive,0.7618,
+52,rfscVS0vtbw,Want more from Mike? He's starting a coding RPG/Bootcamp - https://simulator.dev/,0.0772,Positive,0.0772,
+53,rfscVS0vtbw,"I have to say...
+i cant believe how good of a teacher you are.
+ive been taking a cousera class for 4 MONTHS ITS SO BORING AND THE TEACHERS ARE SO UNRELATABLE THAT I QUIT AFTER 10 MINUTES.
+THEY DONT EVEN FKIN EXPLAIN NEARLY AS GOOD AS YOU
+I HAVE BEEN ON THIS FOR 30 MINUTES  AND ALREADY UNDERSTAND MORE. 
+im actually interested in learning. its great to learn from someone young, like me, and relatable. omg thank you",0.8453,Positive,0.8453,
+54,rfscVS0vtbw,"Hello Mike! I concur with the positive comments you have already received. You do not only claim that it is a beginners´ tutorial but you also stick to that promise. In the same vein, compared to lots of other Python tutorials, this course impresses me by its clarity, its focus, and the linking pins between the sections. While you do not spell out those linking pins too often, one can easily recognize them, when following closely. Towards the end, I would have placed the ""classes and objects"" section right next to the ""object functions"" section. This way, the class concept may become more comprehensible. All in all: very well done!",0.9547,Positive,0.9547,
+55,rfscVS0vtbw,you are using python 3 but not using the f string? the f string makes it so much easier to add variables to a print statement,0.627,Positive,0.627,
+56,rfscVS0vtbw,"2:30 What if I want  the secret word to be ""giraffe""  or "" sun"" or ""moon"" ?
+
+How ?",0.168,Positive,0.168,
+57,rfscVS0vtbw,I have a python programming final tomorrow and this helped soo much even after 5 years! Thanks so much man,0.4926,Positive,0.4926,
+58,rfscVS0vtbw,33:32 it has only 14 characters😂,0.4404,Positive,0.4404,
+59,rfscVS0vtbw,Hi every also don't forget to add python to path while installing python,0.1695,Positive,0.1695,
+60,rfscVS0vtbw,banger course fr fr,0.0,Neutral,,
+61,rfscVS0vtbw,Installation of PyCharm is different on windows.. what options do we need to enable if any?,0.0,Neutral,,
+62,rfscVS0vtbw,can you make a video like this about ABAP? 😂,0.6597,Positive,0.6597,
+63,rfscVS0vtbw,This tutorial is addictive. I started watching it and before i knew it i was 2hrs into it. Thanks so much @freecodecamp for a wonderful job.,0.765,Positive,0.765,
+64,rfscVS0vtbw,"I'm stuck at 8:45. I keep getting ""can't open file"" and ""[Errno 2] No such file or directory"" when trying to print ""hello world"" in PyCharm. Does anyone know what I can do?",-0.4939,Negative,,-0.4939
+65,rfscVS0vtbw,So guys please help me understand. If i create a object named a so self basically means a.name = name ?,0.7678,Positive,0.7678,
+66,rfscVS0vtbw,"This garbage guy skips out all the important things in between the topics,, u ll have to spend more time watching another videos.. Avoid this garbage guy!",-0.1759,Negative,,-0.1759
+67,rfscVS0vtbw,"This guy is garbage,, such a waste of time,, this garbage guy is something u guys need to avoid, if u value ur time",-0.3818,Negative,,-0.3818
+68,rfscVS0vtbw,"I feel like spitting at this kids face,, he is so annoying ,, wasted my time on this video!",-0.6953,Negative,,-0.6953
+69,rfscVS0vtbw,Listening to this in 2x speed 2 hours before my final lol,0.4215,Positive,0.4215,
+70,gfDE2a7MKjA,It`s my first program of life,0.0,Neutral,,
+71,gfDE2a7MKjA,Sir i study in 8th class is python language good for me or not please tell me,0.2354,Positive,0.2354,
+72,gfDE2a7MKjA,"This is my first-ever code of life, a bundle of thanks and lots of love from Pakistan.",0.7964,Positive,0.7964,
+73,gfDE2a7MKjA,"5:06:01 
+
+name = input(""Enter you name\n"")
+if(len(name) < 10):
+        print(""it is less than 10"")
+else:
+        print(""It is greator than or equal to 10"")",0.0,Neutral,,
+74,gfDE2a7MKjA,"4:33:36
+Greator",0.0,Neutral,,
+75,gfDE2a7MKjA,4:34:20 greater output,0.3612,Positive,0.3612,
+76,gfDE2a7MKjA,Doing great sir🎉,0.7783,Positive,0.7783,
+77,gfDE2a7MKjA,"5:05:15 
+ name = input(""Enter your name:"")
+count = len(name)
+
+if (count<10):
+    print(""small"")
+else:
+    print(""big"")",0.0,Neutral,,
+78,gfDE2a7MKjA,I'm 10th class student and i am very interested in coding and i learn python ❤,0.8016,Positive,0.8016,
+79,gfDE2a7MKjA,Thnx sir i don't have word to say about your experience and teaching way u are awasome ♥️,0.6369,Positive,0.6369,
+80,gfDE2a7MKjA,Verry verry helpful Harry bhaiya,0.4215,Positive,0.4215,
+81,gfDE2a7MKjA,"user_name = input(""Enter your user name: "")
+user_name_without_space = user_name.replace("" "","""")
+
+if len(user_name_without_space) == 10:
+    print(""The length of user name is equals to 10"")
+elif len(user_name_without_space) < 10:
+    print(""The length of user name is less than than 10"")
+elif len(user_name_without_space) > 10:
+    print(""The length of user name is greater than than 10"")
+else:
+    print(""Please Enter a valid name "")",0.3612,Positive,0.3612,
+82,gfDE2a7MKjA,3:19:26 we will use count,0.0,Neutral,,
+83,gfDE2a7MKjA,"Sir, please make video on how to program any device with python😊",0.8074,Positive,0.8074,
+84,gfDE2a7MKjA,BAHUT HI HELPFUL VIDEOS HAI BHAIYA HUM JAISE BACHO KE LIYE JO BADE INSTITUTE KI FEE AFFORD NAHI KAR SAKTE,0.4215,Positive,0.4215,
+85,gfDE2a7MKjA,"Dear Harry, This Python course is nice! Thanks! ❤",0.9199,Positive,0.9199,
+86,qwAFL1597eM,"Very helpful, and well organized! Thanks",0.8248,Positive,0.8248,
+87,qwAFL1597eM,kindly post machine learning tutorial video sir,0.4939,Positive,0.4939,
+88,qwAFL1597eM,"Hi Dave, can you tell me what formatter you are using in chapter 2? Much appreciated!",0.5562,Positive,0.5562,
+89,qwAFL1597eM,for some reason i never win the rock paper scissors game,-0.4717,Negative,,-0.4717
+90,qwAFL1597eM,At 20:30 I could not do shift + alt + down on my keyboard. It does not copy. Does anyone know what is the reason?  What should I do?,0.0,Neutral,,
+91,qwAFL1597eM,"Great job Dave and thanks a lot. 
+I have a question, I hope someone help me to understand the situation. For this code: names = [""Dave"", ""Sara"", ""John""]
+action = [""codes"", ""eats"", ""sleeps""]
+for name in names:
+    for action in actions:
+        print(name + "" "" + action + ""."" ) 
+I got this report in the terminal: for action in actions:
+                  ^^^^^^^
+NameError: name 'actions' is not defined. Did you mean: 'action'?",0.9118,Positive,0.9118,
+92,qwAFL1597eM,"I must be dumb: I cannot get format on save or type to work. I've installed two other formatters with no success. I know there's an answer but after many hours of googling, nothing yet.",-0.2614,Negative,,-0.2614
+93,qwAFL1597eM,"You don't memorize computer science or any type of science.  You observe it, reason it and practice it.",0.0,Neutral,,
+94,qwAFL1597eM,"Florian Dedovd's Python crash course is much better than this.  The guy started programming at age 9... very simple, humble and doesn't think of himself as a ""Genius!!!!!"" like Kylie Ying... .. yeah right my friends from Caltech will wipe her out in math, physics, chemistry and theoretical cs...",0.6083,Positive,0.6083,
+95,qwAFL1597eM,how come when I do ctrl + s it doesn't auto format that error,-0.4019,Negative,,-0.4019
+96,qwAFL1597eM,already in a 1h+ loop of trying to get a formatter to work. it might take me a few months to finish this at this point,0.0,Neutral,,
+97,qwAFL1597eM,WHAT A TUTORIAL MAN!!,0.0,Neutral,,
+98,qwAFL1597eM,I checked format on save and type but it didn't make any difference strangely,-0.1779,Negative,,-0.1779
+99,qwAFL1597eM,Hi anyone having issues with format on save?,0.4939,Positive,0.4939,
+100,qwAFL1597eM,I have tried installing the Formatter but it just doesn't work,0.0,Neutral,,
+101,qwAFL1597eM,can somebody help me with this as i am trying from starting it doesnt show the $ sign in visual code it doesnt go in next line i dont know how to do this pls help,0.698,Positive,0.698,
+102,m67-bOpOoPU,continue this course,0.0,Neutral,,
+103,m67-bOpOoPU,Bro loop list la 8th question answer matum solunga bro🥺🥺,0.0,Neutral,,
+104,m67-bOpOoPU,Bsc maths complete but it kulla poka mutiuma bro ?,0.0,Neutral,,
+105,m67-bOpOoPU,Bro ellame super bro display tha onnum therila monitor clear illa bro,0.7579,Positive,0.7579,
+106,m67-bOpOoPU,"Bro, what programming skills r required for a fresh front end developer as on date if they have 2 work in top global IT companies in 2024'?😊🙏?",0.8577,Positive,0.8577,
+107,m67-bOpOoPU,"Nice, For The Best Part In The Listen To The Tutorial Listened In Your Channel, For The New Beginner's Study Sir. Thank You, Will Make My Submissively Work Quiet Easy.",0.886,Positive,0.886,
+108,m67-bOpOoPU,Heal To Practice Pa. Thank  You. Still Just Now Practicing ..,0.3612,Positive,0.3612,
+109,m67-bOpOoPU,Broo python la turtle graphics,0.0,Neutral,,
+110,m67-bOpOoPU,Seriously worthu ❤💥,0.25,Positive,0.25,
+111,m67-bOpOoPU,Thanks  a lot🙏. you are such a Great Teacher.🙏🙏🙏,0.7906,Positive,0.7906,
+112,m67-bOpOoPU,Broo you're teaching skill will be awesome 👌👌👌,0.9702,Positive,0.9702,
+113,m67-bOpOoPU,bro how to use Android studio,0.0,Neutral,,
+114,m67-bOpOoPU,"Thank you Bro for this Most Valuable video. Your way of teaching and this video helping me to learn python fundamental quick and easily. Thank you once again.
+
+Could you please upload example question (MS word) file.
+
+Could you please prepare video for golang in Tamil",0.9392,Positive,0.9392,
+115,m67-bOpOoPU,Bro intha video full ah paathaa pothuma bro and python developer aagalaama bro?,0.0,Neutral,,
+116,t8pPdKYpowI,"If this course was helpful for you, please leave a thumbs up and subscribe to my channel 😊
+►  If you want to learn more about DevOps Automation with Python: https://bit.ly/3q90KbI 🙌🏼
+►  Best entry course for IT Beginners here: https://bit.ly/43gOF3f
+
+Link to inventory spreadsheet file: https://gitlab.com/nanuchi/python-programming/-/tree/master/spreadsheet
+Follow me on IG, for behind the scenes content 🤓: https://www.instagram.com/techworld_with_nana/
+
+▬▬▬▬▬▬ S P E C I A L   O F F E R  🎉   ▬▬▬▬▬▬
+Want to try PyCharm Professional Edition? JetBrains provided me with a 100% discount code! 🙂 
+With ""PYCHARMFORDEVOPS"" you can try PyCharm Professional for 3-month!
+►  Use this code at: https://www.jetbrains.com/store/redeem/
+►  Valid until Jun 30, 2021
+
+▬▬▬▬▬▬ T I M E S T A M P S ⏰  ▬▬▬▬▬▬
+0:00 - Course Intro & Course Overview
+2:53 - Introduction to Python
+07:01 - Installation and Local Setup with PyCharm
+14:10 - Write our first Python program
+15:33 - Python IDE vs simple File Editor
+19:04 - Strings and Number Data Types
+30:11 - Variables in Python
+39:33 - Encapsulate Logic with Functions
+54:00 - Scope
+59:50 - Accepting User Input
+1:15:28 - Conditionals (if / else) and Boolean Data Type
+1:44:18 - Error Handling with Try / Except
+1:50:11 -  While Loops
+2:02:43 - Lists and For Loops
+2:21:51 - Thanks JetBrains!  
+2:23:17 - Comments in Python
+2:27:23 - Sets
+2:38:31 - Built-In Functions
+2:44:25 - Dictionary Data Type
+3:01:32 - Modularize your project with Modules
+3:20:09 - Project: Countdown App
+3:40:27 - Packages, PyPI and pip
+3:54:06 - Project: Automation with Python (Working with Spreadsheets)
+4:44:02 - Object Oriented Programming: Classes and Objects
+5:14:35 - Project: API Request to GitLab
+5:30:23 - Wrap Up
+
+▬▬▬▬▬▬ Courses & Ebooks & Bootcamp 🚀      ▬▬▬▬▬▬ 
+► Become a DevOps Engineer - full educational program             👉🏼  https://bit.ly/3gEwf4V
+► Udemy courses - get biggest discounts here                               👉🏼   http://bit.ly/2OgvzIO
+► Kubernetes 101 - compact and easy-to-read ebook bundle      👉🏼   https://bit.ly/3mPIaiU",0.9756,Positive,0.9756,
+117,t8pPdKYpowI,"I want to thank Nana for this. Not only have I learned a lot from her, but I also use her long recordings when I go to work to play at home to keep my dogs company till I get home with some non-stop jazz in the background.",0.6124,Positive,0.6124,
+118,t8pPdKYpowI,"You are the best teacher, i have just started learning python and i feel like an expert, can i master all these in 8 weeks",0.7717,Positive,0.7717,
+119,t8pPdKYpowI,"Thank you for sharing. I have found this most interesting, and I am hoping to learn python. You are a great instructor and also a very beautiful person.",0.9606,Positive,0.9606,
+120,t8pPdKYpowI,Great Work!!! Very easy explanation 👌,0.9389,Positive,0.9389,
+121,t8pPdKYpowI,Amazing Content and teaching but definitely not for complete beginners in programming <3 <3,0.928,Positive,0.928,
+122,t8pPdKYpowI,I would say use an appropriate name for the file instead of repeating main.py since it makes a mess when taking notes,-0.3612,Negative,,-0.3612
+123,t8pPdKYpowI,Great 👍 effort,0.6249,Positive,0.6249,
+124,t8pPdKYpowI,Does this actually work?,0.0,Neutral,,
+125,t8pPdKYpowI,great tutorial but the audio is too low,-0.0258,Neutral,,
+126,t8pPdKYpowI,Today I completed this course. I enjoyed your unique perspective and instruction. I found this course to be educational and and easily digestible. Thank you for your time and contributions.,0.802,Positive,0.802,
+127,t8pPdKYpowI,Dear ms. First thing first..thank you..I want to learn Python..my namr Xing..from Indonesia. Appreciate can assist me to learn Python. Appreciate,0.8074,Positive,0.8074,
+128,t8pPdKYpowI,Thanks big time for changing my life!!!,0.5826,Positive,0.5826,
+129,t8pPdKYpowI,I can say it is the best course for python aspirants. Nice and easy to follow.,0.872,Positive,0.872,
+130,t8pPdKYpowI,"Hey, just give the certificate of completion to those who finished it because I just loved it :)
+But, seriously.",0.34,Positive,0.34,
+131,XKHEtdqhLK8,"*LET'S GET THIS VIDEO TO #1!*
+_Like_ this video and leave a random _comment_ to *break the Youtube algorithm* 👊
+I appreciate all of you ❤️
+
+⭐️Time Stamps⭐️
+#1 00:00:00​ Python tutorial for beginners 🐍
+#2 00:05:57​ variables ✘
+#3 00:17:38​ multiple assignment 🔠
+#4 00:20:27​ string methods 〰️
+#5 00:25:13​ type cast 💱
+#6 00:30:14​ user input ⌨️
+#7 00:36:50​ math functions 🧮
+#8 00:40:58​ string slicing ✂️
+#9 00:51:52​ if statements 🤔
+#10 00:58:19​ logical operators 🔣
+#11 01:04:03​ while loops 🔄
+#12 01:07:31​ for loops ➰
+#13 01:13:04​ nested loops ➿
+#14 01:17:08 break continue pass ⛔
+#15 01:21:06​ lists 🧾
+#16 01:26:58​ 2D lists 📜
+#17 01:30:47​ tuples 📄
+#18 01:33:47​ sets 🍴
+#19 01:40:03​ dictionaries 📖
+#20 01:47:20​ indexing 📑
+#21 01:53:23​ functions 📞
+#22 02:02:03​ return statement 🔙
+#23 02:04:51 keyword arguments 🔑
+#24 02:07:09​ nested function calls 🖇️
+#25 02:09:40​ variable scope 🔬
+#26 02:13:23​ *args 📦
+#27 02:16:58​ **kwargs 🎁
+#28 02:21:17​ string format 💬
+#29 02:33:22​ random numbers 🎲
+#30 02:36:43​ exception handling ⚠️
+#31 02:43:40 file detection 📁
+#32 02:47:28​ read a file 🔍
+#33 02:51:00​ write a file 📝
+#34 02:53:45​ copy a file 🖨️
+#35 02:57:05​ move a file 🗃️
+#36 03:01:20​ delete a file 🗑️
+#37 03:06:15​ modules 💌
+#38 03:10:26 rock, paper, scissors game 🗿
+#39 03:18:32​ quiz game 💯
+#40 03:35:45​ Object Oriented Programming (OOP) 🐍
+#41 03:45:06​ class variables 🚗
+#42 03:48:54​ inheritance 👪
+#43 03:55:30​ multilevel inheritance 👴
+#44 03:58:32 multiple inheritance 👨‍👩‍👧‍👦
+#45 04:01:49 method overriding 🙅
+#46 04:04:14​ method chaining ⛓️
+#47 04:08:08 super function 🦸
+#48 04:12:09​ abstract classes 👻
+#49 04:19:12 objects as arguments 🏍️
+#50 04:23:20​ duck typing 🦆
+#51 04:27:38 walrus operator 🦦
+#52 04:31:45​ functions to variables 📛
+#53 04:35:21​ higher order functions 👑
+#54 04:41:06​ lambda λ
+#55 04:45:44​ sort 🗄️
+#56 04:53:22​ map 🗺️
+#57 04:57:17​ filter 🍺
+#58 05:00:10​ reduce ♻️
+#59 05:04:54​ list comprehensions 📰
+#60 05:10:54 dictionary comprehensions 🕮
+#61 05:18:59​ zip function 🤐
+#62 05:23:41​ if _name_ == '__main__' ❓
+#63 05:29:21​ time module ⌚
+#64 05:39:58​ threading 🧵
+#65 05:53:31​ daemon threads 😈
+#66 05:58:19​ multiprocessing ⚡
+#67 06:07:15​ GUI windows 🖼️
+#68 06:14:38​ labels 🏷️
+#69 06:24:24​ buttons 🛎️
+#70 06:30:44​ entrybox ⌨️
+#71 06:40:15​ checkbox ✔️
+#72 06:49:08​ radio buttons 🔘
+#73 07:00:47​ scale 🌡️
+#74 07:10:24​ listbox 📋
+#75 07:24:41​ messagebox 💭
+#76 07:37:17​ colorchooser 🎨
+#77 07:43:10​ text area 📒
+#78 07:48:38​ open a file (file dialog) 📁
+#79 07:55:33​ save a file (file dialog) 💾
+#80 08:05:17​ menubar 🧾
+#81 08:15:23​ frames ⚰️
+#82 08:21:30​ new windows 🗔
+#83 08:25:32​ window tabs 📑
+#84 08:30:52​ grid 🏢
+#85 08:39:52​ progress bar 📊
+#86 08:49:48​ canvas 🖍️
+#87 09:01:18​ keyboard events ⌨️
+#88 09:05:54​ mouse events 🖱️
+#89 09:11:00​ drag & drop 👈
+#90 09:18:18​ move images w/ keys 🏎️
+#91 09:29:13​ animations 🛸
+#92 09:41:31​ multiple animations 🎞️
+#93 09:53:04​ clock program 🕒
+#94 10:01:03​ send an email 📧
+#95 10:07:37​ run with command prompt 👨‍💻
+#96 10:09:53 pip 🏗️
+#97 10:13:30​ py to exe 🏃
+#98 10:17:13​ calculator program 🖩
+#99 10:31:38​ text editor program ✏️
+#100 11:05:51 tic tac toe game ⭕
+#101 11:26:25​ snake game 🐍
+
+🎮 GAMES & PROJECTS 🎮
+03:10:26 rock, paper, scissors game 🗿
+03:18:32​ quiz game 💯
+09:53:04​ clock program 🕒
+10:17:13​ calculator program 🖩
+10:31:38​ text editor program ✏️
+11:05:51 tic tac toe game ⭕
+11:26:25​ snake game 🐍
+
+Here's the link to the full playlist:
+
+https://www.youtube.com/playlist?list...​
+
+Code for each topic can be found pinned to each video's comments section",0.7621,Positive,0.7621,
+132,XKHEtdqhLK8,New sub here where do you have in the comments the programs for this video?,0.0,Neutral,,
+133,XKHEtdqhLK8,"Question: When I run the performance counter on the counter function in multiprocessing, it runs slow (which I expect) but it displays a large number like 261003.34... secs. Why? And is that normal??",0.6416,Positive,0.6416,
+134,XKHEtdqhLK8,"i have a question for anyone watched this
+
+is this course enough to be a python advanced?
+and the same question for other courses",0.25,Positive,0.25,
+135,XKHEtdqhLK8,"46:38 ,what if the input was Bro Codek . 
+Indians!!??",0.0,Neutral,,
+136,XKHEtdqhLK8,"import random
+import time
+choices = ['Rock', 'Paper','Scissors']
+computer_names = ['Alice', 'Bob', 'Charlie', 'David', 'Eva', 'Frank', 'Grace', 'Harry', 'Ivy', 'Jack', 'Katie', 'Leo', 'Mia', 'Nathan', 'Olivia', 'Peter', 'Quinn', 'Rachel', 'Sam', 'Tom', 'Ursula', 'Victor', 'Wendy', 'Xavier', 'Yasmine', 'Zane']
+play_again = None
+round = 1
+c_name = random.choice(computer_names)
+p_name = input(""Enter your name: "").strip().capitalize()
+p_win_count = 0
+p_loss_count = 0
+c_win_count = 0
+c_loss_count = 0
+p_choice = None
+print(f""{p_name} VERSUS {c_name}"")
+time.sleep(0.5)
+def get_p_choice():
+    while True:
+        p_choice = input('Rock, paper, or scissors?: ').strip().capitalize()
+        if p_choice not in choices:
+            print(""Only rock, paper, or scissors please!"")
+        else:
+            return(p_choice)
+
+def sleep_and_print(message, duration):
+    print(message)
+    time.sleep(duration)
+
+
+
+while True:
+    time.sleep(0.2)
+    print(f""Round {round}"")
+    time.sleep(0.5)
+    c_choice = random.choices(choices, weights=[0.3, 0.3, 0.3], k=1)[0].capitalize()
+    p_choice = get_p_choice()
+    for i in range(3, 0, -1):
+        trailing = ""..."" if i == 1 else "", ""
+        print(f""{i}{trailing}"", end="""")
+        time.sleep(0.5)
+
+
+    sleep_and_print(""\nSHOOT!"", 0.55)
+    sleep_and_print(f""-> You chose {p_choice}!"", 0.75)
+    sleep_and_print(f""-> {c_name} chose {c_choice}!"", 0.75)
+
+    if p_choice == c_choice:
+        round += 1
+        print(""It's a tie!"")
+        continue
+    elif (p_choice == ""Rock"" and c_choice == ""Scissors"") \
+            or (p_choice == ""Paper"" and c_choice == ""Rock"") \
+            or (p_choice == ""Scissors"" and c_choice == ""Paper""):
+        print(f""You win!"")
+        p_win_count += 1
+        c_loss_count +=1
+    else:
+        print(f""{c_name.upper()} WINS! "")
+        time.sleep(0.5)
+        print(f""You are a disappointment to your bloodline"")
+        c_win_count +=1
+        p_loss_count += 1
+
+    time.sleep(0.7)
+    print(f""{p_name}:{p_win_count} win(s),{c_name}: {c_win_count} win(s). "")
+    time.sleep(0.5)
+    while True:
+        time.sleep(0.5)
+        print(f""> Press \""S\"" to check the scoreboard"")
+        time.sleep(0.5)
+        print( ""> Press \""P\"" or ENTER to play again"")
+        time.sleep(0.5)
+        print(""> Press \""E\"" to end the game"")
+        post = input(""-->  "").strip().upper()
+        if post == ""S"":
+            print("" _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"")
+            print(""|{:^10}|{:^10}|{:^10}|"".format(""Name"", ""Wins"", ""Losses""))
+            print(""|{:^10}|{:^10}|{:^10}|"".format(p_name, p_win_count, p_loss_count))
+            print(""|{:^10}|{:^10}|{:^10}|"".format(c_name, c_win_count, c_loss_count))
+            print("" - - - - - - - - - - - - - - - - -"")
+
+
+            play_again = input(""Play again? (Y/N): "").strip().upper()
+            if play_again == ""Y"" or play_again == """":
+                round += 1
+                break
+            else:
+                break
+
+        elif post == ""P"" or post == """":
+            round += 1
+            break
+        elif post == ""E"":
+            break
+    if play_again == ""N"":
+        break
+    if post == ""E"":
+        break
+
+if p_win_count > c_win_count:
+    print(f""Game Over! \n {c_name} says: \""GGWP you beat me!\"""")
+elif p_win_count == c_win_count:
+    print(f""Game Over! \n {c_name} says: \""wow its a draw!\"""")
+else:
+    print(f""Game Over! \n {c_name} says: HAHAHA YOU FUCKING SUCK"")
+
+print(""Stats:"")
+print("" _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"")
+print(""|{:^10}|{:^10}|{:^10}|"".format(""Name"", ""Wins"", ""Losses""))
+print(""|{:^10}|{:^10}|{:^10}|"".format(p_name, p_win_count, p_loss_count))
+print(""|{:^10}|{:^10}|{:^10}|"".format(c_name, c_win_count, c_loss_count))
+print("" - - - - - - - - - - - - - - - - -"")",0.9791,Positive,0.9791,
+137,XKHEtdqhLK8,Best python course out there,0.6369,Positive,0.6369,
+138,XKHEtdqhLK8,"I'll start now and finish next Friday.
+
+Saturday:
+Sunday:
+Monday:
+Tuesday:
+Wednesday:
+Thursday.
+Friday:",0.0,Neutral,,
+139,XKHEtdqhLK8,"22:58  the function also works without capitalizing the original variable
+for eg-
+name= Bro Code 
+the upper case and lower case will still work",-0.4874,Negative,,-0.4874
+140,XKHEtdqhLK8,Brooo really deserve award damn this too good,0.574,Positive,0.574,
+141,XKHEtdqhLK8,3:19:13 is my current stamp i will update tmrw,0.0,Neutral,,
+142,XKHEtdqhLK8,"Progress thus far:
+Day 1 (00:30:14​) user input ⌨
+Day 2 (01:04:03​) while loops 🔄
+Day 3 (01:21:06​) lists 🧾
+Day 4 (01:26:58​) 2D lists 📜
+Day 5 (01:33:47​) sets 🍴
+Day 6-7 (02:02:03​) return statement 🔙
+Day 8 (02:13:23​) *args 📦",0.4215,Positive,0.4215,
+143,XKHEtdqhLK8,I download the latest version of pycharm and i don't see any community pycharm . There are only the paid ones .,0.0,Neutral,,
+144,-cXWzWdtErI,"Traceback (most recent call last):
+  File ""/data/user/0/ru.iiec.pydroid3/files/temp_iiec_codefile.py"", line 11, in <module>
+    t.pencolor(col[i%3]) 
+               ^^^
+NameError: name 'col' is not defined. Did you mean: 'cool'?
+Could anyone help me?",0.6553,Positive,0.6553,
+145,-cXWzWdtErI,It's not working 😢....,0.3724,Positive,0.3724,
+146,-cXWzWdtErI,Not run this code 😢,-0.4767,Negative,,-0.4767
+147,-cXWzWdtErI,Which app bro u using?,0.0,Neutral,,
+148,-cXWzWdtErI,"Best design 
+Can you share the explaination of the python turtle code",0.7506,Positive,0.7506,
+149,-cXWzWdtErI,I'm using this App too😂🎉,0.6808,Positive,0.6808,
+150,-cXWzWdtErI,for how long you are coding python?,0.0,Neutral,,
+151,-cXWzWdtErI,Thare is an error in line 5,-0.4019,Negative,,-0.4019
+152,-cXWzWdtErI,Vaaaw you use phone,0.0,Neutral,,
+153,-cXWzWdtErI,"Why it's not run..???
+
+Traceback (most recent call last):
+  File ""/data/user/0/ru.iiec.pydroid3/files/temp_iiec_codefile.py"", line 11, in <module>
+    t.pencolor(col[i%3])
+  File ""/data/user/0/ru.iiec.pydroid3/files/aarch64-linux-android/lib/python3.9/turtle.py"", line 2253, in pencolor
+    color = self._colorstr(args)
+  File ""/data/user/0/ru.iiec.pydroid3/files/aarch64-linux-android/lib/python3.9/turtle.py"", line 2697, in _colorstr
+    return self.screen._colorstr(args)
+  File ""/data/user/0/ru.iiec.pydroid3/files/aarch64-linux-android/lib/python3.9/turtle.py"", line 1159, in _colorstr
+    raise TurtleGraphicsError(""bad color string: %s"" % str(color))
+turtle.TurtleGraphicsError: bad color string:  green
+
+Tell me...!!",-0.6832,Negative,,-0.6832
+154,-cXWzWdtErI,No this no work😠😠😠,-0.6381,Negative,,-0.6381
+155,-cXWzWdtErI,Youhave a teligram group,0.0,Neutral,,
+156,-cXWzWdtErI,Bhai mera 5 wala arha hai turtle is not a attribute screen,0.0,Neutral,,
+157,-cXWzWdtErI,which app compiler you use mam,0.0,Neutral,,
+158,-cXWzWdtErI,This video skipped and last one is cut and editing,-0.2732,Negative,,-0.2732
+159,b093aqAZiPU,📩 Get the latest high-quality tutorial and tips and tricks videos emailed to your inbox each week: https://kevinstratvert.com/newsletter/,-0.128,Negative,,-0.128
+160,b093aqAZiPU,"Thanks for the great Python content and explanations. Could you please make a video on how to start writing software?
+thank you.",0.8957,Positive,0.8957,
+161,b093aqAZiPU,"print(""kevin stravert has a great channel"")",0.6249,Positive,0.6249,
+162,b093aqAZiPU,thank you!,0.4199,Positive,0.4199,
+163,b093aqAZiPU,During the start I was like wow thanks for teaching me the print function of all things.... then by the end the amount of power that simple function has was mind blowing🤯,0.8481,Positive,0.8481,
+164,b093aqAZiPU,I DONT want to give up. It's showing invalid syntax for thomas's age 😂 Is it because I 'played' it 'too many times'?,0.6222,Positive,0.6222,
+165,b093aqAZiPU,"I just want to say thank you , because of this video it helps me to get started working in python. You've explained  each topics very well!!!",0.8257,Positive,0.8257,
+166,b093aqAZiPU,You've taught me something and it's only right I say THANK YOU!!! All these other courses don't actually explain these crucial steps click by click during installation process etc. This is exactly what I needed.,0.626,Positive,0.626,
+167,b093aqAZiPU,Very easy to understand. Excellent! Hope to see more videos on Practical examples using IF and ElIF,0.8775,Positive,0.8775,
+168,b093aqAZiPU,"whenver i write down python --version in the cmd, i get literally nothing, altho i have python, i treid to write down google --version and i got that i dont have that program, whats wrong ?",-0.4767,Negative,,-0.4767
+169,b093aqAZiPU,this is great,0.6249,Positive,0.6249,
+170,b093aqAZiPU,An excellent step by step tutorial that makes understanding of key concepts seem so easy!,0.8286,Positive,0.8286,
+171,b093aqAZiPU,Thank you so much.  You've got such a clear and concise way of teaching. 😊,0.8779,Positive,0.8779,
+172,b093aqAZiPU,Very easy to understand! Thank you very much!,0.7412,Positive,0.7412,
+173,b093aqAZiPU,It works only with computer?,0.0,Neutral,,
+174,b093aqAZiPU,Wow!! That's cool Python  Tutorial in briefly..,0.7707,Positive,0.7707,
+175,b093aqAZiPU,Love the way you explained python. Makes me feel I can do it.,0.6369,Positive,0.6369,
+176,XnSasPR2KJI,Click on the link to get the Notes:-https://drive.google.com/file/d/1QI-fSKzgyaQHsQC9SSFBhMD5mh3ciR4Z/view?usp=sharing,0.0,Neutral,,
+177,XnSasPR2KJI,window 11 me  vs code python kese install kre,0.0,Neutral,,
+178,XnSasPR2KJI,Not so bad..carry on❤️,0.0,Neutral,,
+179,XnSasPR2KJI,"me socha tha roz 1 ghanta video dekhunga to 11 din me python clear , par aaj 3 din ho gaye 5 hour se 6 hour nhi hui video",0.3818,Positive,0.3818,
+180,XnSasPR2KJI,Me who watching this video so that I can have phone pay someday 😅😅,0.5574,Positive,0.5574,
+181,XnSasPR2KJI,Thank you Mam. This series is thoroughly helpful,0.6801,Positive,0.6801,
+182,XnSasPR2KJI,"TimeStamps : 
+00:00 - 01:15: Introduction 
+01:15 - 35:59: Chapter 1: Python Essentials 
+35:59 - 1:03:22: Variables Unveiled 
+1:03:22 - 1:17:54: Python's Data 
+1:17:54 - 2:27:30: Input, Operators, and Typecasting 
+2:27:30 - 4:16:42: Chapter 2: Navigating Conditionals and Loops 
+4:16:42 - 4:41:44: Pattern Printing 
+4:41:44 - 7:02:07: Chapter 3: Python's Collection 
+7:02:07 - 8:00:06: Chapter 4: Function
+8:00:06 - 8:49:15: Chapter 5:  Recursion
+8:49:15 - 9:55:50: Chapter 6: Strings 
+9:55:50 - 11:36:04: Chapter 7: Python's OOPS 
+11:36:04 - End: Thank You and Keep Coding!",0.4199,Positive,0.4199,
+183,XnSasPR2KJI,"Mam
+.ur ultimate teacher for this ..very helpful.. really appreciate 🙏",0.7468,Positive,0.7468,
+184,XnSasPR2KJI,Mam hats off to you before in class i have not understood like how you made us understand looking forward to know about different programming languages from you.,-0.2755,Negative,,-0.2755
+185,XnSasPR2KJI,Mam aapne windows me python download to batata hi nhi,0.0,Neutral,,
+186,XnSasPR2KJI,Thanks for your program,0.4404,Positive,0.4404,
+187,XnSasPR2KJI,no subtitles coming in the middle of video😭,-0.6486,Negative,,-0.6486
+188,WGJJIrtnfpk,"Got a question on the topic? Please share it in the comment section below and our experts will answer it for you. For Python Programming Certification Curriculum, Visit our Website: https://bit.ly/2Y58PfN (Use Code ""𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎"") 🔴Subscribe to Edureka YouTube channel for latest video updates: http://bit.ly/2ADbbb1
+Below is the video timestamp:
+1:55 What is Python?
+3:40 Why is Python popular?
+4:55 Features of Python
+6:50 Where is Python used in the industry?
+7:50 Learning Path
+9:15 Career Opportunities
+10:30 How Netflix use Python?
+11:55 How does it use Python?
+18:15 Python Developer Salary
+18:50 Who is Python Developer?
+19:20 Python Developer Job Trends
+21:55 How to become a Python Developer?
+23:05 Who is a Python developer?
+33:50 Job Roles
+41:40 Emerging Job Roles
+44:30 Road Map
+47:05 Python Installation
+54:30 How to run a Python program?
+58:35 Best IDE for Python
+59:35 What is an IDE?
+59:50 Features of an IDE
+1:00:50 Best IDEs of Python
+1:07:40 PyCharm Tutorial
+1:07:42 Introduction to PyCharm
+1:09:07 Features of PyCharm
+1:28:02 Comments in Python
+1:28:52 What are Comments?
+1:29:47 When to use Python?
+1:30:22 How to write comments in Python?
+1:32:22 Types of Comments
+1:35:57 Docstring Comments
+1:39:02 Variables & Data Types
+1:39:17 Variable definition & Declaration
+1:41:22 Data Types
+1:41:42 Numbers
+1:43:12 String
+1:46:02 List
+1:48:12 Dictionary
+1:50:12 Tuple
+1:51:27 Set
+1:53:52 Type Conversion
+1:54:42 Python Collections
+1:57:12 Specialised Collections Data Types
+2:14:57 Arrays
+2:15:32 What is an Array?
+2:17:27 How to create Arrays in Python?
+2:20:52 Accessing Array Elements
+2:22:42 Basic Array Operations
+2:24:27 Adding elements to an Array
+2:27:52 Removing Elements of an Array
+2:33:42 Slicing an Array
+2:36:12 Looping through an Array
+2:39:57 Hash Table and HashMap
+2:41:37 Creating Dictionaries
+2:44:02 Nested dictionaries
+2:46:52 Performing Operations on Hash Table
+2:55:32 Operators in Python
+3:13:17 Loops in Python 
+3:13:52 Why to use Python?
+3:16:12 What are Loops?
+3:18:07 Loops in Python
+3:18:17 While Loop
+3:26:22 For Loop
+3:32:22 Nested Loop
+3:48:12 Patterns in Python
+4:24:27 File Handling
+4:25:07 Why need File Handling
+4:27:02 Types of Files
+4:28:37 What is File Handling?
+4:29:22 Python File Handling System
+4:32:52 File Operations for Reading
+4:41:27 Python File Write Method
+4:47:37 Decorator
+4:48:22 Functions in Python
+4:54:07 Decorators in Python
+5:08:32 Lambda
+5:10:17 How to write Anonymous functions?
+5:29:02 Map-Reduce Functions
+5:29:47 Introduction to map(), filter(), reduce()
+5:46:22 What are Generators?
+5:47:32 Normal functions vs Generators
+5:48:02 Writing Generators in Python
+5:52:57 Generators with Loops
+5:53:57 Generator Expressions
+5:56:22 Use-Cases
+6:02:27 OOPS Concepts
+6:03:07 Classes & Objects
+6:33:47 Inheritance in Python
+6:36:52 Types of Inheritance
+6:42:47 Python Super Function
+6:44:52 Exception Handling
+6:54:42 Try & Except block
+7:05:52 Python Module
+7:07:47 How to create a Module?
+7:17:33 Python Modules Search Path
+7:24:23 Date & Time
+7:24:58 time module
+7:38:23 Numpy
+7:38:58 What is Numpy?
+7:41:43 Numpy vs List
+7:49:03 Numpy Operations
+8:05:23 Numpy Special Functions
+8:09:58 SciPy
+8:10:48 What is Python SciPy?
+8:12:23 Basic Functions
+8:15:48 Special Functions
+8:18:53 Integration Functions
+8:24:43 Linear Algebra
+8:26:48 Interpolation Functions
+8:28:18 Pandas
+8:29:18 Data life-cycle
+8:31:23 What is Pandas?
+8:35:33 Pandas Operations
+8:54:13 Example
+8:59:38 Python for Statistics
+9:02:43 Pydoop
+9:04:03 Matplotlib
+9:04:28 Data Visualization
+9:09:13 Matplotlib
+9:10:13 Types of Plots
+9:30:13 Multiple Plots
+9:32:18 Seaborn
+9:32:53 Introduction to Seaborn
+9:33:33 Seaborn vs Matplotlib
+9:34:28 How to install Seaborn?
+9:34:48 Installing Dependencies
+9:35:33 Python Seaborn Functions
+9:44:23 Multi-Plot Grids
+9:47:08 Plot Aesthetics
+9:50:58 FIFA Use-case
+10:15:33 OpenCV Tutorial
+10:16:03 What is Computer Vision?
+10:16:48 How computer reads an Image?
+10:18:53 What is OpenCV?
+10:19:58 Basic operations with OpenCV
+10:27:33 Face Detection
+10:27:38 Face Detection using OpenCV
+10:31:53 Capturing Video
+10:43:28 Use-case - Motion Detector 
+10:54:58 Web Development Framework
+10:55:23 What are Frameworks in Python?
+11:08:34 Python Web Development
+11:09:04 Python Web Development Libraries
+11:09:24 Python & Django
+11:28:19 Web Scraping
+11:33:49 Packages used for web Scraping",0.9849,Positive,0.9849,
+189,WGJJIrtnfpk,"Can you please provide python notes pdf of this whole course ...???? 
+This is the best channel i have seen up to now!",0.8295,Positive,0.8295,
+190,WGJJIrtnfpk,Respected madam. Keep doing good,0.7184,Positive,0.7184,
+191,WGJJIrtnfpk,Thank you so much mam and sir  I will happy who to learn the python afraid but is easy I learn more once again thank you edureka chennal,0.8909,Positive,0.8909,
+192,WGJJIrtnfpk,Is this video enough for beginners who wanted to learn full python course?,0.0,Neutral,,
+193,WGJJIrtnfpk,"Hello mam/Sir Im learning Python course .I want also certifacte 
+I m learning new programming language in this session is help full to me .Thank you , for all team of Edureka",0.6705,Positive,0.6705,
+194,WGJJIrtnfpk,Most informative and useful,0.4877,Positive,0.4877,
+195,WGJJIrtnfpk,6 million views on a 11 hour long video about coding... Dear God...,0.5719,Positive,0.5719,
+196,WGJJIrtnfpk,Thank you so much edureka team. Such a great job.❤.,0.8957,Positive,0.8957,
+197,WGJJIrtnfpk,I'm a QA Engineer and interested to learn python for automation . Does this video cover all the relevant topics or do you have any other link to learn .,0.4019,Positive,0.4019,
+198,WGJJIrtnfpk,This is by far the best training video I have every seen. Lots of detail included. These instructors are wonderful at sharing their knowledge. Wish they would do a video on python game development in the future.😊,0.9607,Positive,0.9607,
+199,WGJJIrtnfpk,"1:55 What is Python?
+3:40 Why is Python popular?
+4:55 Features of Python
+6:50 Where is Python used in the industry?
+7:50 Learning Path
+9:15 Career Opportunities
+10:30 How Netflix use Python?
+11:55 How does it use Python?
+18:15 Python Developer Salary
+18:50 Who is Python Developer?
+19:20 Python Developer Job Trends
+21:55 How to become a Python Developer?
+23:05 Who is a Python developer?
+33:50 Job Roles
+41:40 Emerging Job Roles
+44:30 Road Map
+47:05 Python Installation
+54:30 How to run a Python program?
+58:35 Best IDE for Python
+59:35 What is an IDE?
+59:50 Features of an IDE
+1:00:50 Best IDEs of Python
+1:07:40 PyCharm Tutorial
+1:07:42 Introduction to PyCharm
+1:09:07 Features of PyCharm
+1:28:02 Comments in Python
+1:28:52 What are Comments?
+1:29:47 When to use Python?
+1:30:22 How to write comments in Python?
+1:32:22 Types of Comments
+1:35:57 Docstring Comments
+1:39:02 Variables & Data Types
+1:39:17 Variable definition & Declaration
+1:41:22 Data Types
+1:41:42 Numbers
+1:43:12 String
+1:46:02 List
+1:48:12 Dictionary
+1:50:12 Tuple
+1:51:27 Set
+1:53:52 Type Conversion
+1:54:42 Python Collections
+1:57:12 Specialised Collections Data Types
+2:14:57 Arrays
+2:15:32 What is an Array?
+2:17:27 How to create Arrays in Python?
+2:20:52 Accessing Array Elements
+2:22:42 Basic Array Operations
+2:24:27 Adding elements to an Array
+2:27:52 Removing Elements of an Array
+2:33:42 Slicing an Array
+2:36:12 Looping through an Array
+2:39:57 Hash Table and HashMap
+2:41:37 Creating Dictionaries
+2:44:02 Nested dictionaries
+2:46:52 Performing Operations on Hash Table
+2:55:32 Operators in Python
+3:13:17 Loops in Python 
+3:13:52 Why to use Python?
+3:16:12 What are Loops?
+3:18:07 Loops in Python
+3:18:17 While Loop
+3:26:22 For Loop
+3:32:22 Nested Loop
+3:48:12 Patterns in Python
+4:24:27 File Handling
+4:25:07 Why need File Handling
+4:27:02 Types of Files
+4:28:37 What is File Handling?
+4:29:22 Python File Handling System
+4:32:52 File Operations for Reading
+4:41:27 Python File Write Method
+4:47:37 Decorator
+4:48:22 Functions in Python
+4:54:07 Decorators in Python
+5:08:32 Lambda
+5:10:17 How to write Anonymous functions?
+5:29:02 Map-Reduce Functions
+5:29:47 Introduction to map(), filter(), reduce()
+5:46:22 What are Generators?
+5:47:32 Normal functions vs Generators
+5:48:02 Writing Generators in Python
+5:52:57 Generators with Loops
+5:53:57 Generator Expressions
+5:56:22 Use-Cases
+6:02:27 OOPS Concepts
+6:03:07 Classes & Objects
+6:33:47 Inheritance in Python
+6:36:52 Types of Inheritance
+6:42:47 Python Super Function
+6:44:52 Exception Handling
+6:54:42 Try & Except block
+7:05:52 Python Module
+7:07:47 How to create a Module?
+7:17:33 Python Modules Search Path
+7:24:23 Date & Time
+7:24:58 time module
+7:38:23 Numpy
+7:38:58 What is Numpy?
+7:41:43 Numpy vs List
+7:49:03 Numpy Operations
+8:05:23 Numpy Special Functions
+8:09:58 SciPy
+8:10:48 What is Python SciPy?
+8:12:23 Basic Functions
+8:15:48 Special Functions
+8:18:53 Integration Functions
+8:24:43 Linear Algebra
+8:26:48 Interpolation Functions
+8:28:18 Pandas
+8:29:18 Data life-cycle
+8:31:23 What is Pandas?
+8:35:33 Pandas Operations
+8:54:13 Example
+8:59:38 Python for Statistics
+9:02:43 Pydoop
+9:04:03 Matplotlib
+9:04:28 Data Visualization
+9:09:13 Matplotlib
+9:10:13 Types of Plots
+9:30:13 Multiple Plots
+9:32:18 Seaborn
+9:32:53 Introduction to Seaborn
+9:33:33 Seaborn vs Matplotlib
+9:34:28 How to install Seaborn?
+9:34:48 Installing Dependencies
+9:35:33 Python Seaborn Functions
+9:44:23 Multi-Plot Grids
+9:47:08 Plot Aesthetics
+9:50:58 FIFA Use-case
+10:15:33 OpenCV Tutorial
+10:16:03 What is Computer Vision?
+10:16:48 How computer reads an Image?
+10:18:53 What is OpenCV?
+10:19:58 Basic operations with OpenCV
+10:27:33 Face Detection
+10:27:38 Face Detection using OpenCV
+10:31:53 Capturing Video
+10:43:28 Use-case - Motion Detector 
+10:54:58 Web Development Framework
+10:55:23 What are Frameworks in Python?
+11:08:34 Python Web Development
+11:09:04 Python Web Development Libraries
+11:09:24 Python & Django
+11:28:19 Web Scraping
+11:33:49 Packages used for web Scraping",0.981,Positive,0.981,
+200,WGJJIrtnfpk,"This is great info, I am pivoting my career out of being a chairside dentist and back to tech, this will give me a chance to reset my career, thank you!",0.8356,Positive,0.8356,
+201,WGJJIrtnfpk,"thank you so much for the tutorial, you make the world better",0.6597,Positive,0.6597,
+202,WGJJIrtnfpk,good job this really helped me,0.4404,Positive,0.4404,
+203,WGJJIrtnfpk,"happy  coding  
+
+#Dcodeworld",0.5719,Positive,0.5719,
+204,WGJJIrtnfpk,Thanks you so much ❤😊,0.9241,Positive,0.9241,
+205,ITSMDeOgXxw,🔥Become An AI & ML Expert Today: https://taplink.cc/simplilearn_c_ai_ml,0.0,Neutral,,
+206,ITSMDeOgXxw,Hallo sir mujhe karna hea course,0.0,Neutral,,
+207,ITSMDeOgXxw,option (c),0.0,Neutral,,
+208,ITSMDeOgXxw,"'pip' is not recognized as an internal or external command,
+operable program or batch file. how to fix",0.0,Neutral,,
+209,ITSMDeOgXxw,Wish you guys make short videos like 10 minutes videos is better than hours videos,0.7964,Positive,0.7964,
+210,ITSMDeOgXxw,can i get the code please?,0.3182,Positive,0.3182,
+211,ITSMDeOgXxw,Thank 🎉,0.6369,Positive,0.6369,
+212,ITSMDeOgXxw,v nice explanation thank you soo much☺☺☺,0.9231,Positive,0.9231,
+213,ITSMDeOgXxw,"Hello Simplilearn, the tutorial looks great but I am having difficulty following with my Mac",-0.1406,Negative,,-0.1406
+214,ITSMDeOgXxw,hey cna you help me with the installation of anaconda... i just did it but the app doesn't launch and even after writing conda info it says no command of such type Is recognised,-0.2382,Negative,,-0.2382
+215,ITSMDeOgXxw,I want to buy your python complete course content for my institute if you're interested then reply to me.,0.4588,Positive,0.4588,
+216,ITSMDeOgXxw,"I have completed my course, but I'm not getting free certificate.. It's asking me to pay some dues!!",-0.6944,Negative,,-0.6944
+217,ITSMDeOgXxw,Can we get the notes 📝  fir this complete video,0.0,Neutral,,
+218,ITSMDeOgXxw,"Can you break this up into smaller videos so it's easier to rewind things? It's hard to pinpoint a specific spot a few seconds earlier when the timeline is so large, even with it broken up into sections.",-0.1082,Negative,,-0.1082
+219,ITSMDeOgXxw,What if I have 10 yrs of gap after my college...n i m a beginner in python learning right now...,0.0,Neutral,,
+220,ITSMDeOgXxw,"thank you guys , appreciate your hard work",0.5859,Positive,0.5859,
+221,ITSMDeOgXxw,please can you enable the download button for those of us who wants to learn offline. i prefer learning offline in order to aviod distractions from pop up messages or notifications,-0.1779,Negative,,-0.1779
+222,ITSMDeOgXxw,is this video has projects?,0.0,Neutral,,
+223,ITSMDeOgXxw,"Python 3.11 only show in my laptop 
+How can i install python 3.9.5",0.0,Neutral,,
+224,ITSMDeOgXxw,Thanks for providing such a great opportunity. I need a course in ai for free.,0.9201,Positive,0.9201,
+225,eWRfhZUzrAc,"If you just want a summary, learn all Python syntax in 25 minutes: https://youtu.be/PNSIWjWAA7o",0.0772,Positive,0.0772,
+226,eWRfhZUzrAc,"I teach languages and wow.... you're so far, the best teacher for this aspiring Pythoner!",0.861,Positive,0.861,
+227,eWRfhZUzrAc,"Hi @beau, it is ""List comprehension"" and not ""List compression"", isn't it?",0.0,Neutral,,
+228,eWRfhZUzrAc,Random comment while watching this to study for a final exam: I’m enjoying the jokes along the way lol,0.802,Positive,0.802,
+229,eWRfhZUzrAc,the blackjam game makes my head dizzy. am i too noob for this??,-0.3527,Negative,,-0.3527
+230,eWRfhZUzrAc,"The first example of rock, paper, and scissors is not complete for checking the winner,  but the tutorial is wonderful",0.8151,Positive,0.8151,
+231,eWRfhZUzrAc,"For the rock paper scissors program, did anyone else do,
+
+def check_win(player, computer):
+  print(f""You chose {player} and the computer chose {computer}"")
+  if player == computer:
+    return ""DRAW!""
+
+  elif player == ""rock"" and computer == ""scissors"":
+    return ""Rock beats scissors, YOU WIN!""
+
+  elif player == ""paper"" and computer == ""rock"":
+    return ""Paper beats rock, YOU WIN!""
+
+  elif player == ""scissors"" and computer == ""paper"":
+    return ""Scissors beats paper, YOU WIN!""
+
+  else:
+    return computer + "" beats "" + player + "" you lose. D;""
+
+instead of having alternatives for both wins and losses? Feels simpler. Also, is there a way to set a variable as higher than another? What I initially tried earlier and failed was to do was make 
+
+rock > scissors, and so on. Have not watched the full vid yet, just wondering.",0.9205,Positive,0.9205,
+232,eWRfhZUzrAc,What is python? Means,0.0,Neutral,,
+233,eWRfhZUzrAc,"I get indentation Error? dont know why, I use the same code as in video:
+
+def get_choices(): 
+player_choice = ""rock""
+computer_choice = ""paper""
+
+return computer_choice
+
+choices = get_choices()
+print(choices)",-0.4019,Negative,,-0.4019
+234,eWRfhZUzrAc,The way I was taught to see the difference between < and > was to remember that the large side of the symbol was facing the largest number. So with > we are checking if the number to the left is greater than the number to the right because the large side is facing that number. Another way of seeing it is that the symbol is trying to eat one of the numbers and it wants to eat the largest piece of the pie.,0.5719,Positive,0.5719,
+235,eWRfhZUzrAc,"Having issues with my black jack games. Everything seems to work except when I hit play and input a number of games, my code calculates winner and loser without ever invoking the choice or hit or stand. Where am I going wrong",0.0,Neutral,,
+236,eWRfhZUzrAc,"Hello everyone,
+Does anybody know where can I find the Blackjack code ?
+I wrote it along Beau but I keep getting errors and can't find where I'm making a mistake.
+Thanks!",-0.3903,Negative,,-0.3903
+237,eWRfhZUzrAc,"Replit is not generating the output. But when I copy the code to another python compiler, it was working fine.",0.296,Positive,0.296,
+238,DInMru2Eq6E,Wow I got a good teacher I know now about python thanks 👍 for helping mam,0.8957,Positive,0.8957,
+239,DInMru2Eq6E,I am who came to see only for you mam My heart is full of you not tube,0.6369,Positive,0.6369,
+240,DInMru2Eq6E,Mam apke notes chahiye,0.0,Neutral,,
+241,DInMru2Eq6E,"Mam it's showing that the file is not available
+
+I mean the notes
+
+Where can I find it 
+
+Please tell me mam",0.3182,Positive,0.3182,
+242,DInMru2Eq6E,Wow Wow Finally I found.. My favorite teacher teaching Python!🤩🤩,0.8977,Positive,0.8977,
+243,DInMru2Eq6E,"Good lectures,and very easy to understand",0.7264,Positive,0.7264,
+244,DInMru2Eq6E,"Mam... Please you full crouse in java and javascript
+Mam... I really watched your coding all lecherous i am 🇵🇰 student❤❤",0.8934,Positive,0.8934,
+245,DInMru2Eq6E,Waiting for more new Daily updates from You Mam in Python and related to computer science..Essyly understandable class by u...😊🎉❤,0.9169,Positive,0.9169,
+246,DInMru2Eq6E,Nxt video when,0.0,Neutral,,
+247,DInMru2Eq6E,Thank u so much Mam..😊,0.83,Positive,0.83,
+248,DInMru2Eq6E,Please  improve your  handwriting  please,0.7579,Positive,0.7579,
+249,DInMru2Eq6E,"Good Evening Madam
+Myself I am Krishna Karthik. I am willing to learn python Programming language totally from beginning to end of this program language. So it's my kind request to you help me and guide to learn python Programming language in 30 to 45 days duration so that I can attend the interview after next month completion",0.8505,Positive,0.8505,
+250,DInMru2Eq6E,"Hello dear madam I am non it experienced person.
+I am a fresher of python,
+After learning python in resume can I add both non it experience and python as a fresher. 
+
+
+
+Please reply me",0.5994,Positive,0.5994,
+251,DInMru2Eq6E,Mam python is written in which software please tell,0.3182,Positive,0.3182,
+252,eaMDDseIL7E,What for about performance?),0.0,Neutral,,
+253,eaMDDseIL7E,why doesn't it work on colab?,0.0,Neutral,,
+254,eaMDDseIL7E,ithing using python like using inbuilded functions from library,0.3612,Positive,0.3612,
+255,eaMDDseIL7E,It isn't this work for phone 😢😢😢,-0.8519,Negative,,-0.8519
+256,eaMDDseIL7E,It was cool but when I used it it gave me another shape but that was cool to!,0.5983,Positive,0.5983,
+257,eaMDDseIL7E,"Is there any specific app or website to run this code or I can just normally save this code and run in the terminal.
+And Will I be able to see that pattern there after?",0.4939,Positive,0.4939,
+258,eaMDDseIL7E,"import turtle
+import coloursys
+t =  turtle.Turtle()
+s = turtle.Screen().bgcolour('black')
+t.speed(0)
+n  = 70
+h = 0
+for i in range(360):
+     c = coloursys.hsv_to_rbd(h, 1, 0.8)
+     h+=1/n
+     t.colour(c)
+     t.left(1)
+     t.fd(1)
+     for j in range(2):
+           t.left(2)
+           t.circle(100)",0.0,Neutral,,
+259,eaMDDseIL7E,"My phone shows me there is a mistake at h+
+Edit:Pls help me",0.0772,Positive,0.0772,
+260,eaMDDseIL7E,😢so fast 🤧,-0.4767,Negative,,-0.4767
+261,eaMDDseIL7E,"import turtle
+
+import colorsys
+
+t = turtle. Turtle()
+
+s = turtle.Screen().bgcolor('black')
+
+t.speed(8)
+
+n = 78
+
+h=8
+
+for i in range(360):
+
+ c = colorsys.hsv_to_rgb(h, 1, 0.8)
+
+ h+= 1/n
+
+ t.color(c)
+
+ t.left(1)
+
+ t.fd(1)
+
+for j in range(2):
+
+ t.left(2)
+
+ t.circle(100)",0.0,Neutral,,
+262,eaMDDseIL7E,Worked 👍,0.0,Neutral,,
+263,eaMDDseIL7E,How to run main,0.0,Neutral,,
+264,eaMDDseIL7E,"i can't run it guys it's line 5  the problem is line 5
+i need help",0.0,Neutral,,
+265,eaMDDseIL7E,You can increase size of multi colour ball by increasing t.circle(100) value,0.5719,Positive,0.5719,
+266,eaMDDseIL7E,thaks worked 👍👍👍👍,0.0,Neutral,,
+267,eaMDDseIL7E,"here is the correct code
+import turtle
+import colorsys
+
+t = turtle.Turtle()
+s = turtle.Screen().bgcolor('black')
+t.speed(0)
+n = 70
+h = 0
+
+for i in range(360):
+    c = colorsys.hsv_to_rgb(h, 1, 0.8)
+    h += 1 / n
+    t.color(c)
+    t.left(1)
+    t.fd(1)
+    for j in range(2):
+        t.left(2)
+        t.circle(100)",0.0,Neutral,,
+268,fr1f84rg4Nw,"Aap sabka nahi pata lekin mai to ab jab bhi revision karka hua python ka to yahi video dekhunga!
+Thanks a lot for all the support you have given to me and my videos! This is the first time I am doing this and I really enjoyed it! Make sure to grab the source code from the description and let me know which programming language to cover next because I really enjoyed doing it! Did you guyz understand it? Should this video be for revision or should it be watched by a complete beginner..What do you think ?",0.9486,Positive,0.9486,
+269,fr1f84rg4Nw,"Sir, I wanna tell about my education that i'am studying in 10th standard. Can I learn this Pro lgraming language.🙏",0.0,Neutral,,
+270,fr1f84rg4Nw,"Make a calculator in python easily. click the link below to check the blog
+https://pythonmakeseasy.blogspot.com/2023/12/tutorial-to-make-simple-calculator-in.html",0.34,Positive,0.34,
+271,fr1f84rg4Nw,"Make a calculator in python easily. click the link below to check the blog
+https://pythonmakeseasy.blogspot.com/2023/12/tutorial-to-make-simple-calculator-in.html",0.34,Positive,0.34,
+272,fr1f84rg4Nw,Very useful video,0.4927,Positive,0.4927,
+273,fr1f84rg4Nw,please make videos on python all topics fast videos,0.3182,Positive,0.3182,
+274,fr1f84rg4Nw,Can anyone tellme how to go in next line wgen i press enter program runs,0.0,Neutral,,
+275,fr1f84rg4Nw,Love this channel 🥰 best teacher ever,0.9493,Positive,0.9493,
+276,fr1f84rg4Nw,"Fully loaded tutorial, you covered all the fundamentals in just 15 minutes. Thank you.",0.3612,Positive,0.3612,
+277,fr1f84rg4Nw,bhai ye to sach me 15 minute me sikha die,-0.5994,Negative,,-0.5994
+278,fr1f84rg4Nw,"https://onlinepractices.blogspot.com/2023/12/python-interview-coding-questions-with.html
+
+https://onlinepractices.blogspot.com/2023/12/basic-python-interview-questions-for.html
+
+https://onlinepractices.blogspot.com/2023/12/java-interview-questions-for-freshers.html
+
+Best interview questions🙋 for practice Python and java please check this out",0.8658,Positive,0.8658,
+279,fr1f84rg4Nw,Task complete👌💯,0.7297,Positive,0.7297,
+280,B9nFMZIYQl0,👨‍💻 FORK THIS REPL 👉 http://join.replit.com/cp-python,0.0,Neutral,,
+281,B9nFMZIYQl0,"Honest opinion is that this course is a WASTE OF YOUR TIME. If you want to learn programming, buy 100 days od code course for like $10.",0.3751,Positive,0.3751,
+282,B9nFMZIYQl0,"4:20:00
+Can someone explain why this wouldn't be easier?:
+
+def find_max(number: list):
+    print(f""The biggest number is {max(number)}"")
+
+
+find_max([1, 2, 3, 65, 7])",-0.2575,Negative,,-0.2575
+283,B9nFMZIYQl0,It's a fantastic course. Thanks a lot for your effort but Markdown is not coming. Any suggestions? @CleverProgrammer,0.5023,Positive,0.5023,
+284,B9nFMZIYQl0,"you guys going to have to figure out more practical ways to teach this stuff, building little tip calculators and calculators is soooooo fucking boring",-0.3804,Negative,,-0.3804
+285,B9nFMZIYQl0,"which is better using an f string or converting it into a str? 27:01
+
+nvm both is good XD",0.8842,Positive,0.8842,
+286,B9nFMZIYQl0,HOly cow!  I am not ready for that yet but I appreciate the work!,0.5543,Positive,0.5543,
+287,B9nFMZIYQl0,i fell in love with your teaching 😭😭,-0.25,Negative,,-0.25
+288,B9nFMZIYQl0,This video is 11:34. Why do you say 12 hours?,0.0,Neutral,,
+289,B9nFMZIYQl0,"hi, I'm a beginner in coding. I have a problem with the counter app. the increment and decrement goes by 2. if I open the app in a new window , it becomes normal and the increment/decrement goes by 1. Can you please help??",0.3939,Positive,0.3939,
+290,B9nFMZIYQl0,7:25:13 how to get this Css file?(,0.0,Neutral,,
+291,B9nFMZIYQl0,where we find notes,0.0,Neutral,,
+292,B9nFMZIYQl0,where we find nots,0.0,Neutral,,
+293,B9nFMZIYQl0,Yoo,0.0,Neutral,,
+294,B9nFMZIYQl0,please i am  having  issues with the markdown its not bringing out anything please what do i do,0.5574,Positive,0.5574,
+295,YfO28Ihehbk,"Navin sir, can you please make a video on interview questions asked for python ?  would be really helpful. Paid course will also work",0.659,Positive,0.659,
+296,YfO28Ihehbk,Giving this kind of quality content & that too for free is much more than awesome. You have done a great work sir and thank you so much for that.,0.9492,Positive,0.9492,
+297,YfO28Ihehbk,"Sir , can u provide notes for python for beginners, free or paid basis",0.5106,Positive,0.5106,
+298,YfO28Ihehbk,"very good explanation sir, way of your teaching Python is Awesome👏👏👏",0.807,Positive,0.807,
+299,YfO28Ihehbk,Any one 2023,0.0,Neutral,,
+300,YfO28Ihehbk,Great thanks dear,0.8625,Positive,0.8625,
+301,YfO28Ihehbk,"01:04 introduction to python
+05:14 Python setup
+13:06 Getting started with python
+27:02 variables in python
+36:48 list in python
+47:02 tuple / set in python
+53:16 python set path in Windows and help
+58:46 more on variables in python
+01:07:31 data types in python
+01:21:42 operators in python
+01:32:24 number system conversion in python
+01:40:17 IDLE previous command | clear screen
+01:43:11 python BitWise operators
+01:55:28 import math function in python
+02:02:43 working with PyCharm | run | debug | trace | Py file
+02:12:38 user input in python | command line input
+02:23:57 if..elif..else statement in python
+02:39:01 while loop in python
+02:51:19 for loop in python
+02:58:09 break.. continue..pass in python
+03:07:57 printing patterns in python",0.6808,Positive,0.6808,
+302,YfO28Ihehbk,Jesus i set path in 3 h.....omg thx for this ...i am EXTRA beginner,0.3612,Positive,0.3612,
+303,YfO28Ihehbk,How to contact,0.0,Neutral,,
+304,YfO28Ihehbk,Sir I have a num I will talk to him,0.0,Neutral,,
+305,YfO28Ihehbk,Comming back from 2023 just for his explanation ❤,0.6369,Positive,0.6369,
+306,YfO28Ihehbk,"If you don't mind, Does learning multiple languages is the reason of your baldness?🤔. Anyways you looking good 😊",0.836,Positive,0.836,
+307,YfO28Ihehbk,Who watching in 2023❤,0.6369,Positive,0.6369,
+308,YfO28Ihehbk,Is anyone from 2023,0.0,Neutral,,
+309,YfO28Ihehbk,After this can we get a job?,0.0,Neutral,,
+310,YfO28Ihehbk,Why are we writing 4 zeroes in starting while converting 12 into binary why is it not 1100 and 00001100,0.0,Neutral,,
+311,YfO28Ihehbk,Thank you so much! I enjoyed it a lot. Very clearly explained!,0.8638,Positive,0.8638,
+312,h1WdbfoHeac,"Basic to Advance Python Programming in Telugu
+
+Free Demo Visit: https://pythonlife.in/python-course-in-telugu.html
+
+We Provide 
+1.Daily Live Classes
+2.Recording Clasess 
+3.Study Material
+4.Real Time Projects 
+5.Certification
+6.Placement Assistance
+Mock Interviews.
+Resume Building.
+Daily Job Updates
+Interview Questions
+
+Timings:7pm to 9pm
+Duration: 45Days
+Contact Numbers:
+9154083255",0.128,Positive,0.128,
+313,h1WdbfoHeac,Python complete course ee topic varaku nerchukovali ee 10 hrs video lo nundi,0.0,Neutral,,
+314,h1WdbfoHeac,anybody has taken the python life subscription,0.0,Neutral,,
+315,h1WdbfoHeac,how to make it as a # comment in code can anyone expalin?,0.0,Neutral,,
+316,h1WdbfoHeac,Bro for i in range ane..run cheasthea..null ane chuspisthundw,0.0,Neutral,,
+317,h1WdbfoHeac,"Good explanation
+Thank you soo much",0.6597,Positive,0.6597,
+318,h1WdbfoHeac,Free learning link pettandi sir,0.5106,Positive,0.5106,
+319,h1WdbfoHeac,Degree complete ayer 8 years . now I am intrasteded in it is,0.0,Neutral,,
+320,h1WdbfoHeac,you are the best lecturer of it companies excellent bro,0.836,Positive,0.836,
+321,h1WdbfoHeac,"do you also teach live 1:1 classes ? if yes , please send the full details",0.6124,Positive,0.6124,
+322,h1WdbfoHeac,"Hi..Anna nen 10th completed so nen nerchukovacha python course
+nen eligible ha khada job ki try chesthe vasthunda pls reply me🙏",0.4019,Positive,0.4019,
+323,h1WdbfoHeac,Good explanation,0.4404,Positive,0.4404,
+324,h1WdbfoHeac,Mba (hr) tarvatha career gap unte ye course nerchukunte job vastundi. Plz,0.0772,Positive,0.0772,
+325,h1WdbfoHeac,Bro naku python medha interview undi bro naku kocham interview questions send cheye bro,0.0,Neutral,,
+326,h1WdbfoHeac,Are you a tutor? If not where do u work bro?,0.0,Neutral,,
+327,h1WdbfoHeac,"Thank you so much for your videos 
+I can understand your teaching 
+Thank you so much😊",0.8828,Positive,0.8828,
+328,nLRL_NcnK-4,"At 1:49.26
+How come you define function square(x) and use it with the function main( ) and it works?  is it suppose to give an error message about coding ?
+Earlier , in this video you just told that the variable must be defined before the point of it being used.  And also the variable of different functions cannot be interchange used  = you talked about the ""scope""  
+
+if you put >>>> def  square() above def main(), that would make sense according to what you had explained about defining the definition before the implementation.  But still it is about the ""scope"" issue?",-0.3378,Negative,,-0.3378
+329,nLRL_NcnK-4,It’s 1am and I clicked on this video to help me fall asleep. But this lecture was actually quite interesting…I guess imma have to listen to a lecture of quantum physics,0.2144,Positive,0.2144,
+330,nLRL_NcnK-4,İt is so magical to see a video which can teach you everything about python without money.İ haven't expect the video as it is.,0.0,Neutral,,
+331,nLRL_NcnK-4,"Kermit on dope, and wix ad every 2:30 minutes. I return to the good old medium of book. Sorry Harvard University.",0.3818,Positive,0.3818,
+332,nLRL_NcnK-4,I feel like it's nicer to have all your code on the same line or two lines if you can nest functions together. I think its necessary to comment what's happening for yourself though.,0.6597,Positive,0.6597,
+333,nLRL_NcnK-4,"""Your teaching is excellent; thank you very much. Is there any course that covers the topics of software foundation engineering and web technology in undergraduate ?""",0.7351,Positive,0.7351,
+334,nLRL_NcnK-4,He is a GOOD teacher.  Thanks!,0.7798,Positive,0.7798,
+335,nLRL_NcnK-4,"The professor says that the definition of a function must occur before that function can be called, and so he places the call to main() at the end of his code.  But the function main() itself occurs before the definition of the function square(n), and it's acceptable to call square(n) from main().  Why is this apparent exception acceptable?",0.7096,Positive,0.7096,
+336,nLRL_NcnK-4,As a beginner I watched this video for 40 minutes today and couldn’t stop. (I had to because it’s late at night 😂) I only have very limited Excel VBA experience but I can totally understand what he’s talking about. Seriously I think we should pay for the video because this is the first time I feel such things are clear and simple to me❤ Very impressive.,0.9364,Positive,0.9364,
+337,nLRL_NcnK-4,This is the first class that I've sat and followed that makes total sense to me!  Thanks!,0.5399,Positive,0.5399,
+338,nLRL_NcnK-4,what programming environment is he using?,0.0,Neutral,,
+339,nLRL_NcnK-4,"4:57  December 10
+17:10 December 12  -  inputs",0.0,Neutral,,
+340,nLRL_NcnK-4,One operation per line of code!!!!!!!!  and I WILL do just exactly that rrespective of what ANYBODY thinks!!,0.0,Neutral,,
+341,nLRL_NcnK-4,"Thnx 4 this, it will take me places ❤",0.6369,Positive,0.6369,
+342,nLRL_NcnK-4,(00:46:51) how to „double quote“,0.0,Neutral,,
+343,nLRL_NcnK-4,"How is your terminal in place, when I open terminal and do what u do in the beginning I get a new window and it doesn't stand in place",0.0,Neutral,,
+344,nLRL_NcnK-4,"Hello, beginner here following along with this course. I was able follow along with everything until he hit the (sys.argv) part of the lecture around 5 and a half hours in. I am using pycharm and when I run anything with sys.argv it returns a blank terminal even though I'm repeating everything character for character. I believe he said he was using visual studio at one point, should I switch to that? I'm sure it's just something I'm missing that would be common sense to some of yall. For reference I am using Pycharm community edition 2023.2 and I am just running the code straight from that instead of pulling up the terminal and entering the file name to call it. Anybody have any troubleshooting advice on that? Do I have to run it in a terminal to get it to work like he did? I'm stuck.",0.5775,Positive,0.5775,
+345,H2EJuAcrZYU,Interesting,0.4019,Positive,0.4019,
+346,H2EJuAcrZYU,Literally the best teacher Ive ever had the honor to learn from. Thanks for sharing your knowledge for free with us all,0.9468,Positive,0.9468,
+347,H2EJuAcrZYU,Thanks!,0.4926,Positive,0.4926,
+348,H2EJuAcrZYU,"Hi Dave, At timestamp 00:24:07 Python doesn't correct the indentation of the string. I  had already installed the extension package you suggested. I turned ""auto save"" ON, I also tried ""python > formatting:"" and it is in ""auto / default"" (there is no ""auto 8"".",0.25,Positive,0.25,
+349,H2EJuAcrZYU,"I couldn’t find the python > formatting: settings in the settings, could you help me with finding the issue here",0.4019,Positive,0.4019,
+350,H2EJuAcrZYU,very good. Downloaded your videos so i had to go through them here to give you thumbs up and a comment.,0.4927,Positive,0.4927,
+351,H2EJuAcrZYU,"question is there a way to set up 2 screens in which while im coding on the left, the eight screen gives or shows me what it will look like?",0.3612,Positive,0.3612,
+352,H2EJuAcrZYU,"Great video! The one thing that tripped me up was the recursion section, I highly suggest this video for anyone else who struggled with it: https://www.youtube.com/watch?v=ivl5-snqul8",0.4574,Positive,0.4574,
+353,H2EJuAcrZYU,"This course is excellent. After having followed along for seven hours, I have to thank you again for this wonderful instruction.",0.8904,Positive,0.8904,
+354,H2EJuAcrZYU,that was a good introduction for beginner,0.4404,Positive,0.4404,
+355,H2EJuAcrZYU,"Thank so much Dave. 
+That's amazing course.
+I loved and learned a lot.",0.8807,Positive,0.8807,
+356,H2EJuAcrZYU,"My gosh, this gold!!! ty u so much!!",0.5815,Positive,0.5815,
+357,H2EJuAcrZYU,finished the course in 2x * 2 days * 2hrs bc I was confusing some syntaxes thank you for the vid! it helped me a lot to get familiar with it,0.2244,Positive,0.2244,
+358,H2EJuAcrZYU,"i'm learning python for the first time, and im starting this course today. im excited to learn, thank you for making these materials available.",0.5994,Positive,0.5994,
+359,H2EJuAcrZYU,How did you autoformat the unexpected indentation ?,0.0,Neutral,,
+360,H2EJuAcrZYU,"*For those who are unable to activate the virtual environment on Windows*
+
+
+
+
+
+
+
+
+
+Since the author uses Linux, he writes the command: ""source .venv/Scripts/activate""
+but for those who use Windows, you need to use this command: "".\venv\Scripts\activate""",0.0,Neutral,,
+361,EyEqWFvLDT8,"This video took a lot of writing, editing, and recording efforts. If possible please hit the like button and share this video with your friends. That would mean a lot to me!
+Should I upload a complete web development course in English on this channel?",0.8553,Positive,0.8553,
+362,EyEqWFvLDT8,Wow first time i am watching your english channel anyway i can understand hindi as well i am from pakistan love you sir❤❤❤❤❤,0.9862,Positive,0.9862,
+363,EyEqWFvLDT8,when i run programme it shows that you do not have extension for plain _______ so what can i do,0.0,Neutral,,
+364,EyEqWFvLDT8,can anyone provide me the solution of  ques.6 of chap 7,0.3182,Positive,0.3182,
+365,EyEqWFvLDT8,4:34:14  -------> this will return false because of case sensitive,0.0,Neutral,,
+366,EyEqWFvLDT8,"i am so happy to this session :
+thank you so much .",0.8042,Positive,0.8042,
+367,EyEqWFvLDT8,this course is very helpful,0.4754,Positive,0.4754,
+368,EyEqWFvLDT8,thank you so much for your service even i'm from non tech background i'm easily understanding the concepts and writing programs,0.5994,Positive,0.5994,
+369,EyEqWFvLDT8,"_love=b, lovely=""self""",0.0,Neutral,,
+370,EyEqWFvLDT8,congrations,0.0,Neutral,,
+371,EyEqWFvLDT8,Very useful Harry! Thanks for your efforts! Love from Andhra..!,0.9087,Positive,0.9087,
+372,EyEqWFvLDT8,I was always afraid of coding. I have completed 7.6 years in IT industry in Functional Testing only and never moved to in another domain due to afraid of programming but Now I am watching 100daysofCode programming tutorial and completed 35 Videos and gaining confidence in programming. Thank you so much Harry for the efforts you have put in for the people like me who always afraid of programming even reside in IT world. Even though I am practicing for the small small programs but now I am confident after completing this entire course I will move in  automation Testing soon. Literally I salute you for providing this wonderful course and the way of teaching is just mind blowing.,0.9799,Positive,0.9799,
+373,EyEqWFvLDT8,Is it able to download python editor in Android,0.0,Neutral,,
+374,EyEqWFvLDT8,"I have attached the link for the jupyter notebook containing the solution for all the problems that have been discussed here (Chapter 1-12). Feel free to check it out.
+
+https://drive.google.com/file/d/1SHxPZLm2-LDDa2Z-JXJJtDC6HWkmiOUe/view?usp=sharing",0.4404,Positive,0.4404,
+375,Ogild8PjK6c,Show off of English😑😑,0.0,Neutral,,
+376,Ogild8PjK6c,can u suggest some books to refer for advanced python programming?,0.25,Positive,0.25,
+377,Ogild8PjK6c,So encouraging and awesome  video.  God bless you!,0.9224,Positive,0.9224,
+378,Ogild8PjK6c,code with Harry (python in 100 days) is also good for learning and its completely free also,0.7574,Positive,0.7574,
+379,Ogild8PjK6c,I'm 26 now but still a content consumer but very soon I'm gonna changed my old me and update and upgrade 💯💯,0.0,Neutral,,
+380,Ogild8PjK6c,"Did you ever made  a project or game in python 😂
+Or just learn like us from @Techwithtim
+@ network chucks
+@ Corey Schafer
+.....",0.6597,Positive,0.6597,
+381,Ogild8PjK6c,Sir it's is free course or not,0.5106,Positive,0.5106,
+382,Ogild8PjK6c,Include paid promotion 😢,-0.4767,Negative,,-0.4767
+383,Ogild8PjK6c,"Hello, thank you for telling about this course i am class 12th student and because of change of teacher in our school i am not able to understand anything the new teacher is teaching, i wanted to ask whether this course will help me to cover up how much i missed and will this help me in my board exams too. She is currently teaching mysql and i am searching for a course for that too if you have any idea can you please share with me, i would really appreciate the help",0.9391,Positive,0.9391,
+384,Ogild8PjK6c,"I have this course . If anyone want to purchase this course I will give it you through gift section.
+Price: 399",0.4939,Positive,0.4939,
+385,Ogild8PjK6c,Can anyone tell me how to buy this course it's just showing to take subscription of udemy 0f. 700 something per month but I just want this course which is rn of rupees 549,0.1154,Positive,0.1154,
+386,Ogild8PjK6c,Will they give us certificate after completion,0.0,Neutral,,
+387,Ogild8PjK6c,30 days 60 days does not matter fact is why choose you it and what is the main goal behind the programming code selection,-0.0191,Neutral,,
+388,Ogild8PjK6c,this course is 3200 rupees,0.0,Neutral,,
+389,Ogild8PjK6c,"My birthday also july 13 , am going to start",0.0,Neutral,,
+390,Ogild8PjK6c,is this course free i do really longing to learn python but i dont have money,0.2391,Positive,0.2391,
+391,Ogild8PjK6c,Bro can you tell the guide for python Linux.,0.0,Neutral,,
+392,hEgO047GxaQ,"Mastering Java and Spring Boot - Live Course : https://bit.ly/TeluskoJavaLive
+Coupon for Discount : TELUSKO30
+
+For More Queries WhatsApp or Call on  :  +919008963671",0.0,Neutral,,
+393,hEgO047GxaQ,Thanks 👍,0.4404,Positive,0.4404,
+394,hEgO047GxaQ,Can someone please confirm if this series is still relevant today even after 5 years? I am new to programming and want to start with this.,0.3818,Positive,0.3818,
+395,hEgO047GxaQ,"I have finally found something worthy to watch and learn after 3 months, by the perfect person",0.765,Positive,0.765,
+396,hEgO047GxaQ,Nice explanation,0.4215,Positive,0.4215,
+397,hEgO047GxaQ,School actually use Java,0.0,Neutral,,
+398,hEgO047GxaQ,Sir how can I practice python coding in my tablet,0.0,Neutral,,
+399,hEgO047GxaQ,is this course can work for data analysts beginners?  ?,0.0,Neutral,,
+400,hEgO047GxaQ,Hope I continue having the motivation to learn this,0.6486,Positive,0.6486,
+401,hEgO047GxaQ,"It's 03/10/2023 (I'm just saving the date I started the python course) 
+
+Thank you, sir... I will come back to this comment to let you know my progress. 😊❤",0.9382,Positive,0.9382,
+402,hEgO047GxaQ,Finally got the best teacher on YouTube.Thank you sir.,0.6369,Positive,0.6369,
+403,hEgO047GxaQ,What is python? Ans: longest snake in the world,0.0,Neutral,,
+404,hEgO047GxaQ,Send me code of pyton,0.0,Neutral,,
+405,hEgO047GxaQ,waoh...i would really like to learn this Python,0.4201,Positive,0.4201,
+406,hEgO047GxaQ,Can I start watching this series now? I'm CA btw.,0.0,Neutral,,
+407,hEgO047GxaQ,"Hi,
+Is there a difference between python for software development and python for data science & BI ??",0.0,Neutral,,
+408,Z1Yd7upQsXY,"Below is an outline of this video.
+
+Also, a few tips:
+1. Here is the playlist for this series: https://goo.gl/4dQMsJ
+2. If you want to learn faster than I talk, I’d recommend 1.25x or 1.5x speed :)
+3. Download the sample files here to follow along (they are Jupyter Notebook files): https://www.csdojo.io/python1
+4. Have fun! If anything is unclear, please let me know in a comment.
+
+0:00: Introduction
+0:17: Who’s this tutorial for?
+0:30: An outline of this video
+1:18: What is Python and what can you do with it?
+2:01: What is IDE and why I chose Jupyter Notebook
+3:09: How Jupyter Notebook works
+4:19: How to install Python and Jupyter (through Anaconda)
+5:58: Launching Jupyter
+7:59: The print() function
+10:24: Introduction to variables
+13:08: What are variables (in Python)?
+16:42: Assigning a variable to another variable
+19:03: A practice problem - swapping two variables
+20:40: Solutions to the practice problem - swapping two variables",0.7602,Positive,0.7602,
+409,Z1Yd7upQsXY,Awesome tutorial. Very easy to understand for someone that has no programming skills!! Thank you,0.8472,Positive,0.8472,
+410,Z1Yd7upQsXY,best beginner python  video. came in with zero knowledge now I feel am good to get into the programming language🤗,0.872,Positive,0.872,
+411,Z1Yd7upQsXY,Great video! I loved it!,0.8619,Positive,0.8619,
+412,Z1Yd7upQsXY,Hi! love your channel :) Keep up the good work!,0.893,Positive,0.893,
+413,Z1Yd7upQsXY,"Hi...
+This video is very informative. 
+If you can make video on giving instructions so I would be very thank ful.♥️",0.8643,Positive,0.8643,
+414,Z1Yd7upQsXY,Thanks bro im g7,0.4404,Positive,0.4404,
+415,Z1Yd7upQsXY,"Well, I followed your instructions and created my first lines of code a few moments ago. I plan learning to code for the next two years as a backup plan if practising law fails. And who knows, maybe I will even end up changing careers anyways at the end.
+
+Thanks for the video.
+
+I'll come back in two years hahaha.",0.7783,Positive,0.7783,
+416,Z1Yd7upQsXY,"Best teacher for python course, Bravo Dojo. 
+Great lecture.",0.8519,Positive,0.8519,
+417,Z1Yd7upQsXY,Very good tutorial,0.4927,Positive,0.4927,
+418,Z1Yd7upQsXY,"What's up YK. I'm Chelijua in the Houston, Texas.",0.0,Neutral,,
+419,Z1Yd7upQsXY,That's absolutely wrong: Python is a SNAKE!!!😃,-0.4155,Negative,,-0.4155
+420,Z1Yd7upQsXY,thanks so will google hire me now,0.4404,Positive,0.4404,
+421,Z1Yd7upQsXY,Thanks,0.4404,Positive,0.4404,
+422,Z1Yd7upQsXY,the video was productive to me thanks alot,0.4404,Positive,0.4404,
+423,Z1Yd7upQsXY,"hello, thanks for your video, it is just what I needed to get me going",0.4404,Positive,0.4404,
+424,Z1Yd7upQsXY,"once you changed the variables for
+ v1 = ""first string""
+ v2 = ""second string""
+To 
+temp = v1
+v1 = v2
+v2 = temp
+it works just fine but do you need to use the variable temp? if  yes, why temp? 
+or can we just make up any work for example 
+new = v1
+v1 = v2
+v2 = new",0.6497,Positive,0.6497,
+425,fqF9M92jzUo,"How was this course? If you are a student, you can get free access to all JetBrains IDEs for personal use at school or at home. Use the links below:
+PyCharm Community Edition - https://jb.gg/getPyCharm
+Free Student License - https://jb.gg/GetStudentLicense",0.765,Positive,0.765,
+426,fqF9M92jzUo,"Why I am getting below Error : 
+'say' is not recognized as an internal or external command,
+
+operable program or batch file.  
+
+
+Can someone help? Am trying to create the same Robo speaker.
+Please help . Probably in Windows 'say' doesn't work. But what is the alternative if anyone could help me?",0.7882,Positive,0.7882,
+427,fqF9M92jzUo,"my first project is not working in my laptop,pronounce code is not working i am using windows please help me",0.6124,Positive,0.6124,
+428,fqF9M92jzUo,#HarryBhai,0.0,Neutral,,
+429,fqF9M92jzUo,Congratulations sir,0.5994,Positive,0.5994,
+430,fqF9M92jzUo,"while(True):
+    table = int(input(""Enter the number from 1 to 10: ""))
+
+    match table:
+        case 1:
+            for i in range(1, 11):
+                print(f""{table} X {i} = {table*i}"")
+        case 2:
+            for i in range(1, 11):
+                print(f""{table} X {i} = {table*i}"")
+        case 3:
+            for i in range(1, 11):
+                print(f""{table} X {i} = {table*i}"")
+        case 4:
+            for i in range(1, 11):
+                print(f""{table} X {i} = {table*i}"")
+        case 5:
+            for i in range(1, 11):
+                print(f""{table} X {i} = {table*i}"")
+        case 6:
+            for i in range(1, 11):
+                print(f""{table} X {i} = {table*i}"")
+        case 7:
+            for i in range(1, 11):
+                print(f""{table} X {i} = {table*i}"")
+        case 8:
+            for i in range(1, 11):
+                print(f""{table} X {i} = {table*i}"")
+        case 9:
+            for i in range(1, 11):
+                print(f""{table} X {i} = {table*i}"")
+        case 10:
+            for i in range(1, 11):
+                print(f""{table} X {i} = {table*i}"")
+        case _:
+            print('Match not found. Please enter the number between 1 to 10 ')
+            if table>10:
+                break",-0.0931,Negative,,-0.0931
+431,fqF9M92jzUo,"you can use prompt
+prompt ""hello""",0.0,Neutral,,
+432,fqF9M92jzUo,"# project 1 for windowa used
+# you have to install pywin32
+# type  'pip install pywin32' in your python terminal
+# Code
+import win32com.client as wincom
+
+if __name__ == '__main__':
+
+    while(True):
+        speak = wincom.Dispatch(""SAPI.SpVoice"")
+        x = input(""Enter what you want to speak: "")
+        if (x == 'q'):
+            break
+        text = f""{x}""
+        speak.Speak(text)",0.0772,Positive,0.0772,
+433,fqF9M92jzUo,Congratulations 🎆,0.5994,Positive,0.5994,
+434,fqF9M92jzUo,Hello on terminal it ii say is not recognized,0.0,Neutral,,
+435,fqF9M92jzUo,Command code is unreadable everything is working but its bot speaking.,0.0,Neutral,,
+436,fqF9M92jzUo,Congratulations sir,0.5994,Positive,0.5994,
+437,fqF9M92jzUo,"t = int(input(""Enter the number of which you want to see table: ""))
+match t:
+    case 1: 
+        for i in range(1, 11):
+            print(t, ""X"", i, ""="", t * i)
+    case 2: 
+        for i in range(1, 11):
+            print(t, ""X"", i, ""="", t * i)
+    case 3: 
+        for i in range(1, 11):
+            print(t, ""X"", i, ""="", t * i)
+    case 4: 
+        for i in range(1, 11):
+            print(t, ""X"", i, ""="", t * i)
+    case 5: 
+        for i in range(1, 11):
+            print(t, ""X"", i, ""="", t * i)
+    case 6: 
+        for i in range(1, 11):
+            print(t, ""X"", i, ""="", t * i)
+    case 7: 
+        for i in range(1, 11):
+            print(t, ""X"", i, ""="", t * i)
+    case 8: 
+        for i in range(1, 11):
+            print(t, ""X"", i, ""="", t * i)
+    case 9: 
+        for i in range(1, 11):
+            print(t, ""X"", i, ""="", t * i)
+    case 10: 
+        for i in range(1, 11):
+            print(t, ""X"", i, ""="", t * i)
+            
+    case _:
+        print(""Number is not under 10"")",0.1531,Positive,0.1531,
+438,fqF9M92jzUo,@CodeWithHarry i want to ask a question,0.0772,Positive,0.0772,
+439,fqF9M92jzUo,"1:26:53 
+Output
+>>> You are a kid
+>>> End of program",0.0,Neutral,,
+440,fabelAs_m08,Join our bootcamp or schedule tutoring on our site.,0.296,Positive,0.296,
+441,fabelAs_m08,FUCKING BRILLIANT! THANK YOU!,0.8154,Positive,0.8154,
+442,fabelAs_m08,"bro my brain hurts, i dont think i will EVER understand that type shit",-0.7717,Negative,,-0.7717
+443,fabelAs_m08,The definition of brevity.,0.0,Neutral,,
+444,fabelAs_m08,saw this video 57 times and got a job at Google,0.0,Neutral,,
+445,fabelAs_m08,this is how I study for my finals and then get surprised if I get a shit grade,-0.4019,Negative,,-0.4019
+446,fabelAs_m08,what's the syntax for rope,0.0,Neutral,,
+447,fabelAs_m08,thank you for the  pythonnnn,0.3612,Positive,0.3612,
+448,fabelAs_m08,As a c programmer this has me confused.,-0.3182,Negative,,-0.3182
+449,fabelAs_m08,My professor's been trying to teach me coding for 2 years. I just learned it in 59 seconds,0.0,Neutral,,
+450,fabelAs_m08,Can someone explain line 13 for me please. What was done?,0.3182,Positive,0.3182,
+451,fabelAs_m08,nah i thought this was a joke but its actually real 💀,0.1027,Positive,0.1027,
+452,fabelAs_m08,thanku,0.0,Neutral,,
+453,fabelAs_m08,you didnt even cover  half of the shit you need to know in python,0.6124,Positive,0.6124,
+454,fabelAs_m08,So python is easy like they said,0.6872,Positive,0.6872,
+455,fabelAs_m08,Actually this is the Programming,0.0,Neutral,,
+456,fabelAs_m08,"Bro, Thank you!~",0.4199,Positive,0.4199,
+457,fabelAs_m08,Plzz we need this python file ❤,0.6369,Positive,0.6369,
+458,ihk_Xglr164,Love from Pakistan,0.6369,Positive,0.6369,
+459,ihk_Xglr164,Crystal clear,0.3818,Positive,0.3818,
+460,ihk_Xglr164,Harry you are excellent teacher and you have tons of experience. I am learning python for fun. I am retired. 👍,0.7906,Positive,0.7906,
+461,ihk_Xglr164,"Tushar
+From Delhi",0.0,Neutral,,
+462,ihk_Xglr164,Sahil Karemore from nagpur,0.0,Neutral,,
+463,ihk_Xglr164,"sir apki koi asi video hy jisme python, html, java script ka full course ho. basic to advaced full course wali video hy apki..?",0.0,Neutral,,
+464,ihk_Xglr164,One day before exam 😂,0.4404,Positive,0.4404,
+465,ihk_Xglr164,https://www.youtube.com/@learnwithmyteacher,0.0,Neutral,,
+466,ihk_Xglr164,"Harrry bhai u r the best,  I can learn everything in just in one video , Thankh! 🤗❤",0.9098,Positive,0.9098,
+467,ihk_Xglr164,very good explanition,0.4927,Positive,0.4927,
+468,ihk_Xglr164,Best Video to revise all things. Harry bhai OP,0.6369,Positive,0.6369,
+469,sCOw5y1RQpY,"🔴 To learn Python Programming online with regular LIVE CLASSES, enroll now: https://bit.ly/python-course-wscube-tech
+👉Check Out the Course Module: https://drive.google.com/file/d/1UI6_uPnH1PF_krwu6TlZSFX8PUkdXO6H/view",0.0,Neutral,,
+470,sCOw5y1RQpY,Thank you so much 🇵🇰 🇵🇰💞💗,0.9136,Positive,0.9136,
+471,sCOw5y1RQpY,"where is numpy,matplotlib,scikit learn?",0.0,Neutral,,
+472,sCOw5y1RQpY,Thanks,0.4404,Positive,0.4404,
+473,sCOw5y1RQpY,"Timestamps:
+00:00:00 | Introduction of Python 
+00:13:06 | Installation of Python in Windows
+00:20:22   |   Install Pycharm for Python
+00:28:24   |   Create the First Python ''Hello World'' Program using Print Function
+00:40:49   |   Create & Use Variables in Python
+00:51:52   |   String Concatenation in Python
+00:56:20   |   Arithmetic Operators in Python
+01:05:35   |   Assignment Operators in Python
+01:10:45   |   Comparison Operators in Python
+01:17:41   |   Logical Operators in Python
+01:24:40   |   Membership Operators in Python
+01:30:44   |   Identity Operators in Python
+01:33:54   |   Bitwise Operators in Python
+01:46:57   |   Data Types in Python
+02:10:47   |   User Input & Type Casting in Python
+02:20:19   |   If, If Else & If Elif Else Conditional Statements in Python
+02:37:53   |   How to Build a Simple Calculator in Python
+02:48:35   |   For Loop with Range () in Python
+03:06:55   |   While Loop in Python
+03:15:42   |   String Indexing & String Slicing in Python
+03:28:18   |   String Iteration in Python
+03:39:54   |   Lower, Upper, Title & Capitalize String Functions in Python
+03:46:06   |   Find, Index, Isalpha, Isdigit & Isalnum String Functions in Python
+03:57:52   |   Ord() and Chr() Functions in Python
+04:04:26   |   String Format () Method in Python
+04:18:00   |   List in Python
+04:39:48   |   List Iteration in Python
+05:00:43   |   List Function - (Pop, Remove & Clear) List Method
+05:21:11   |   Python List Comprehension - Elegant way to Create Lists
+05:31:35   |   (Pop, Remove & Clear) List Method
+05:42:05   |   Count, Max, Min, Sort, Reverse & Index List Function
+06:03:14   |   Zip Function - Iterate Over 2+ Lists at the Same Time
+06:03:14   |   Python Program to Convert String to a List
+06:17:50   |   Implement a Stack and Queue Using a List Data Type
+06:44:54   |   Introduction to Dictionary in Python
+06:59:20   |   Dictionary Function & Method in Python
+07:24:16   |   Python Nested Dictionary
+07:35:26   |   Tuple in Python
+08:03:30   |   Sets in Python
+08:26:38   |   Functions in Python
+08:56:29   |   Modules in Python
+09:15:18   |   Math Module in Python
+09:28:01   |   Random Module in Python
+09:39:39   |   Datetime Module in Python
+09:49:32   |   Python - Random Number Guessing Game (Using Random Modeul)
+09:57:34   |   Python - Rock, Paper, Scissors Game (Using Random Module)
+10:31:27   |   Pickle Module
+10:38:51   |   JSON in Python
+10:51:23   |   Convert JSON Data to Python Object
+10:58:47   |   Reading and Writing JSON File in Python
+11:05:26   |   Object Oriented Programming(Class & Object)
+11:16:13   |   Object Oriented Programming (Methods & Constructors)
+11:24:04   |   Inheritance in Python
+11:32:28   |   Encapsulation in Python (Object Oriented Programming)
+11:38:09   |   Getter and Setter Method in Python
+11:45:54   |   Polymorphism in Python
+11:55:52   |   Method Overloading & Method Overriding in Python
+12:07:28   |   Bike Rental System
+12:19:44   |   Python Errors and Built-in Exceptions
+12:26:12   |   Python Exception Handling
+12:37:21   |   Python - SQLite (DB Create and Connection)
+12:45:37   |   Python: Installing DB Browser for SQLite
+12:50:59   |   Insert Query - SQLite
+12:58:44   |   Select Query, Order By & Limit
+13:06:56   |   SQLite Delete Query
+13:11:36   |   SQLite Update Query
+13:17:49   |   SQLite WHERE Clause
+13:26:07   |   SQLite JOIN
+13:40:33   |   Install XAMPP on Windows - PyMySQL
+13:52:41   |   Python: Creating MySQL Database & Connection
+14:04:05   |   MySQL Data Types
+14:12:03   |   Python MySQL Create Table
+14:23:03   |   MySQL Insert Query using Python
+14:31:32   |   MySQL Select Query using Python
+14:45:56   |   MySQL Delete Query using Python
+14:52:22   |   MySQL Update Query using Python
+15:01:40   |   Python MySQL Order By & Limit
+15:09:39   |   Python MySQL Searching & Filter Data
+15:19:48   |   Python MySQL Joins Complete Introduction
+15:26:52   |   MySQL INNER JOIN
+15:38:31   |   MySQL LEFT JOIN
+15:47:03   |   MySQL RIGHT JOIN
+15:54:50   |   MySQL EQUI JOIN
+16:00:05   |   MySQL Self Join & Full Outer Join
+16:07:36   |   MySQL BETWEEN Operator
+16:11:58   |   Use of MIN and MAX Functions
+16:16:02   |   MySQL GROUP BY Statement
+16:21:40   |   MySQL: Distinct Keyword
+16:26:41   |   MySQL SUM () Function
+16:29:56   |   MySQL AVG() Function
+16:34:46   |   MySQL COUNT() Function
+16:37:49   |   MySQL - IN or Not IN Operators",0.9845,Positive,0.9845,
+474,sCOw5y1RQpY,Sir error kyo aa rha h import likhne pr date time wale me error show kr rha hai first line me hi error dekha rha h import datetime likhne par hi,-0.7964,Negative,,-0.7964
+475,sCOw5y1RQpY,I'm art student can i learn python?,0.0,Neutral,,
+476,sCOw5y1RQpY,"I am fast year B tech student, and fast time learn to python but I understand for python 🎯❤️ so called best teacher, thanks sir for teaching python",0.9015,Positive,0.9015,
+477,sCOw5y1RQpY,Any one in 2024 😊😊😊,0.9517,Positive,0.9517,
+478,sCOw5y1RQpY,There should be a system where we can get certification after completion of this video,0.0,Neutral,,
+479,sCOw5y1RQpY,Thank you so much sir,0.3612,Positive,0.3612,
+480,sCOw5y1RQpY,thank you so much sir,0.3612,Positive,0.3612,
+481,sCOw5y1RQpY,"Thanks sir, u r great........ any books of your class?",0.7906,Positive,0.7906,
+482,sCOw5y1RQpY,Can you prefer pdf of full course.??,0.0,Neutral,,
+483,sCOw5y1RQpY,in hindi language is very very clear understanding . Awesome videos i complete this course. Great work,0.9076,Positive,0.9076,
+484,0v3bpmHc02I,Sir m 10 pass hu agar m ya course sheku to m acha job kar shakta hu please reply 🙏,0.3182,Positive,0.3182,
+485,0v3bpmHc02I,"Mai data analyst ka course lene wala hu usme python bhi hai maine apni life m lbhi coding nhi kri. 
+Sir 1 2 baat dena 
+Kya bona coding backhground ke bhi hum python sekh skte h. 
+Kyuki mai arts background se hu and now i want to become data analyst  after to kany research. 
+Kya math honi jaruri h plz air reply krna ur reply will deciwe mu futher learning",0.1531,Positive,0.1531,
+486,0v3bpmHc02I,Sir backend php dynamic full website ka course banaiye,0.3818,Positive,0.3818,
+487,0v3bpmHc02I,sir aap kya instagram par python k most important and most asking questions post kar sakte hai kya Please sir,0.5256,Positive,0.5256,
+488,0v3bpmHc02I,sir react and javascript tutorial please,0.3182,Positive,0.3182,
+489,0v3bpmHc02I,"#include<studio.h>
+Int main( )
+{
+ int n= jab tak sir ka reply na mile;
+
+ For(int i=0; i<=n; i++)
+   {
+     Printf("" thanks you so much sir for giving us valuable course ❤ "");
+   }
+  //  I can not describe your thanks in few words so I used for loop ❤
+return 0;
+}",0.9371,Positive,0.9371,
+490,0v3bpmHc02I,Hello sir can you please make a complete vedio on sql ...please  thanks🙏,0.7579,Positive,0.7579,
+491,0v3bpmHc02I,"x = 5
+if x = 0:
+    print(""hello"")
+else :
+     print(""bye"")
+
+Syntax Error : invalid syntax
+
+Sir not print bye",-0.4019,Negative,,-0.4019
+492,0v3bpmHc02I,Thanks you very much sir,0.4404,Positive,0.4404,
+493,0v3bpmHc02I,Sir aptitude ki playlist shere kr skte ho please?,0.3182,Positive,0.3182,
+494,0v3bpmHc02I,"I love you sir❤❤
+Aap  bhagwan h mere liye 🙏",0.9274,Positive,0.9274,
+495,0v3bpmHc02I,Sir offline kaha padhate hai,-0.128,Negative,,-0.128
+496,apACNr7DC_s,Wear a Socratica Python shirt for good luck coding: https://shop.socratica.com/products/python-by-socratica,0.7096,Positive,0.7096,
+497,apACNr7DC_s,@0:47 Did u just call matrix as a documentary cus in the Ai teacher's perspective its based on the reality and not fiction? is it intentional or im just too creative,0.4404,Positive,0.4404,
+498,apACNr7DC_s,This was legitimately great.,0.6249,Positive,0.6249,
+499,apACNr7DC_s,The humor alone 🤣🤣🤣,0.8658,Positive,0.8658,
+500,apACNr7DC_s,"""Today we will show you how to use classes in python, and we will do so in a classy way...""😂😂🤞",0.8387,Positive,0.8387,
+501,apACNr7DC_s,Second video on classes? 🙏 Gotta resolve the __weakref__ cliffhanger!,0.4389,Positive,0.4389,
+502,apACNr7DC_s,"thank you l really understood everything quickly ,bless you Robot Woman",0.8074,Positive,0.8074,
+503,apACNr7DC_s,Thank you so much. I am big fan of Socratica channel. Looking for Python lessons I found you in Youtube.It is clear and informative.,0.7506,Positive,0.7506,
+504,apACNr7DC_s,She is 🐍 Python.,0.0,Neutral,,
+505,apACNr7DC_s,This is trash,0.0,Neutral,,
+506,apACNr7DC_s,Amazing explain,0.5859,Positive,0.5859,
+507,apACNr7DC_s,"I wish my Python programming classes were this interesting and engaging.
+
+Well done.",0.8528,Positive,0.8528,
+508,apACNr7DC_s,😂 great content IMO really enjoyed watching this.,0.8908,Positive,0.8908,
+509,apACNr7DC_s,Love this!😆,0.7901,Positive,0.7901,
+510,apACNr7DC_s,... and it's in a class by itself. Truly!,0.4926,Positive,0.4926,
+511,apACNr7DC_s,"I just randomly found this channel, and this is the coolest, most creative way of teaching I have ever seen. It makes me feel like I am some kind of commander, and I am being briefed an important message by an AI named Socratica. Thank you, Socratica, for making these videos.",0.8399,Positive,0.8399,
+512,apACNr7DC_s,Cool stuff! I love this.,0.7777,Positive,0.7777,
+513,apACNr7DC_s,"Yo this is awesome, I learned a lot thanks.",0.7906,Positive,0.7906,
+514,OpCdqzILZfw,Music name please,0.3182,Positive,0.3182,
+515,OpCdqzILZfw,This wont take you anywhere,0.0,Neutral,,
+516,OpCdqzILZfw,I want all videos,0.0772,Positive,0.0772,
+517,OpCdqzILZfw,Music name ?,0.0,Neutral,,
+518,OpCdqzILZfw,Thank you,0.3612,Positive,0.3612,
+519,OpCdqzILZfw,What is different between basics oops and scripting,0.0,Neutral,,
+520,Ej_02ICOIgs,"Thanks a lot for posting this, FCC! ❤️",0.4926,Positive,0.4926,
+521,Ej_02ICOIgs,"00:04 Understanding object oriented programming is important for software developers.
+07:57 Creating a method to calculate the total price of items
+23:21 Understanding constructors and best practices in classes
+31:11 Learned about constructor and working with different attributes
+45:44 Using a for loop, we can print the names of all instances
+53:38 Read CSV file and instantiate objects with class method.
+1:09:32 Create a separate class named 'Phone' that inherits from the 'Item' class
+1:17:02 Inheritance allows creating child classes that inherit attributes and methods from parent classes.
+1:31:54 Create read-only attributes in Python using the property decorator
+1:39:20 By adding double underscores to attribute names, access to those attributes is prevented outside of the class.
+1:54:40 Encapsulation and abstraction principles are applied in object-oriented programming.
+2:03:06 Inheritance allows code reuse across classes",0.9136,Positive,0.9136,
+522,Ej_02ICOIgs,"45 mins in, I am absolutely in love with the course. 4 years of university couldn't teach me what I learned here in just 45 mins. Thanks! @jimshapedcoding <3",0.8903,Positive,0.8903,
+523,Ej_02ICOIgs,Thank you freecodecamp,0.3612,Positive,0.3612,
+524,Ej_02ICOIgs,Thanks!,0.4926,Positive,0.4926,
+525,Ej_02ICOIgs,"Thank you Jim, this turorial has cleared years of confusion related to OOPS.😎",0.5719,Positive,0.5719,
+526,Ej_02ICOIgs,Which pycharm theme are you using in this tutorial....,0.0,Neutral,,
+527,Ej_02ICOIgs,ty mate,0.3818,Positive,0.3818,
+528,Ej_02ICOIgs,How come we don't need to declare any property of a class in the class definition ?,0.0,Neutral,,
+529,Ej_02ICOIgs,I get this error: AttributeError: type object 'Item' has no attribute 'all',-0.6514,Negative,,-0.6514
+530,Ej_02ICOIgs,Such a lovely way to explain the OOP. Practical project based examples makes it even more interseting. Thank you,0.7635,Positive,0.7635,
+531,Ej_02ICOIgs,if someone is confused with num.is_integer()... is_integer() is a method in Python that checks any number if it is an integer. For 12.0 it returns true,0.2023,Positive,0.2023,
+532,Ej_02ICOIgs,"OMG, the instructor is very good.",0.4927,Positive,0.4927,
+533,Ej_02ICOIgs,"Wonderful course!  Gave a lot of insights into OOP in Python.  Beautiful narration.  Although not everything can be covered in a limited span of time, I would like the author to add things like the difference between __new__ and __init__ during instantiation.  Further, multi-class inheritance has not been covered at all.  Also, super needs to be covered in a lot more depth.  Overall, awesome course.",0.965,Positive,0.965,
+534,Ej_02ICOIgs,Very very useful video..thank you for this work and support!!!,0.7934,Positive,0.7934,
+535,WvhQhj4n6b8,"Got a question on the topic? Please share it in the comment section below and our experts will answer it for you. For Edureka Python Course curriculum, Visit our Website: http://bit.ly/2FBUtO7 (Use Code ""𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎"")",0.5423,Positive,0.5423,
+536,WvhQhj4n6b8,Nice work tho. I really understood,0.4215,Positive,0.4215,
+537,WvhQhj4n6b8,Thanks,0.4404,Positive,0.4404,
+538,WvhQhj4n6b8,Sir..can you give python full course pdf,0.0,Neutral,,
+539,WvhQhj4n6b8,thank you,0.3612,Positive,0.3612,
+540,WvhQhj4n6b8,yes I am satisfied with the agenda and sorry for late message,0.6369,Positive,0.6369,
+541,WvhQhj4n6b8,Your voice is superb and clear. It's smoothing,0.7717,Positive,0.7717,
+542,WvhQhj4n6b8,It was super and too understandable to learn very fast thanku edureka,0.5994,Positive,0.5994,
+543,WvhQhj4n6b8,"Wow 😳 nice 👍
+My grandson is learning python in 10 years",0.765,Positive,0.765,
+544,WvhQhj4n6b8,I love to learn python because it is my favourite programming language ❤❤,0.9274,Positive,0.9274,
+545,WvhQhj4n6b8,"Thanks, I answered very well in class when our sir asked the questions",0.6478,Positive,0.6478,
+546,WvhQhj4n6b8,Great great,0.8481,Positive,0.8481,
+547,WvhQhj4n6b8,Great great,0.8481,Positive,0.8481,
+548,WvhQhj4n6b8,"Hi, thanks a lot for this excellent video. I'm from Arts background and working as HR. No clue of programming or language. I thinking of learning python now for better career opportunities. Will it be okay for someone like me from complete non technical background to learn this",0.9322,Positive,0.9322,
+549,WvhQhj4n6b8,This was a very informative and explanatory video in re-birthing an area of potential career opportunities for me. Thanks,0.6705,Positive,0.6705,
+550,HGOBQPFzWKo,Well.. What to do after finishing this course?!,0.3382,Positive,0.3382,
+551,HGOBQPFzWKo,"A question to intermediate python devs, if I overwrite global functions like len(), list(), max(), etc, as a variable for example len = 1, then later how I can use global function len()?",0.3612,Positive,0.3612,
+552,HGOBQPFzWKo,Great content! Very well organized and clear explanantions!!!! Perfect level of detail. Great for the intermediate level! Thank you for your contribution to the Python community!,0.9664,Positive,0.9664,
+553,HGOBQPFzWKo,"This guy is golden, please teach me more. Will find other courses by him.",0.3182,Positive,0.3182,
+554,HGOBQPFzWKo,wonderful session. Excellent !!,0.8395,Positive,0.8395,
+555,HGOBQPFzWKo,Appreciate this !! real intermediate stuff!,0.5538,Positive,0.5538,
+556,HGOBQPFzWKo,Dude you are straight forward without too much mubling and i love that. Thank you very much for your help.,0.8834,Positive,0.8834,
+557,HGOBQPFzWKo,Am  I the only one that laughed at the choice of dict.  Sorry.,0.4019,Positive,0.4019,
+558,HGOBQPFzWKo,"a,b,c are the variables is it possible to find which number is greater using lambda function?",0.4215,Positive,0.4215,
+559,HGOBQPFzWKo,I'm only 20 minutes in so far and haven't done anything with coding since 2015. It's nice to see that I'm not completely out of the loop. Thanks for the video! 😁,0.8398,Positive,0.8398,
+560,HGOBQPFzWKo,"I loved this tutorial... it was the second step which is leading me to becoming a python dev, thx for ur support and time patrick!",0.8553,Positive,0.8553,
+561,HGOBQPFzWKo,"What the hell is this logger 
+I can't understand 😐😐😐",-0.6808,Negative,,-0.6808
+562,HGOBQPFzWKo,"Straightforward, clearly explained and easy to follow. Enriching experience 8/8 m8",0.7906,Positive,0.7906,
+563,94UHCEmprCY,Great video,0.6249,Positive,0.6249,
+564,94UHCEmprCY,"for anyone that needed someone to give an actual GOOD metaphor to put this to bed quickly in your head, here ya go,
+-----
+A for loop takes each item in an iterable and assigns that value to a variable like w or number, each time through the loop. The code inside the loop is repeated with each of those values being re-assigned to that variable, until the loop runs out of items.
+
+Note:
+ - that the name used doesn't affect what values are assigned each time through the loop. Code like for letter in myvar: doesn't force the program to choose letters. The name letter just gets the next item from myvar each time through the loop. 
+
+What the ""next item"" is, depends entirely on what myvar is.
+
+As a metaphor, imagine that you have a shopping cart full of items, and the cashier is looping through them one at a time:
+
+for eachitem in mybasket: 
+    # add item to total
+    # go to next item.
+
+If mybasket were actually a bag of apples, then eachitem that is in mybasket would be an individual apple; but if mybasket is actually a shopping cart, then the entire bag could itself meaningfully be a single ""item"".
+
+---
+https://stackoverflow.com/questions/19257862/understanding-for-loops-in-python",0.7084,Positive,0.7084,
+565,94UHCEmprCY,I feel like this is going to save me a bunch of copying and pasting 😅,0.802,Positive,0.802,
+566,94UHCEmprCY,"bless you my man, bless you. Top tier crash courses out there",0.5719,Positive,0.5719,
+567,94UHCEmprCY,"Hi Mosh, 
+I have a list output from my python code that I extract from shareppoint, I stored that list in one variable but when I run for loop, it give me error string is not iterable, how can I loop through string which is in string format ?",-0.5499,Negative,,-0.5499
+568,94UHCEmprCY,Really easy to understand,0.4927,Positive,0.4927,
+569,94UHCEmprCY,"why for the final example can't you just write
+
+for x in range(2, 10, 2):
+     print(x)
+print(""We have 4 odd numbers"")
+
+Is it because if the interval was something like (2, 198534, 2) you could write the wrong amount",-0.4404,Negative,,-0.4404
+570,94UHCEmprCY,What IDE are you using?,0.0,Neutral,,
+571,94UHCEmprCY,Thank you mosh. I know it’s simple and it’s perfect 😊,0.9042,Positive,0.9042,
+572,94UHCEmprCY,The code at 6:25 does not work.  It only provides an error.,-0.4019,Negative,,-0.4019
+573,94UHCEmprCY,"Thank you for the simple and quick instructions, you've been a great help!!",0.8715,Positive,0.8715,
+574,94UHCEmprCY,For loops got me stumped but I'm gonna just chug along fuck it,-0.6956,Negative,,-0.6956
+575,94UHCEmprCY,"count = 0
+for x in range (2,10,2):
+        print(x)
+        count +=1
+print(""We have {count} even numbers"")",0.0,Neutral,,
+576,94UHCEmprCY,13:59 why cant we use step,0.0,Neutral,,
+577,94UHCEmprCY,"count = 0
+for x in range (1,10):
+    if x % 2 == 0:
+        count += 1
+        print(x)
+print(""We have "" + str(count) + "" even numbers"")",0.0,Neutral,,
+578,94UHCEmprCY,"Mosh, I have questions  using data ,I was using  the liberty basic  and truebasic programming language and find out they were slow when using a list of combinations lottery, it take about 3 hours or more. When I  used phyton, I was shocked at how fast it was .My  difficulty  is what function to use data and how use ?",-0.0772,Negative,,-0.0772
+579,AWek49wXGzI,"Below is an outline of this video.
+
+Also, a few tips:
+1. Here is the playlist for this series: https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg
+2. Follow along as I explain to make sure you understand everything
+3. Ideally, work with a friend so you can help each other when you’re stuck
+4. If you want to learn faster than I talk, I’d recommend 1.25x or 1.5x speed :)
+5. Check the outline in the comment section below if you want to skip around.
+6. Download the sample files here to follow along (they are Jupyter Notebook files): https://www.csdojo.io/python2
+7. To make sure you don’t miss my future tutorial videos, sign up to my newsletter: https://www.csdojo.io/news
+8. Have fun! If anything is unclear, please let me know in a comment.
+
+0:06: The outline
+1:00: I already started learning another language. What should I do?
+1:51: Creating a new Jupyter Notebook file
+2:26: Executing a cell in Jupyter
+2:57: Deleting and adding cells in Jupyter
+4:47: How Jupyter’s kernals work
+6:18: If statements
+9:28: If-else statements
+11:32: If-elif-else statements
+15:00: If-else within if-else
+17:12: Creating a BMI calculator",0.9742,Positive,0.9742,
+580,AWek49wXGzI,You're soo good in teaching bro,0.4404,Positive,0.4404,
+581,AWek49wXGzI,Any one know why when I create a new folder on my desk top it does not show up in my Jupyter files like CS Dojo's? I have to create a new folder within Jupyter to get things to look the same as in the video. Thanks in advance! (Hopefully that makes sense),0.908,Positive,0.908,
+582,AWek49wXGzI,the best tutorial for python i have ever seen on youtube. I have never ever in my life used any code langue. awesome job,0.8519,Positive,0.8519,
+583,AWek49wXGzI,Cs dojo we love you,0.6369,Positive,0.6369,
+584,AWek49wXGzI,"Such a true mentor for me in learning python, As I'm totally new in this programming world and you made me easy this, Thank you so much",0.8213,Positive,0.8213,
+585,AWek49wXGzI,SO WELL CS DOJO LOVE YOU,0.7645,Positive,0.7645,
+586,AWek49wXGzI,hi iwant to study,0.0,Neutral,,
+587,AWek49wXGzI,bro its  more than 5 years old and it still helps me thanks bro,0.6705,Positive,0.6705,
+588,AWek49wXGzI,"Hello Dojo, for some reason I do not have desktop under jupyter.  I only have Documents and Downloads.  Please advise.  Thank you.",0.5859,Positive,0.5859,
+589,AWek49wXGzI,please why is the height_m in parentheses,0.3182,Positive,0.3182,
+590,AWek49wXGzI,I got spyder (python 3.11) so what should I do can make a video based on this that what we can do in it,0.0,Neutral,,
+591,AWek49wXGzI,i am confused why did u print bmi: the after wards print bmi,-0.3182,Negative,,-0.3182
+592,AWek49wXGzI,a good and useful tutorial for the beginners.,0.7003,Positive,0.7003,
+593,AWek49wXGzI,omg man finally someone to explain it in a way they aint finna make me sleep,0.0,Neutral,,
+594,AWek49wXGzI,So helpful. Thank you so much.,0.707,Positive,0.707,
+595,AWek49wXGzI,"Can i ues python complier ?
+plz if any one know answer me ❤🙏",0.6705,Positive,0.6705,
+596,mRMmlo_Uqcs,"What I use to learn (the BEST IT training): https://ntck.co/itprotv (30% off FOREVER) *affiliate link
+
+
+🔎🔎FREE Python Lab: https://ntck.co/pythonep1
+Support the course: https://ntck.co/pythonrightnow
+
+
+🔥🔥Join the NetworkChuck membership: https://ntck.co/Premium
+
+
+**Sponsored by ITProTV
+
+
+
+SUPPORT NETWORKCHUCK
+---------------------------------------------------
+➡NetworkChuck membership: https://ntck.co/Premium
+☕☕ COFFEE and MERCH: https://ntck.co/coffee
+
+Check out my new channel: https://ntck.co/ncclips
+
+🆘🆘NEED HELP?? Join the Discord Server: https://discord.gg/networkchuck
+
+STUDY WITH ME on Twitch: https://bit.ly/nc_twitch
+
+READY TO LEARN??
+---------------------------------------------------
+-Learn Python: https://bit.ly/3rzZjzz
+-Get your CCNA: https://bit.ly/nc-ccna
+
+FOLLOW ME EVERYWHERE
+---------------------------------------------------
+Instagram: https://www.instagram.com/networkchuck/
+Twitter: https://twitter.com/networkchuck
+Facebook: https://www.facebook.com/NetworkChuck/
+Join the Discord server: http://bit.ly/nc-discord
+
+0:00   ⏩  Intro
+1:23   ⏩  FREE Python lab
+2:39   ⏩  your FIRST Python code (hello world)
+3:20   ⏩  What is Python?
+4:16   ⏩  DEEP DIVE: Hello World!!
+4:43   ⏩  “Strings”
+6:35   ⏩  #Comments
+8:22   ⏩  Erros in Python
+10:30 ⏩  “””multi-line strings””” 
+11:42 ⏩  Add strings together (concatenate)",0.9679,Positive,0.9679,
+597,mRMmlo_Uqcs,"Wow, the way you teach is amazing! Chuck.",0.8356,Positive,0.8356,
+598,mRMmlo_Uqcs,I just bumped into this wow,0.6705,Positive,0.6705,
+599,mRMmlo_Uqcs,why does it want my discord username?,-0.34,Negative,,-0.34
+600,mRMmlo_Uqcs,💯. I’m watching your videos from a French island.,0.0,Neutral,,
+601,mRMmlo_Uqcs,I want a summary or book of Python in PDF,0.0772,Positive,0.0772,
+602,mRMmlo_Uqcs,Thank you. This was great,0.765,Positive,0.765,
+603,mRMmlo_Uqcs,This was really good,0.4927,Positive,0.4927,
+604,mRMmlo_Uqcs,I can't seem to navigate to where you are in your video.  When i click the link i see something different.,0.0,Neutral,,
+605,mRMmlo_Uqcs,"The links seem to only lead to for pay courses. Did ""free"" end in the two years since this video was created?",0.5994,Positive,0.5994,
+606,mRMmlo_Uqcs,"I don’t like it : first reason i m mathematician than switch to programming and i still stuck in mathematic theory of language, logic, abstract algebra, and i found the best language for that is C/C++.",0.6908,Positive,0.6908,
+607,mRMmlo_Uqcs,best thnks),0.6369,Positive,0.6369,
+608,mRMmlo_Uqcs,Yoh! You are magical. I am sticking around !,0.0,Neutral,,
+609,mRMmlo_Uqcs,Best and fun teacher,0.8176,Positive,0.8176,
+610,mRMmlo_Uqcs,I cannot stop watching. Thank you!,-0.1316,Negative,,-0.1316
+611,mRMmlo_Uqcs,"print (""I am Poppy\n"" * 100000) for no reason",-0.296,Negative,,-0.296
+612,mRMmlo_Uqcs,"Old auto tech here and really excited to learn and found I cant really use my hands to type. Tried positions and keyboards and just cant get them digits to do what I want them to. The shifts on either side require a full dismount of the hands. The very few first lines in the course require a ton of shift. I assume this will remain the case. Just this sentence here has a cramp coming on.  If possible I might have to look into some kind of speech to text, would be much obliged if someone here could point me in a good direction.",0.6671,Positive,0.6671,
+613,mRMmlo_Uqcs,"Someone already did comment #667, so the demon code has already been obstructed, thus I can comment. 🤘",0.0,Neutral,,
+614,dam0GPOAvVI,Start a high paying tech career making $60k+/year with NO DEBT: https://coursecareers.com/a/techwithtim?course=software-dev-fundamentals,0.2755,Positive,0.2755,
+615,dam0GPOAvVI,"37:38 whenever i try to collapse the navbar it doesnt collapse it just sort of glitches and doesnt do anything, anyone know why?",-0.1461,Negative,,-0.1461
+616,dam0GPOAvVI,"Can someone explain, where i can see all user data like password or email. I have downloaded sql but there no users in database.db. But actually the stuff like  emails and passwords are being saved somewhere because when i am trying to sign up the user with same email it is that that email is already used",0.7096,Positive,0.7096,
+617,dam0GPOAvVI,How to host the website online?,0.0,Neutral,,
+618,dam0GPOAvVI,what would i need to do to make this a fullstack app on an online website,0.0,Neutral,,
+619,dam0GPOAvVI,replace 'sha256' with 'scrypt',0.0,Neutral,,
+620,dam0GPOAvVI,"can you make another this but using SQL Server Management Studio, please",0.4497,Positive,0.4497,
+621,dam0GPOAvVI,When creating the database I get an error that says that db.create_all has an unexpected parameter app. When I don't call the function create_database() it seemingly works. Can anybody tell me what's the problem. Did Flask change in the meantime?,-0.4939,Negative,,-0.4939
+622,dam0GPOAvVI,"Hello there
+I did everythingstep by step but still this error mmessage shows ""No module named 'flask'"" even after I select my Python interpreter ?
+How can I solve it please?",-0.1021,Negative,,-0.1021
+623,dam0GPOAvVI,"Thanks tim for your tutorial but i seem to get an error from 
+from . import db when i run models .py file and i dont know where i did wrong",-0.775,Negative,,-0.775
+624,dam0GPOAvVI,"I know this is super old but the only issue I had was the delete.
+On your code in github you added the function in the base template
+but here you never did that and for me when i wanted to delete a line it did not delete anything until I moved the function to the base. If anyone sees this or you do could you respond?",0.3506,Positive,0.3506,
+625,dam0GPOAvVI,why didnt he create a virtual env in this,-0.2057,Negative,,-0.2057
+626,dam0GPOAvVI,"Hey, Tim. Can you help me how to upload file using flask ? and save it to the DB sqlalchemy",0.7096,Positive,0.7096,
+627,dam0GPOAvVI,"When i first run program its told my 
+Import error cannot import name , can you help me please",0.3182,Positive,0.3182,
+628,dam0GPOAvVI,idk maybe im wrong but hash in my flask template don`t want working: ValueError: Invalid hash method 'sha256'.,-0.2023,Negative,,-0.2023
+629,dam0GPOAvVI,"Hey Tim, thanks alot for this tutorial but in 37:05 i got this error ""jinja2.exceptions.UndefinedError: 'user' is undefined"" any ideas ???",-0.5828,Negative,,-0.5828
+630,ZDa-Z5JzLYM,"Thanks for such a well explanation of classes, I was looking for this explanation for a long time.",0.6124,Positive,0.6124,
+631,ZDa-Z5JzLYM,You are more than a teacher,0.0,Neutral,,
+632,ZDa-Z5JzLYM,"Out of the many years I've watched videos about anything on YouTube, I can count on my hands the number of times I've actually commented on a video. However, the way Corey explained Python OOP through this video, especially a week before my computer science exam, I just had to drop a comment. This is one of the best and most informative instructional videos I've ever seen, like ever even outside of computer science.
+
+Well done!",0.807,Positive,0.807,
+633,ZDa-Z5JzLYM,explained so well,0.3384,Positive,0.3384,
+634,ZDa-Z5JzLYM,"wow, this is so good!",0.8331,Positive,0.8331,
+635,ZDa-Z5JzLYM,Awesome video ! You’re the best !!,0.88,Positive,0.88,
+636,ZDa-Z5JzLYM,Thank you for best explanation in the world!,0.7901,Positive,0.7901,
+637,ZDa-Z5JzLYM,very good content,0.4927,Positive,0.4927,
+638,ZDa-Z5JzLYM,"This was very helpful, but there is still something I'm missing. In the video, each instance of the class (e.g., each employee) must still be given a separate object name (e.g., emp_1 and emp_2). That's fine for this example, but how do you handle the real world situation of a company with thousands of employees and with some coming and gong all the time?",0.1145,Positive,0.1145,
+639,ZDa-Z5JzLYM,"the format function with those two placeholders and putting it in the return got me slightly lost. Your video is amazing you explain stuff extremely well and as a guy with adhd I was glued and listening the whole time, except the moment with the placeholders and format function, it would be nice if you would explain these things, what you do and how it works, when you implement these weird and unknown spells...
+I understand you can't explain everything all the time, but I'm just being honest I subscribe your channel anyway, cos this is good explaining you do. good balance of straight to the point but with some understanding why things are there. except that little format function which I am too weak of a wizard to understand.",0.9168,Positive,0.9168,
+640,ZDa-Z5JzLYM,"thank u, uni did not have a better explanation than this smh",-0.3676,Negative,,-0.3676
+641,ZDa-Z5JzLYM,THANK YOU,0.3612,Positive,0.3612,
+642,ZDa-Z5JzLYM,thank you. Great explanation,0.765,Positive,0.765,
+643,ZDa-Z5JzLYM,"Thank you for this helpful stuff. I appreciated it, but I am asking some laptop for my studies",0.6155,Positive,0.6155,
+644,ZDa-Z5JzLYM,adding this comment because anyone who is looking for a good python oops course you should definetely give it a try,0.4404,Positive,0.4404,
+645,ZDa-Z5JzLYM,Top tier content,0.2023,Positive,0.2023,
+646,ZDa-Z5JzLYM,gawwwwd tqsmmmm i finally get what the self is for,0.0,Neutral,,
+647,ZDa-Z5JzLYM,"Thankyou soooooo much , i made a whole GUI application at my workplace until now...",0.0,Neutral,,
+648,WHY3bz5_QdI,Python Full Course in Telugu: https://www.youtube.com/playlist?list=PLNgoFk5SYUglQOaXSY8lAlPXmK6tQBHaw,0.0,Neutral,,
+649,WHY3bz5_QdI,Super sir your explanation is very easy way to learn phython tnq sir,0.796,Positive,0.796,
+650,WHY3bz5_QdI,but my intrest went wrong,-0.631,Negative,,-0.631
+651,WHY3bz5_QdI,I don't know binary,0.0,Neutral,,
+652,WHY3bz5_QdI,How to covert binary,0.0,Neutral,,
+653,WHY3bz5_QdI,Excellent Teaching. Thanks a lot.,0.765,Positive,0.765,
+654,WHY3bz5_QdI,It's very usefully,0.4754,Positive,0.4754,
+655,WHY3bz5_QdI,it is use full,0.0,Neutral,,
+656,WHY3bz5_QdI,Bro firstlo baga chepinav malla artham kale,0.0,Neutral,,
+657,WHY3bz5_QdI,Good explanation and covered all the basic topics in python,0.4404,Positive,0.4404,
+658,WHY3bz5_QdI,Thank you,0.3612,Positive,0.3612,
+659,WHY3bz5_QdI,Sir python and java e rendu course ki amount entha avuthundhi sir chepandi pls,0.0772,Positive,0.0772,
+660,WHY3bz5_QdI,bynari convat,0.0,Neutral,,
+661,WHY3bz5_QdI,covered the basics well,0.2732,Positive,0.2732,
+662,WHY3bz5_QdI,Can you provide the notes about this plz,0.0964,Positive,0.0964,
+663,WHY3bz5_QdI,"Anna inka overloading,overriding,types of inheritance kuda cheppu",0.0,Neutral,,
+664,jTYiNjvnHZY,"Thank you , you’re the goat",0.3612,Positive,0.3612,
+665,jTYiNjvnHZY,"Even after years, This is easy to understand and relevant, Thank you very much man",0.6597,Positive,0.6597,
+666,jTYiNjvnHZY,"Thanks for the awesome video. 
+How do you make your terminal clutter free like that?",0.9153,Positive,0.9153,
+667,jTYiNjvnHZY,Wow really good explanations! This makes a lot of sense,0.8066,Positive,0.8066,
+668,jTYiNjvnHZY,"when i add that code in iDLE it comes back with  Traceback (most recent call last):
+  File ""C:/Users/lesli/AppData/Local/Programs/Python/Python311/aaa.py"", line 10, in <module>
+    print(num)
+NameError: name 'num' is not defined. Did you mean: 'nums'?  any particular reason why?",0.0,Neutral,,
+669,jTYiNjvnHZY,One of the best explanations on iterators. Thanks a ton!,0.8122,Positive,0.8122,
+670,jTYiNjvnHZY,Simply the best!,0.6696,Positive,0.6696,
+671,jTYiNjvnHZY,"Nice video
+Just out of curiosity, how does an iterable object which isnt a iterator work(since it wont be having the next method in its class definition work).",0.4215,Positive,0.4215,
+672,jTYiNjvnHZY,Excellent explanations are always!!,0.6467,Positive,0.6467,
+673,jTYiNjvnHZY,"It really sums up the concepts in a concise but precise way.
+Thank you a lot for this!",0.5487,Positive,0.5487,
+674,jTYiNjvnHZY,Great explanation,0.6249,Positive,0.6249,
+675,jTYiNjvnHZY,"Is it fair to say that ""Iterators are to Python programs what paging and virtual memory is for OS"".",0.3182,Positive,0.3182,
+676,jTYiNjvnHZY,"1. In Python, an object can be called an ""iterable"" if it has the dunder method __iter__ which should return an iterator and an iterator is an object that has the method __next__.
+2. __iter__  is a method that a python list has. 
+3. By performing the for loop on the list, python invokes that list's __iter__ method which returns an iterator that we can loop over.
+
+
+we can do next(mylist.__iter__()) which invokes the iterator's __next__ method or call  or invoke it directly: mylist.__iter__().__next__()
+
+we can also do next(iter(mylist))
+
+""Generators are iterators as well, but the duder iter and duner next methods are created automatically.""",0.4678,Positive,0.4678,
+677,jTYiNjvnHZY,"Thank you so much Corey, much appreciated how helpful this(these) videos are, just thank you 👍",0.8779,Positive,0.8779,
+678,jTYiNjvnHZY,"So, weird moment for me. I like to go back over the parts where my ADHD started to go crazy, and when you said ""Now remember I said iterators are objects with a state that..."" is when I went to back up a few minutes to get back on track. When I randomly let go, you said ""iterators are objects with a state that..."", so I weirded out and instantly now remember this rule. I have absorbed your power. There can only be One.",-0.1531,Negative,,-0.1531
+679,jTYiNjvnHZY,"Hey, thanks for the explanation. I have a question. In the ""generators"" section, you mention that the ""return"" statement destroys the state of the local variables whereas a yield keyword remembers the local variable state.  When you instantiate an object of the class MyRange (nums) in this video, and call next on this object, how does it remember the updated self.value in the next call, if the return statement does not remember the state of the local variables? Thanks in advance.",0.296,Positive,0.296,
+680,waY3LfJhQLY,What if you want to change the shape of the player?,0.0772,Positive,0.0772,
+681,waY3LfJhQLY,"Getting stuck on the background. Ive saved his background, and tried to use my own. How do i add it to the directory? Im using Pycharm.",0.2023,Positive,0.2023,
+682,waY3LfJhQLY,Thank you so much for this introduction to game programming in Python. Nice tutorial with all the necessary knowledge. I very much appreciate your effort. THANK YOU.🙂,0.9219,Positive,0.9219,
+683,waY3LfJhQLY,"I done everything right and yet when i enter input pygame i get an error ""could not be resolved"" yet i followed all the steps right. 
+I am new and I have both VSC and PyCharm installed ive tried using both and the same error pops up on both. Any tips?",-0.7112,Negative,,-0.7112
+684,waY3LfJhQLY,What is the thing he is using python in because my python looks nothing like that,-0.2755,Negative,,-0.2755
+685,waY3LfJhQLY,I lost interest 30mins in.,0.1779,Positive,0.1779,
+686,waY3LfJhQLY,I have a strange question is it illegal to copy someone's code so you could better understand how to code?,-0.3041,Negative,,-0.3041
+687,waY3LfJhQLY,I'm working on a python game nammed WebMaster ( You act as a spider for survive in a world  full of danger and opportunity. but i need 2d asset and learn how.,0.4497,Positive,0.4497,
+688,waY3LfJhQLY,really good intro,0.4927,Positive,0.4927,
+689,waY3LfJhQLY,i knw i copied every damn word from him but it still makes me proud that i  wrote it,0.5106,Positive,0.5106,
+690,waY3LfJhQLY,"Hey guys, can someone tell me why pygames modules dont get highlighted?
+like pygame.init() or pygame.event.get() etc.   I've seen it in VsCode (i think) ,  it would help me out tremendously",0.1506,Positive,0.1506,
+691,waY3LfJhQLY,"I ran into a problem. Every time I ran the code, the window appeared and then disappeared almost immediately. Pls help this is 4 schoolwork :(",-0.6177,Negative,,-0.6177
+692,waY3LfJhQLY,I am having hard time importing the image. I am getting think module error.,-0.4767,Negative,,-0.4767
+693,waY3LfJhQLY,It shows me a white screen,0.0,Neutral,,
+694,waY3LfJhQLY,its not letting me import time or import random,0.0,Neutral,,
+695,H09PmP5tsy8,i still am struggling with installing pygame :(,-0.6908,Negative,,-0.6908
+696,H09PmP5tsy8,Were is the source code 👨🏻‍💻,0.0,Neutral,,
+697,H09PmP5tsy8,"Creating the graphics library is the easy part. Storyboarding, creating game mechanics, balancing, drawing art and composing music, and polishing is the hard part.",0.7096,Positive,0.7096,
+698,H09PmP5tsy8,I got 17 after a few tries. It's rly good for what you made in 3 days and no experience. I tryed to do a game with python but never really had the time for it. Now that I've seen this I might just try to finish it for once.,0.09,Positive,0.09,
+699,H09PmP5tsy8,Which adobe illustrator number do u  Use?,0.0772,Positive,0.0772,
+700,H09PmP5tsy8,"as a beginner with almost no experience that wants to start making games, should i learn to code with python?",-0.228,Negative,,-0.228
+701,H09PmP5tsy8,"think of games is easy for me, thinking of goals is easy to me... enemies, all that, very easy for me... just... I don't know how to make a game and my attempts have not been the best
+
+e.g:
+
+You're an experiment by the elves of Santa, to create a present that packs the items itself. They are finally successful in the creation of the present but they did not know it yet. You, the present, are sentient, through the magic, you can hear... you hear the elves are getting ready to burn all attempts, but you, just having gained sentience, do not know that if you speak up, you wont be burned, so you see that as a threat, and make a break for it.  The goal is to collect items on the way that may help in your escape but also collect the one item you were destined to hold, giving you the ability to be put on the sleigh and taken away from the north pole.  The game enemies are elves, its a stealth game with platforms, puzzles and item requirements.  Each item collected could unlock a new ability, such as the double jump or unlocking the ability to use your Christmas magic to do things, such as the ability to create ladders or bridges from inside of you.
+
+Granted, likely out of the scope of the game and python(maybe?), but, an entire game idea in less than 1 minute... is it good? probably not, but there we go",0.9798,Positive,0.9798,
+702,H09PmP5tsy8,"Amazing video, although the Mario Paint reference has me feeling my years :P",0.7925,Positive,0.7925,
+703,H09PmP5tsy8,It's a funny game. I love it,0.7964,Positive,0.7964,
+704,H09PmP5tsy8,Redundant to say you have no experience if you’re using python 🙂😘,0.5118,Positive,0.5118,
+705,H09PmP5tsy8,"my high score is 15, i gotta say, I love the sound tracks. also loving the artwork.",0.8442,Positive,0.8442,
+706,H09PmP5tsy8,can any one help to understand these project ? and how do I convert py to exe  which file should I select?,0.4696,Positive,0.4696,
+707,H09PmP5tsy8,My bro over here made a game on PYTHON just like that ... And I'm here in my 2nd year of A-LEVELS not able to declare a 2D-ARRAY ☠️,0.3612,Positive,0.3612,
+708,H09PmP5tsy8,"What did you do to create the gift box ? What app ? 
+Sr my english not good.",0.4504,Positive,0.4504,
+709,H09PmP5tsy8,"i'm sure everyone had this exact same problem when playing, it's practically impossible to pass whenever 2 hands would come on the screen at the same time and it happened very often
+
+best i could get was 22",0.7076,Positive,0.7076,
+710,H09PmP5tsy8,"# python code be like
+
+score = 0
+
+print(""my hi score: 343"")
+if score > 343:
+print(f""my hi score: {score}"")",0.3612,Positive,0.3612,
+711,H09PmP5tsy8,"Fun little game, unfortunately there are instances both hands perpendicularly meet at the bottom and you cannot avoid them at all.  But I know this is supposed to be a fun little project.  This is why game development is hard, even if it's a small game; you have to check for every little possible complication.",0.708,Positive,0.708,
+712,eTyI-M50Hu4,"I'm just thinking to change field and i was searching for something to start, after looking for couple of days I found this. This is so much helpful to understand basic concept for someone who just want to do fresh start. Really thank you very much for making and sharing these tutorials. My intention to learn Data analytics, if you can suggest something more to add on top of this.",0.9016,Positive,0.9016,
+713,eTyI-M50Hu4,How we will solve : Use for loop to calculate sum of 1 to 100,0.2023,Positive,0.2023,
+714,eTyI-M50Hu4,"should i watch this in 2023 , or there are more update ??.",0.0,Neutral,,
+715,eTyI-M50Hu4,even non it person can learn anything from great learning🙂  millions thanx to you sir,0.7787,Positive,0.7787,
+716,eTyI-M50Hu4,"i love hearing from you "" Maan Ligeyeay"" ok i trust you",0.8658,Positive,0.8658,
+717,eTyI-M50Hu4,"brilliant, thank you great learning team and you my dear. loving it",0.9509,Positive,0.9509,
+718,eTyI-M50Hu4,"Hi do we have the option to get the lectures delivered in this video in form of ppt?
+To revise them as video is challenging to rewind forward...",0.1531,Positive,0.1531,
+719,eTyI-M50Hu4,I have a learnt a lot of things from this video .thank you sir,0.3612,Positive,0.3612,
+720,eTyI-M50Hu4,"Hay Greatlerining trainer , where is the operator chapter  in this video",0.0,Neutral,,
+721,eTyI-M50Hu4,Thanks so much,0.4404,Positive,0.4404,
+722,eTyI-M50Hu4,"Thank You sir for wonderful session, it was really great.",0.8908,Positive,0.8908,
+723,eTyI-M50Hu4,"There is some meaning associated with i and j while he is explaining If function, while loop and for loop. It is not explained by him why he is using j while showcasing example 1st example of for loop. It took me half hour since I am beginner to understand there is some value associated by python to i and j",0.34,Positive,0.34,
+724,eTyI-M50Hu4,"fantastic, one of the best videos, explained with real-life examples.",0.8316,Positive,0.8316,
+725,eTyI-M50Hu4,"The only drawback of this course is that too much of Jargons has been used without explaining the meaning of those Jargons. Someone who is completely new and wants to cover the whole course cant cope up with the jargons, hence making this course 8 hours instead of 4 hours",0.0,Neutral,,
+726,eTyI-M50Hu4,"Print(""Thank you"")",0.0,Neutral,,
+727,mziIj4M_uwk,"its pronounced Yield, not Eld",0.0,Neutral,,
+728,mziIj4M_uwk,Very simple and easy to follow examples. kudos to you.,0.7553,Positive,0.7553,
+729,mziIj4M_uwk,"Thank you, My family is happy now, and that is what i want
+                                                                                                - Thomas Shelby",0.7579,Positive,0.7579,
+730,mziIj4M_uwk,Thanks,0.4404,Positive,0.4404,
+731,mziIj4M_uwk,"Hi Navin,
+Why a function and not a class?",0.0,Neutral,,
+732,mziIj4M_uwk,"Daily I watch your videos one by one. you Explain the concept in such a way that we Easily catch you... 
+KEEP GOING SIR..",0.34,Positive,0.34,
+733,mziIj4M_uwk,ohh....man..what an confidence of teaching ...ur kind of different comparing others..cool way of teaching,0.5106,Positive,0.5106,
+734,mziIj4M_uwk,Gr8   💯✨ thnk u,0.7184,Positive,0.7184,
+735,mziIj4M_uwk,yield = iterative return is it sir,0.0,Neutral,,
+736,mziIj4M_uwk,Why do we use iterators and generators in real life?,0.0,Neutral,,
+737,mziIj4M_uwk,What a great explanation! Thank you so much.,0.784,Positive,0.784,
+738,mziIj4M_uwk,Understood... Thanks :),0.7096,Positive,0.7096,
+739,mziIj4M_uwk,"thanks sir.. your videos are awesome, and it makes us feel like coding is tricky but easy.",0.8316,Positive,0.8316,
+740,mziIj4M_uwk,"Hi Navin sir , Thank you somuch for making each and every concept so simple and understandable .keep up the good work.",0.6597,Positive,0.6597,
+741,mziIj4M_uwk,its very tough to understand your way of explaining.,-0.2006,Negative,,-0.2006
+742,mziIj4M_uwk,so what i don't get is that where we can use this,0.0,Neutral,,
+743,Eaz5e6M8tL4,can you please do the same for c programming also,0.3182,Positive,0.3182,
+744,Eaz5e6M8tL4,you're better in teaching than coding with harry,0.4404,Positive,0.4404,
+745,Eaz5e6M8tL4,"Hlo Sir,
+I am not getting a pop up after nums.
+Can you clarify how to get..",0.0,Neutral,,
+746,Eaz5e6M8tL4,I don't have any option of append and etc,0.0,Neutral,,
+747,Eaz5e6M8tL4,"So just to be clear, for remove we use the list value for pop we use the value index",0.7506,Positive,0.7506,
+748,Eaz5e6M8tL4,I STARTED LEARNING PYTHON WHEN I WAS 14 YEARS OLD AND STILL LEARNING MORE AND VERY PROUD TO SAY THAT TODAY MY AGE IS NOT 23 BUT STILL 14 AND I M IN CLASS 9TH,0.5253,Positive,0.5253,
+749,Eaz5e6M8tL4,sir how to sort the things in descending order ?,0.0,Neutral,,
+750,Eaz5e6M8tL4,"It's surprisingly fun to follow along with what you do in these, thanks for all your hard work on the course!",0.807,Positive,0.807,
+751,Eaz5e6M8tL4,I'm 14 and started HTML when I was in sixth... that's all I knew about coding. I literally have no experience in coding. I thought if I learn this I might understand nothing. But till now it is great and I've got no doubts. This is the best playlist to learn Python ever! Thank you Sir!!,0.9602,Positive,0.9602,
+752,Eaz5e6M8tL4,"nums
+['36, 45, 86, 99,18']
+min(num)
+Traceback (most recent call last):
+  File ""<pyshell#9>"", line 1, in <module>
+    min(num)
+NameError: name 'num' is not defined. Did you mean: 'nums'?
+
+iam getting this error can you help me in fixing",-0.1091,Negative,,-0.1091
+753,Eaz5e6M8tL4,pop is not coming,0.0,Neutral,,
+754,Eaz5e6M8tL4,"Hello sir, please do suggest any platform to practice simple coding questions for better practice..pleaseee",0.6369,Positive,0.6369,
+755,Eaz5e6M8tL4,"I just started learning Python. Being from non tech background, I would say your videos are greatly helping me understand the concepts. QQ: Cant we just sum few values by using sum functions like sum(0:2)",0.7713,Positive,0.7713,
+756,Eaz5e6M8tL4,nice explanation ...i llike it if u provide some choosings then it will be osm,0.4215,Positive,0.4215,
+757,daefaLgNkw0,Can you do tutorials on playing web games bot,0.2023,Positive,0.2023,
+758,daefaLgNkw0,"Ok, but how store multiple students? In your case name key will always change the name of only one user",0.0,Neutral,,
+759,daefaLgNkw0,"This video was very useful, thank you!",0.7402,Positive,0.7402,
+760,daefaLgNkw0,"awesome, I see example problem in my book with answer and cannot figure it out but your video explains. Helped me at 8:32",0.1779,Positive,0.1779,
+761,daefaLgNkw0,Awesome video ! U r a natural teacher ! Loved it,0.9018,Positive,0.9018,
+762,daefaLgNkw0,thank you kind sir,0.7096,Positive,0.7096,
+763,daefaLgNkw0,"I've been learning Python for a while, and you are gifted. Many thanks",0.4404,Positive,0.4404,
+764,daefaLgNkw0,Great Sir. I larned more than my University classes.,0.6249,Positive,0.6249,
+765,daefaLgNkw0,"Hi Corey, I have a question, what combination of keys did you enter to highlight your code and remove the # on the left of your code.",0.34,Positive,0.34,
+766,daefaLgNkw0,Effortless and excellent teaching by a born teacher.,0.5719,Positive,0.5719,
+767,daefaLgNkw0,how to make it there's : in each of the key,0.0,Neutral,,
+768,daefaLgNkw0,"dude...this just explained so much to me in such little time. I have been scratching my head for a while over things and not really understanding some looping within these dictionaries, but your explanation makes so much more sense that its actually starting to come together.  Thank you.",0.5023,Positive,0.5023,
+769,daefaLgNkw0,"ummmm.. this guy is excellent, thank you",0.7351,Positive,0.7351,
+770,daefaLgNkw0,"How do you come to know when to use (), {} or []. I see them being used here a lot, I am a new learner so getting confused in this",-0.3774,Negative,,-0.3774
+771,daefaLgNkw0,"Hey Corey, I know these videos are geared towards beginners like myself - and also a few years old at this point - but it would be helpful to explain how each concept in the tutorials are used in the real world, beyond just printing out values. 
+
+Hopefully this makes sense! Thank you for the instruction - I appreciate your teaching style",0.962,Positive,0.962,
+772,daefaLgNkw0,"If Corey> Mosh:
+print(""Corey is the Best"")",0.6369,Positive,0.6369,
