@@ -254,7 +254,7 @@ elif selected_nav == "About Us":
 
     # Use markdown and HTML to create the hyperlinks with styling
     with col1:
-        st.image("./images/avatar.png", use_column_width="auto")
+        st.image("Algorithm_Development/images/avatar.png", use_column_width="auto")
         st.markdown(f"<div class='avatar-container'><a class='avatar-link' href='{url_kailash}'>Kailash Chandran</a><p>kailashchandran99999@gmail.com</p></div>", unsafe_allow_html=True)
         with st.expander("Expand to know more about me"):
             st.write(
@@ -263,7 +263,7 @@ elif selected_nav == "About Us":
             )
 
     with col2:
-        st.image("./images/avatar.png", use_column_width="auto")
+        st.image("Algorithm_Development/images/avatar.png", use_column_width="auto")
         st.markdown(f"<div class='avatar-container'><a class='avatar-link' href='{url_rincis}'>Rincis Melvin M</a><p>rincismelvin25@gmail.com</p></div>", unsafe_allow_html=True)
         with st.expander("Expand to know more about me"):
             st.write(
@@ -273,7 +273,7 @@ elif selected_nav == "About Us":
             )
 
     with col3:
-        st.image("./images/avatar.png", use_column_width="auto")
+        st.image("Algorithm_Development/images/avatar.png", use_column_width="auto")
         st.markdown(f"<div class='avatar-container'><a class='avatar-link' href='{url_karthikkeyan}'>Karthikkeyan N T</a><p>ntkarthi29@gmail.com</p></div>", unsafe_allow_html=True)
         with st.expander("Expand to know more about me"):
             st.write(
@@ -372,7 +372,7 @@ elif selected_nav == "Project":
 
         with col1:
             st.subheader("**Context Diagram**")
-            st.image("./images/Context.jpg", caption="Context of C4 Model", width=500)
+            st.image("Algorithm_Development/images/Context.jpg", caption="Context of C4 Model", width=500)
         with col2:
             st.subheader("**Explanation**")
             st.write(
@@ -403,7 +403,7 @@ elif selected_nav == "Project":
 
         with col3:
             st.subheader("**Container Diagram**")
-            st.image("./images/Container.png", caption="Container of C4 Model", width=650)
+            st.image("Algorithm_Development/images/Container.png", caption="Container of C4 Model", width=650)
         with col4:
             st.subheader("**Explanation**")
             st.write(
@@ -444,7 +444,7 @@ elif selected_nav == "Project":
         with col5:
             st.subheader("**Frontent Component**")
             st.markdown("<br>" * 3, unsafe_allow_html=True)
-            st.image("./images/Frontend_Component.png", caption="Frontend Component of C4 Model", width=650)
+            st.image("Algorithm_Development/images/Frontend_Component.png", caption="Frontend Component of C4 Model", width=650)
 
         with col6:
             st.subheader("**Explanation**")
@@ -482,7 +482,7 @@ elif selected_nav == "Project":
         with col7:
             st.subheader("**Backend Component**")
             st.markdown("<br>" * 4, unsafe_allow_html=True)
-            st.image("./images/Backend_Component.png", caption="Backend Component of C4 Model", width=650)
+            st.image("Algorithm_Development/images/Backend_Component.png", caption="Backend Component of C4 Model", width=650)
 
         with col8:
             st.subheader("**Explanation**")
@@ -514,7 +514,7 @@ elif selected_nav == "Project":
         
         with col9:
             st.subheader("**Data Flow Chart**")
-            st.image("./images/video_filter_flowchart.jpg", caption="Data Flow Chart", width=650)
+            st.image("Algorithm_Development/images/video_filter_flowchart.jpg", caption="Data Flow Chart", width=650)
 
         with col10:
             st.markdown("<br>" * 10, unsafe_allow_html=True)
@@ -596,7 +596,7 @@ elif selected_nav == "Simulation":
         st.subheader("**Simulated Video Query Results**")
 
         # Save the analysis details to a CSV file
-        analysis_details_file = "data/analysis_details.csv"
+        analysis_details_file = "Algorithm_Development/data/analysis_details.csv"
         save_analysis_details(grouped_df, file_path=analysis_details_file)
 
         # Provide a download link for the user
@@ -628,7 +628,7 @@ elif selected_nav == "Metrics":
     """,
     unsafe_allow_html=True,
     )
-    df = pd.read_csv("data/analysis_details.csv")
+    df = pd.read_csv("https://github.com/RincisM/Responsive_AI/blob/main/Algorithm_Development/data/analysis_details.csv")
     df.fillna(0, inplace=True)
     df.drop('comment', axis=1, inplace=True)
     df = df.drop(df.columns[0], axis=1)
