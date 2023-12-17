@@ -36,7 +36,7 @@ The data used in the project is stored in the data folder. The `analysis_details
 The notebooks folder contains Python files for different parts of the analysis.
 - `Simple_Bias_detection.ipynb`: This notebook explores basic bias detection techniques.
 - `Sentiment_Analysis_Youtube.ipynb`: This notebook performs sentiment analysis on YouTube comments.
-- `Toxity_Measure.ipynb`: This notebook is an additional file that measures the toxicity of text.
+- `Toxity_Measure.ipynb`: This notebook is an additional file that measures the toxicity of comments and makes the developers delete toxic comments for their video.
 
 ## Header Section
 The header section contains a welcome message and essential details about the project, including mentors and industry experts.
