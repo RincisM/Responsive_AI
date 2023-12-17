@@ -628,7 +628,7 @@ elif selected_nav == "Metrics":
     """,
     unsafe_allow_html=True,
     )
-    df = pd.read_csv("https://github.com/RincisM/Responsive_AI/blob/main/Algorithm_Development/data/analysis_details.csv")
+    df = pd.read_csv("Algorithm_Development/data/analysis_details.csv")
     df.fillna(0, inplace=True)
     df.drop('comment', axis=1, inplace=True)
     df = df.drop(df.columns[0], axis=1)
