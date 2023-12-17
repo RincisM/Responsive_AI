@@ -725,7 +725,7 @@ elif selected_nav == "Contact Us":
     """
     <div style="text-align: center;">
         <p><b>General Inquiries:</b> rincismelvin25@gmail.com</p>
-        <p><b>Technical Support:</b> kailashchandran99999@gmail.com</p>
+        <p><b>Technical Support:</b> u192519.kailashchandran@gmail.com</p>
         <p><b>Project Related Queries:</b> ntkarthi29@gmail.com</p>
     </div>
     """,
