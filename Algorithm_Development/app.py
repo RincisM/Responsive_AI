@@ -255,7 +255,7 @@ elif selected_nav == "About Us":
     # Use markdown and HTML to create the hyperlinks with styling
     with col1:
         st.image("Algorithm_Development/images/avatar.png", use_column_width="auto")
-        st.markdown(f"<div class='avatar-container'><a class='avatar-link' href='{url_kailash}'>Kailash Chandran</a><p>kailashchandran99999@gmail.com</p></div>", unsafe_allow_html=True)
+        st.markdown(f"<div class='avatar-container'><a class='avatar-link' href='{url_kailash}'>Kailash Chandran J</a><p>kailashchandran99999@gmail.com</p></div>", unsafe_allow_html=True)
         with st.expander("Expand to know more about me"):
             st.write(
                 "I would like to Contribute to the growth of a company by applying my technical skills."
