@@ -13,6 +13,7 @@
 - [Simulation](#simulation)
 - [Metrics](#metrics)
 - [Contact Us](#contact-us)
+- [Explanation Video](#explanation-video)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 
