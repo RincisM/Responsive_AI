@@ -55,6 +55,9 @@ The Metrics section provides insights into the sentiment analysis results, inclu
 ## Contact Us
 The Contact Us section provides email addresses for general inquiries, technical support, and project-related queries.
 
+## Explanation Video
+[<img src="Algorithm_Development/images/Algorithm_Development_Title_Page.png" width="600" height="300"/>](https://www.youtube.com/embed/l8qB0fx2SOc)
+
 ## How to Use
 1. Clone the repository: `git clone https://github.com/RincisM/Responsive_AI.git`
 2. Navigate to Algorithm_Development directory.
