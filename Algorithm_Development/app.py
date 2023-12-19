@@ -563,6 +563,11 @@ elif selected_nav == "Project":
     "but also contributes to a more inclusive digital community."
     )
 
+    st.subheader("**Explanation Video**")
+    st.video("https://www.youtube.com/watch?v=l8qB0fx2SOc")
+
+    st.divider()
+
     st.subheader("**References**")
     st.write(
     "1. **Streamlit app**: https://docs.streamlit.io/ \n"
