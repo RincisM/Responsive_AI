@@ -9,7 +9,7 @@
 - [Data](#data)
 - [Notebooks](#notebooks)
   
-  # Inside the Application
+ `Inside the Application`
 - [Header Section](#header-section)
 - [Content Section](#content-section)
 - [Simulation](#simulation)
