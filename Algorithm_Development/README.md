@@ -8,6 +8,8 @@
 - [Assets](#assets)
 - [Data](#data)
 - [Notebooks](#notebooks)
+  
+  #Inside the App
 - [Header Section](#header-section)
 - [Content Section](#content-section)
 - [Simulation](#simulation)
