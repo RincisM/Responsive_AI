@@ -52,7 +52,7 @@ The content section provides detailed information about the project, including a
 ## Simulation
 The Simulation section allows users to input a YouTube API key and simulate video queries to display sentiment analysis results. After the Simulation, a download button will appear. It will allow us to download the data in csv format. Store the file in the same directory (where your `app.py` is present) under the data folder.
 
-### Demo
+### Demo Video of Simulation
 [<img src="https://github.com/RincisM/Responsive_AI/blob/main/Algorithm_Development/images/Simulation_page.png?raw=true" width="600" height="300"/>](https://youtu.be/OArWTjnXJk4)
 
 ## Metrics
