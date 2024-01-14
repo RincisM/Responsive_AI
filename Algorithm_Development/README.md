@@ -53,10 +53,14 @@ The content section provides detailed information about the project, including a
 The Simulation section allows users to input a YouTube API key and simulate video queries to display sentiment analysis results. After the Simulation, a download button will appear. It will allow us to download the data in csv format. Store the file in the same directory (where your `app.py` is present) under the data folder.
 
 ### Demo
-[<img src="https://github.com/RincisM/Responsive_AI/blb/main/Algorithm_Development/images/Simulation.png?raw=true" width="600" height="300"/>](https://youtu.be/OArWTjnXJk4)
+[<img src="https://github.com/RincisM/Responsive_AI/blob/main/Algorithm_Development/images/Simulation_page.png?raw=true" width="600" height="300"/>](https://youtu.be/OArWTjnXJk4)
 
 ## Metrics
 The Metrics section provides insights into the sentiment analysis results, including total comments analyzed, average sentiment scores, and visualizations such as bar charts, box plots, histograms, and pie charts.
+
+### Metrics Visualization
+<img src="https://github.com/RincisM/Responsive_AI/blob/main/Algorithm_Development/images/Boxplot.png?raw=true" width="600" height="300"/>
+<img src="https://github.com/RincisM/Responsive_AI/blob/main/Algorithm_Development/images/PieChart.png?raw=true" width="600" height="300"/>
 
 ## Contact Us
 The Contact Us section provides email addresses for general inquiries, technical support, and project-related queries.
