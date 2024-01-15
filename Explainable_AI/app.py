@@ -296,6 +296,12 @@ def model_prediction():
 if selected == "Home":
    st.title('Explainable AI')
 
+   st.markdown("<h5>Aravindambalavanan J(2022179044)</h5>",unsafe_allow_html=True)
+   st.markdown("<h5>Sanjayprakash M(2022179043)</h5>",unsafe_allow_html=True)
+   st.markdown("<h5>Vinoth Kumar A(2022179041)</h5>",unsafe_allow_html=True)
+
+   st.markdown("Explanation and Demo(https://drive.google.com/file/d/1fq7flJrXTvOmNLJ-qGSlHUp5gizT7M6e/view?usp=sharing)")
+
    st.write("Dataset Used - UCI Adult Census")
 
    st.markdown("Model(https://github.com/Aravindambalavanan/XAI).")
