@@ -1,9 +1,9 @@
 # EXPLAINABLE AI - XAI
 
 ## Team Members
-Aravindambalavanan J(2022179044)
-Sanjayprakash M(2022179043)
-Vinoth Kumar A(2022179041)
+- Aravindambalavanan J(2022179044)
+- Sanjayprakash M(2022179043)
+- Vinoth Kumar A(2022179041)
 
 ## Access the Website here: https://aravindambalavanan-xai-app-6tqipm.streamlit.app/
 
