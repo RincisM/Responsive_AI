@@ -9,7 +9,7 @@ Vinoth Kumar A(2022179041)
 
 ## Demo and Explanation Video
 
-[<img src="/Explanation_Demo_Video/thumbnail.png" width="600" height="300"/>](https://drive.google.com/file/d/1fq7flJrXTvOmNLJ-qGSlHUp5gizT7M6e/view?usp=sharing)
+[<img src="https://github.com/Aravindambalavanan/Responsive_AI/blob/main/Explainable_AI/Explanation_Demo_Video/thumbnail.png" width="600" height="300"/>](https://drive.google.com/file/d/1fq7flJrXTvOmNLJ-qGSlHUp5gizT7M6e/view?usp=sharing)
 
 ## Contents of this folder
 adult_census.ipynb- Model
