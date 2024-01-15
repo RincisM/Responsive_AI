@@ -12,12 +12,12 @@ Vinoth Kumar A(2022179041)
 [<img src="https://github.com/Aravindambalavanan/Responsive_AI/blob/main/Explainable_AI/Explanation_Demo_Video/thumbnail.png" width="600" height="300"/>](https://drive.google.com/file/d/1fq7flJrXTvOmNLJ-qGSlHUp5gizT7M6e/view?usp=sharing)
 
 ## Contents of this folder
-adult_census.ipynb- Model
-adult.csv- Dataset
-plots- Contains various plots and results
-app.py- streamlit application
-Explanation_Demo_Video- Contains Demo and Explanation Video Link
-Report- Contains Report
+- adult_census.ipynb- Model
+- adult.csv- Dataset
+- plots- Contains various plots and results
+- app.py- streamlit application
+- Explanation_Demo_Video- Contains Demo and Explanation Video Link
+- Report- Contains Report
 
 ## Report Drive link: https://drive.google.com/file/d/15VNyg2MEnjv07OBpB57dHamnJWKkuwSq/view?usp=sharing
 
