@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ethical AI Report - YouTube Video Classification App</title>
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            text-align: justify;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+
+        header {
+            background-color: #FF0000;
+            color: #ecf0f1;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        nav {
+            background-color:#282828;
+            padding: 10px;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: #ecf0f1;
+            text-decoration: none;
+            padding: 10px 20px;
+            margin: 0 10px;
+            border-radius: 5px;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        nav a:hover {
+            background-color: #ecf0f1;
+            color:  #080808;
+        }
+
+        main {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        section {
+            margin-bottom: 30px;
+        }
+
+        h2 {
+            color:#FF0000;
+        }
+
+        p {
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
+
+        img, video {
+            max-width: 100%;
+            border-radius: 5px;
+            margin-top: 10px;
+            transition: transform 0.3s, filter 0.3s;
+        }
+
+        img:hover, video:hover {
+            transform: scale(1.05);
+            filter: grayscale(10%);
+        }
+        #team-members {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            margin-top: 10px;
+        }
+        .team-member {
+            width: 300px;
+            margin: 5px;
+            padding: 5px;
+            text-align: center;
+        margin-bottom: 10px;
+            transition: transform 0.3s;
+        }
+        .team-member:hover {
+            transform: scale(1.05);
+        }
+        .team-member h3 {
+            color: #ef7600;
+
+        }
+        
+
+        /* Rest of the styles remain unchanged */
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Implementing Fair and Ethical Al in Real-world Systems - YouTube Video Classification App</h1>
+        
+    </header>
+
+    <nav>
+        <a href="#abstract">Abstract</a>
+        <a href="#methods">Methods</a>
+        <a href="#proposal">Proposal</a>
+        <a href="#C4 Model">C4 Model</a>
+        <a href="#video"> Video </a>
+        <a href="#results">Results</a>
+        <a href="#code">Code</a>
+    </nav>
+
+    <main>
+
+        <center><h2> Team Members </h2> </center>
+        <section id="team-members">
+            <div class="team-member">
+                <h3>SAI KIRAN D V (2022179033)</h3>
+            </div>
+    
+            <div class="team-member">
+                <h3>SARINIKA U (2022179034)</h3>
+            </div>
+    
+            <div class="team-member">
+                <h3>MANIGANDAN R (2022179052)</h3>
+            </div>
+        </section>
+
+        <center><h2> Guide </h2> </center>
+        <section id="team-members">
+            <div class="team-member">
+                <h3>DR. M. DEIVAMANI </h3>
+                <h4>ASSISTANT PROFESSOR DIST</h4>
+            </div>
+    
+            <div class="team-member">
+                <h3>MR. MUTHUMANI </h3>
+                <h4>INDUSTRY EXPERT   </h4>
+            </div>
+        </section>
+        <section id="abstract">
+            <hr>
+           <center> <h2>Abstract</h2></center>
+            <p>The YouTube Video Classification App aims to provide users with a comprehensive analysis of the sentiment and explicit content within YouTube videos. The primary goal is to offer insights into the emotional tone of videos, categorizing sentiments as positive, neutral, or negative. Additionally, the app evaluates the presence of explicit content through a sophisticated analysis, helping users assess the appropriateness of the video's content. With a user-friendly interface, the app enables users to input a YouTube video URL, select subtitles language preferences, and receive detailed visualizations, including pie charts for sentiment distribution, bar charts for sentiment word counts, and word clouds for a graphical representation of frequently used words. The integration of external libraries such as NLTK, Matplotlib, WordCloud, and Profanity Check, along with YouTube API, enhances the app's capabilities in natural language processing and content analysis. This mini-project serves as a valuable tool for content creators, educators, and anyone interested in gaining deeper insights into the emotional and contextual aspects of YouTube video content.</p>
+   
+        </section>
+
+       
+
+        <section id="methods">
+            <hr>
+            <center><h2>Methods</h2></center>
+            <h3>Sentiment Bias:</h3>
+            <p>Sentiment bias refers to a systematic and consistent deviation in the evaluation of sentiment or emotion within a given piece of content. In the context of natural language processing and sentiment analysis, bias may arise when the sentiment analysis model consistently misinterprets or skews its classification of text as positive, negative, or neutral.</p>
+           
+            <p><strong>Identification: </strong>Sentiment bias can be identified through the sentiment analysis results provided by the YouTube Video Classification App. The SentimentIntensityAnalyzer from the NLTK library assigns sentiment scores to the video transcript, categorizing it as positive, neutral, or negative. Bias may be present if the sentiment consistently leans towards one polarity, indicating a potential skew in the emotional tone of the analyzed content.
+            For example, if a certain type of content consistently receives a negative sentiment label, it could suggest bias against that particular content or perspective. Sentiment bias may also manifest if the sentiment analysis model is trained on datasets that are not diverse enough, leading to a skewed understanding of emotions.</p>
+            
+            <p><strong>Mitigation: </strong>To mitigate sentiment bias, it's crucial to regularly review sentiment analysis results and ensure the model is trained on a diverse set of data that represents a wide range of perspectives. Additionally, incorporating user feedback and continuously updating the sentiment analysis model can help refine its accuracy and reduce biases over time.</p>
+            <h3>Explicit content Bias:</h3>
+            <p>Explicit content bias refers to the presence of systematic deviations or prejudices in the identification and classification of explicit or inappropriate content within a given context. In the context of content analysis, explicit content bias may arise when algorithms or models disproportionately associate certain themes or topics with explicit content, potentially leading to unfair assessments.</p>
+            <p><strong>Identification:</strong> Explicit content bias is identified through the analysis of potentially explicit language or content within the video transcript using the Profanity Check library. The app calculates an explicit content score, and bias may emerge if certain groups or topics are disproportionately associated with explicit content. This bias could be reflective of cultural or societal biases ingrained in the language used within the content.
+            
+            For instance, if the explicit content analysis consistently flags content related to specific themes or communities, it may indicate a bias in the way explicit content is assessed.</p>
+            <p><strong>Mitigation:</strong> Mitigating explicit content bias involves regularly reviewing explicit content analysis results and adjusting the analysis parameters to ensure fairness. Fine-tuning the Profanity Check model and considering context-specific factors can help reduce biases associated with explicit content assessment. Moreover, providing users with transparency on how explicit content is determined and giving them the ability to provide feedback can contribute to a more refined and unbiased analysis.</p>
+
+            <center><img src="yt_video_classify_app.gif" alt="YT_video Classification" style="width:1000px;height:;"></center>
+        </section>
+
+        <section id="proposal">
+            <hr>
+        <center><h2>Proposal</h2></center>
+            <p>Theoretical frameworks and guidelines for fair and ethical Al abound, but translating these theories into practical applications in real-world systems remains a considerable challenge. The gap between ethical principles and actual Al implementation often results in unintentional biases, unfair outcomes, and ethical dilemmas. This project addresses the central issue of "Implementing Fair and Ethical Al in Real-world Systems" by bridging the divide between theory and practice.</p>
+            <h3>Key Challenges and Objectives:</h3>
+            <h4>Operationalizing Ethical Principles:</h4>
+            <p> Develop strategies to translate broad ethical Al principles into specific, actionable guidelines for system development and deployment.</p>
+            <h4>Fairness-Aware Model Development:</h4>
+            <p> Explore techniques to incorporate fairness considerations during the entire Al model development lifecycle, including data collection, preprocessing, model training, and evaluation.</p>
+            <h4>Ethical Decision Support Systems:</h4>
+            <p>Design systems that embed ethical decision-making frameworks within Al applications, enabling the system to make real-time ethical choices and recommendations.</p>
+            <h4>Cross-disciplinary Collaboration:</h4>
+            <p>Facilitate collaboration between Al practitioners, ethicists, legal experts, social scientists, and domain specialists to ensure that ethical considerations are integrated seamlessly into Al systems.</p>
+            <h4>User Involvement and Feedback:</h4>
+            <p>Establish mechanisms for involving end-users in the design and evaluation of Al systems, incorporating their values and concems to enhance the ethical and fair implementation of the technology.</p>
+            <h4>Ethical Data Usage and Privacy Preservation:</h4>
+            <p>Develop methods to ensure that data used in Al systems is collected and used in an ethical manner, with privacy preservation mechanisms at the forefront.</p>
+            <h4>Expected Outcomes:</h4>
+            <p>The project aims to deliver a comprehensive framework, practical guidelines, and a toolkit for implementing fair and ethical Al in real-world systems. The outcomes will empower Al practitioners and developers to navigate the complex landscape of ethical Al, promoting the responsible deployment of Al technologies in diverse domains.</p>
+            <h4>Significance:</h4>
+            <p>"From Theory to Practice: Implementing Fair and Ethical Al in Real-world Systems" is paramount for ensuring that Al technologies align with societal values and ethical principles. B making the translation from theory to practice more effective, this project contributes to foster in trust, equity, and fairness in Al applications, ultimately benefiting individuals and society as a whole</p>
+              
+        
+        </section>
+
+        <section id="C4 Model">
+            <hr>
+            <center><h2>C4 Model</h2></center>
+            <h3>Level 1: System Context Diagram</h3><center><img src="C4_Model/context.png" alt="Level 1"></center>
+            <h3>Level 2: Container Diagram</h3> <center><img src="C4_Model/container.png" alt="Level 2"></center>
+            <h3>Level 3: Component Diagram</h3> <center><img src="C4_Model/component.png" alt="Level 3"></center>
+            <h3>Level 4: Code Diagram</h3><center><img src="C4_Model/code.png" alt="Level 4"></center>
+        </section>
+
+        <section id="video">
+            <hr>
+        <center><h2>Video Demo</h2>
+            <video  width="1000px" height="" controls>
+                <source src="YT_gif.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </center>
+        </section>
+        <section id="results">
+            <hr>
+        <center><h2>Results</h2></center>
+            <h3>Home Page: </h3><center><img src="Results/HomePage.PNG" alt="Home Page"></center>
+            <h3>About Page: </h3> <center><img src="Results/AboutPage.PNG" alt="About Page"></center>
+            <h3>Classification Page:</h3> <center><img src="Results/ClassificationPage.PNG" alt="Classification Page"></center>
+            <h3>User Input</h3><center><img src="Results/UserInput.PNG" alt="User Input"></center>
+            <h3>Results: </h3> <center><img src="Results/Result1.1.PNG"></center>
+            <h3>Sentiment Analysis: </h3> <center><img src="Results/Result1.2.PNG"></center>
+            <h3> </h3> <center><img src="Results/Result1.3.PNG"></center>
+            <h3></h3> <center><img src="Results/Result1.4.PNG"></center>
+            <h3></h3> <center><img src="Results/Result1.5.PNG"></center>
+            <h3></h3> <center><img src="Results/Result1.6.PNG"></center>
+
+        </section>
+        <section id="code">
+            <hr>
+        <center><h2>GitHub Link</h2>
+            <a href="https://github.com/RincisM/Responsive_AI/tree/main/Ethical_AI"> <button>Ethical AI GitHub Page</button></a>
+        </center>
+           
+        </section>
+        <hr>
+    </main>
+</body>
+</html>
